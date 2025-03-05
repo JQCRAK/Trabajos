@@ -1,0 +1,11 @@
+--Creando dos tablas en la bases de datos llamado Taller2
+--CREATE TABLE  Ordenes (
+--num_orden INTEGER NOT NULL PRIMARY KEY,
+--fecha_orden DATETIME, 
+--nombre_cliente VARCHAR(80),)
+
+CREATE TABLE Orden_item(
+num_orden INTEGER	NOT NULL,
+item_num SMALLINT NOT NULL,
+PRIMARY KEY(num_orden,item_num),
+FOREIGN KEY(num_orden) REFERENCES Ordenes(num_orden))

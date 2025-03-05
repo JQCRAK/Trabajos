@@ -1,0 +1,65 @@
+-- Crear tabla PROVINCIA
+
+CREATE TABLE PROVINCIA (
+  idProvincia CHAR(5) PRIMARY KEY,
+  nombre VARCHAR(70) NOT NULL
+);
+--Crear tabla CIUDAD
+CREATE TABLE CIUDAD(
+idCiudad CHAR(8) PRIMARY KEY,
+nombre varchar(70) NOT NULL,
+idProvincia CHAR(5) NOT NULL
+FOREIGN KEY (idProvincia) REFERENCES PROVINCIA(idProvincia)
+);
+
+ --Crear tabla TIPOCLI
+CREATE TABLE TIPOCLI (
+    idTipo CHAR(1) PRIMARY KEY,
+    descripcion VARCHAR(70) NOT NULL,
+    CONSTRAINT chk_idTipo CHECK (idTipo IN ('0', '1', '2')),
+    CONSTRAINT chk_descripcion CHECK (descripcion IN ('consumidor final', 'natural con cédula', 'jurídica con RUC'))
+);
+
+
+--Crear tabla ESTADO_COMPRA
+CREATE TABLE ESTADO_COMPRA(
+idEstadoOC CHAR(1) PRIMARY KEY,
+descripcion VARCHAR(70) NOT NULL,
+CONSTRAINT chk_idEstadoOC CHECK (idEstadoOC IN ('0', '1', '2','3')),
+CONSTRAINT chk_descripcion1 CHECK (descripcion IN ('pedido de compra', 'pago realizado', 'pendiente de entrega','realizada la entrega'))
+);
+--Crear tabla VENDEDOR
+CREATE TABLE VENDEDOR(
+idVen char(8) PRIMARY KEY,
+nombreVen VARCHAR(70) NOT NULL,
+sexo CHAR(1) NOT NULL CHECK (sexo IN ('H', 'M')),
+salario DECIMAL (10,2) NOT NULL, 
+fechaIngreso DATE NOT NULL,
+vigencia DATE NOT NULL
+);
+
+--Crear Tabla ORDEN_COMPRA
+CREATE TABLE ORDEN_COMPRA(
+numOC INT IDENTITY(1,1) PRIMARY KEY,
+idVen CHAR(8) NOT NULL,
+
+);
+
+--Crear Tabla CLIENTE
+CREATE TABLE CLIENTE(
+idCli INT PRIMARY KEY,
+apellidoCli VARCHAR(70) NOT NULL,
+nombreCli VARCHAR(70) NOT NULL,
+ciudadResidencia CHAR (8) NOT NULL,
+tipoCli CHAR(1) NOT NULL
+FOREIGN KEY (ciudadResidencia) REFERENCES CIUDAD(idCiudad),
+FOREIGN KEY (tipoCli) REFERENCES TIPOCLI(idTipo)
+);
+
+
+
+
+
+
+
+DROP TABLE ESTADO_COMPRA
