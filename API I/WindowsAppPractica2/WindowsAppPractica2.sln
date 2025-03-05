@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsAppPractica2", "WindowsAppPractica2\WindowsAppPractica2.csproj", "{B3451CA8-E797-49A7-B064-930BA27D7F56}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsAppCalcularnumcifras", "..\..\..\..\source\repos\WindowsAppCalcularnumcifras\WindowsAppCalcularnumcifras\WindowsAppCalcularnumcifras.csproj", "{815BC2AF-D27B-4B20-89B3-DE97E5B04296}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B3451CA8-E797-49A7-B064-930BA27D7F56}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3451CA8-E797-49A7-B064-930BA27D7F56}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3451CA8-E797-49A7-B064-930BA27D7F56}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3451CA8-E797-49A7-B064-930BA27D7F56}.Release|Any CPU.Build.0 = Release|Any CPU
+		{815BC2AF-D27B-4B20-89B3-DE97E5B04296}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{815BC2AF-D27B-4B20-89B3-DE97E5B04296}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{815BC2AF-D27B-4B20-89B3-DE97E5B04296}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{815BC2AF-D27B-4B20-89B3-DE97E5B04296}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {132B4414-259A-49BF-B7F7-1D0013AEC0D0}
+	EndGlobalSection
+EndGlobal

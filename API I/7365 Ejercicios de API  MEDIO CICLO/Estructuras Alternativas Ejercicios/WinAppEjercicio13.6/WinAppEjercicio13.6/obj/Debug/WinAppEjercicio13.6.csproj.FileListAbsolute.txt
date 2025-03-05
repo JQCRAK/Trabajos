@@ -1,0 +1,16 @@
+C:\Users\Jostin\Documents\QUINTO\API I\Ejercicios de API  MEDIO CICLO\Estructuras Alternativas Ejercicios\WinAppEjercicio13.6\WinAppEjercicio13.6\bin\Debug\WinAppEjercicio13.6.exe.config
+C:\Users\Jostin\Documents\QUINTO\API I\Ejercicios de API  MEDIO CICLO\Estructuras Alternativas Ejercicios\WinAppEjercicio13.6\WinAppEjercicio13.6\bin\Debug\WinAppEjercicio13.6.exe
+C:\Users\Jostin\Documents\QUINTO\API I\Ejercicios de API  MEDIO CICLO\Estructuras Alternativas Ejercicios\WinAppEjercicio13.6\WinAppEjercicio13.6\bin\Debug\WinAppEjercicio13.6.pdb
+C:\Users\Jostin\Documents\QUINTO\API I\Ejercicios de API  MEDIO CICLO\Estructuras Alternativas Ejercicios\WinAppEjercicio13.6\WinAppEjercicio13.6\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\Jostin\Documents\QUINTO\API I\Ejercicios de API  MEDIO CICLO\Estructuras Alternativas Ejercicios\WinAppEjercicio13.6\WinAppEjercicio13.6\obj\Debug\WinAppEjercicio13.6.csproj.AssemblyReference.cache
+C:\Users\Jostin\Documents\QUINTO\API I\Ejercicios de API  MEDIO CICLO\Estructuras Alternativas Ejercicios\WinAppEjercicio13.6\WinAppEjercicio13.6\obj\Debug\WinAppEjercicio13._6.Form1.resources
+C:\Users\Jostin\Documents\QUINTO\API I\Ejercicios de API  MEDIO CICLO\Estructuras Alternativas Ejercicios\WinAppEjercicio13.6\WinAppEjercicio13.6\obj\Debug\WinAppEjercicio13._6.Properties.Resources.resources
+C:\Users\Jostin\Documents\QUINTO\API I\Ejercicios de API  MEDIO CICLO\Estructuras Alternativas Ejercicios\WinAppEjercicio13.6\WinAppEjercicio13.6\obj\Debug\WinAppEjercicio13._6.Ruleta.resources
+C:\Users\Jostin\Documents\QUINTO\API I\Ejercicios de API  MEDIO CICLO\Estructuras Alternativas Ejercicios\WinAppEjercicio13.6\WinAppEjercicio13.6\obj\Debug\WinAppEjercicio13.6.csproj.GenerateResource.cache
+C:\Users\Jostin\Documents\QUINTO\API I\Ejercicios de API  MEDIO CICLO\Estructuras Alternativas Ejercicios\WinAppEjercicio13.6\WinAppEjercicio13.6\obj\Debug\WinAppEjercicio13.6.csproj.CoreCompileInputs.cache
+C:\Users\Jostin\Documents\QUINTO\API I\Ejercicios de API  MEDIO CICLO\Estructuras Alternativas Ejercicios\WinAppEjercicio13.6\WinAppEjercicio13.6\obj\Debug\WinAppEj.EA11418B.Up2Date
+C:\Users\Jostin\Documents\QUINTO\API I\Ejercicios de API  MEDIO CICLO\Estructuras Alternativas Ejercicios\WinAppEjercicio13.6\WinAppEjercicio13.6\obj\Debug\WinAppEjercicio13.6.exe
+C:\Users\Jostin\Documents\QUINTO\API I\Ejercicios de API  MEDIO CICLO\Estructuras Alternativas Ejercicios\WinAppEjercicio13.6\WinAppEjercicio13.6\obj\Debug\WinAppEjercicio13.6.pdb
+C:\Users\Jostin\Documents\QUINTO\API I\Ejercicios de API  MEDIO CICLO\Estructuras Alternativas Ejercicios\WinAppEjercicio13.6\WinAppEjercicio13.6\obj\Debug\Interop.MediaPlayer.dll
+C:\Users\Jostin\Documents\QUINTO\API I\Ejercicios de API  MEDIO CICLO\Estructuras Alternativas Ejercicios\WinAppEjercicio13.6\WinAppEjercicio13.6\obj\Debug\Interop.WMPLib.dll
+C:\Users\Jostin\Documents\QUINTO\API I\Ejercicios de API  MEDIO CICLO\Estructuras Alternativas Ejercicios\WinAppEjercicio13.6\WinAppEjercicio13.6\obj\Debug\WinAppEjercicio13.6.csproj.ResolveComReference.cache

@@ -1,0 +1,207 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Analizador de Números</title>
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.3.2/css/bootstrap.min.css" rel="stylesheet">
+    <style>
+        body {
+            background: linear-gradient(-45deg, #ee7752, #e73c7e, #23a6d5, #23d5ab);
+            background-size: 400% 400%;
+            animation: gradient 15s ease infinite;
+            min-height: 100vh;
+            padding: 20px;
+        }
+
+        @keyframes gradient {
+            0% { background-position: 0% 50%; }
+            50% { background-position: 100% 50%; }
+            100% { background-position: 0% 50%; }
+        }
+
+        .main-container {
+            background: rgba(255, 255, 255, 0.9);
+            border-radius: 30px;
+            box-shadow: 0 8px 32px rgba(0, 0, 0, 0.1);
+            padding: 30px;
+            margin-top: 20px;
+            backdrop-filter: blur(8px);
+        }
+
+        h1 {
+            color: #e73c7e;
+            text-align: center;
+            margin-bottom: 30px;
+            font-weight: 800;
+            font-size: 2.8rem;
+            text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.1);
+        }
+
+        .input-section {
+            background: white;
+            border-radius: 20px;
+            padding: 25px;
+            margin-bottom: 20px;
+            box-shadow: 0 4px 15px rgba(0, 0, 0, 0.05);
+        }
+
+        .result-card {
+            background: white;
+            border-radius: 15px;
+            padding: 20px;
+            margin: 10px 0;
+            transition: all 0.3s ease;
+            border-left: 5px solid;
+        }
+
+        .result-card.perfecto { border-color: #23d5ab; }
+        .result-card.capicua { border-color: #23a6d5; }
+        .result-card.palindromo { border-color: #e73c7e; }
+        .result-card.factorial { border-color: #ee7752; }
+        .result-card.factorion { border-color: #9b59b6; }
+        .result-card.cifras { border-color: #3498db; }
+
+        .result-card h4 {
+            color: #2c3e50;
+            margin-bottom: 15px;
+        }
+
+        .result-value {
+            font-size: 1.2rem;
+            font-weight: 600;
+        }
+
+        .btn-analizar {
+            background: linear-gradient(45deg, #e73c7e, #23a6d5);
+            border: none;
+            color: white;
+            padding: 15px 30px;
+            border-radius: 50px;
+            font-weight: 600;
+            transition: all 0.3s ease;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+            width: 100%;
+        }
+
+        .btn-analizar:hover {
+            background: linear-gradient(45deg, #23a6d5, #e73c7e);
+            transform: translateY(-2px);
+            box-shadow: 0 5px 15px rgba(231, 60, 126, 0.4);
+            color: white;
+        }
+
+        .number-input {
+            border-radius: 15px;
+            padding: 15px 20px;
+            font-size: 1.2rem;
+            border: 2px solid #e0e0e0;
+            transition: all 0.3s ease;
+        }
+
+        .number-input:focus {
+            border-color: #23a6d5;
+            box-shadow: 0 0 0 0.2rem rgba(35, 166, 213, 0.25);
+        }
+
+        .info-text {
+            color: #666;
+            font-size: 0.9rem;
+            margin-top: 8px;
+        }
+
+        .result-explanation {
+            font-size: 0.9rem;
+            color: #666;
+            margin-top: 5px;
+        }
+
+        @keyframes slideIn {
+            from {
+                opacity: 0;
+                transform: translateY(20px);
+            }
+            to {
+                opacity: 1;
+                transform: translateY(0);
+            }
+        }
+
+        .animated {
+            animation: slideIn 0.5s ease forwards;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="main-container">
+            <h1>🔢 Analizador de Números</h1>
+            
+            <div class="row">
+                <div class="col-md-4">
+                    <div class="input-section">
+                        <h3 class="mb-4">Ingrese un número</h3>
+                        <div class="mb-3">
+                            <input 
+                                type="number" 
+                                class="form-control number-input" 
+                                id="numero"
+                                placeholder="Ej: 145"
+                                min="0"
+                            >
+                            <div class="info-text">Ingrese un número entero positivo</div>
+                        </div>
+                        <button class="btn btn-analizar" onclick="analizarNumero()">
+                            Analizar Número
+                        </button>
+                    </div>
+                </div>
+
+                <div class="col-md-8">
+                    <div class="results-section">
+                        <div class="result-card perfecto">
+                            <h4>Número Perfecto</h4>
+                            <div id="resultPerfecto" class="result-value">Pendiente de análisis</div>
+                            <div class="result-explanation">Un número es perfecto si es igual a la suma de sus divisores propios</div>
+                        </div>
+
+                        <div class="result-card capicua">
+                            <h4>Capicúa</h4>
+                            <div id="resultCapicua" class="result-value">Pendiente de análisis</div>
+                            <div class="result-explanation">Se lee igual de izquierda a derecha que de derecha a izquierda</div>
+                        </div>
+
+                        <div class="result-card palindromo">
+                            <h4>Palíndromo</h4>
+                            <div id="resultPalindromo" class="result-value">Pendiente de análisis</div>
+                            <div class="result-explanation">Similar a capicúa, pero considerando la representación en texto</div>
+                        </div>
+
+                        <div class="result-card factorial">
+                            <h4>Factorial</h4>
+                            <div id="resultFactorial" class="result-value">Pendiente de análisis</div>
+                            <div class="result-explanation">Producto de todos los números desde 1 hasta el número dado</div>
+                        </div>
+
+                        <div class="result-card factorion">
+                            <h4>Factorión</h4>
+                            <div id="resultFactorion" class="result-value">Pendiente de análisis</div>
+                            <div class="result-explanation">Un número igual a la suma del factorial de sus dígitos</div>
+                        </div>
+
+                        <div class="result-card cifras">
+                            <h4>Número de Cifras</h4>
+                            <div id="resultCifras" class="result-value">Pendiente de análisis</div>
+                            <div class="result-explanation">Cantidad total de dígitos que componen el número</div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.3.2/js/bootstrap.bundle.min.js"></script>
+    <script src="App2.js"></script>
+</body>
+</html>

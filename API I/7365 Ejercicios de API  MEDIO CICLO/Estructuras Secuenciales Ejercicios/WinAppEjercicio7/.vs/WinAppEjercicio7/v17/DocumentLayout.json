@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Jostin\\Documents\\QUINTO\\API I\\Ejercicios de API  MEDIO CICLO\\Estructuras Secuenciales Ejercicios\\WinAppEjercicio7\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{74A035E1-E63F-41CA-B2A2-AFC948334A8B}|WinAppEjercicio7\\WinAppEjercicio7.csproj|C:\\Users\\Jostin\\Documents\\QUINTO\\API I\\Ejercicios de API  MEDIO CICLO\\Estructuras Secuenciales Ejercicios\\WinAppEjercicio7\\winappejercicio7\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74A035E1-E63F-41CA-B2A2-AFC948334A8B}|WinAppEjercicio7\\WinAppEjercicio7.csproj|solutionrelative:winappejercicio7\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74A035E1-E63F-41CA-B2A2-AFC948334A8B}|WinAppEjercicio7\\WinAppEjercicio7.csproj|C:\\Users\\Jostin\\Documents\\QUINTO\\API I\\Ejercicios de API  MEDIO CICLO\\Estructuras Secuenciales Ejercicios\\WinAppEjercicio7\\winappejercicio7\\calornecesarioparas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74A035E1-E63F-41CA-B2A2-AFC948334A8B}|WinAppEjercicio7\\WinAppEjercicio7.csproj|solutionrelative:winappejercicio7\\calornecesarioparas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74A035E1-E63F-41CA-B2A2-AFC948334A8B}|WinAppEjercicio7\\WinAppEjercicio7.csproj|c:\\users\\jostin\\documents\\quinto\\api i\\ejercicios de api  medio ciclo\\estructuras secuenciales ejercicios\\winappejercicio7\\winappejercicio7\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{74A035E1-E63F-41CA-B2A2-AFC948334A8B}|WinAppEjercicio7\\WinAppEjercicio7.csproj|solutionrelative:winappejercicio7\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Jostin\\Documents\\QUINTO\\API I\\Ejercicios de API  MEDIO CICLO\\Estructuras Secuenciales Ejercicios\\WinAppEjercicio7\\WinAppEjercicio7\\Form1.cs",
+              "RelativeDocumentMoniker": "WinAppEjercicio7\\Form1.cs",
+              "ToolTip": "C:\\Users\\Jostin\\Documents\\QUINTO\\API I\\Ejercicios de API  MEDIO CICLO\\Estructuras Secuenciales Ejercicios\\WinAppEjercicio7\\WinAppEjercicio7\\Form1.cs",
+              "RelativeToolTip": "WinAppEjercicio7\\Form1.cs",
+              "ViewState": "AgIAAFsAAAAAAAAAAAAwwGIAAABjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T20:36:49.533Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CalorNecesarioparaS.cs",
+              "DocumentMoniker": "C:\\Users\\Jostin\\Documents\\QUINTO\\API I\\Ejercicios de API  MEDIO CICLO\\Estructuras Secuenciales Ejercicios\\WinAppEjercicio7\\WinAppEjercicio7\\CalorNecesarioparaS.cs",
+              "RelativeDocumentMoniker": "WinAppEjercicio7\\CalorNecesarioparaS.cs",
+              "ToolTip": "C:\\Users\\Jostin\\Documents\\QUINTO\\API I\\Ejercicios de API  MEDIO CICLO\\Estructuras Secuenciales Ejercicios\\WinAppEjercicio7\\WinAppEjercicio7\\CalorNecesarioparaS.cs",
+              "RelativeToolTip": "WinAppEjercicio7\\CalorNecesarioparaS.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T20:25:30.214Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Jostin\\Documents\\QUINTO\\API I\\Ejercicios de API  MEDIO CICLO\\Estructuras Secuenciales Ejercicios\\WinAppEjercicio7\\WinAppEjercicio7\\Form1.cs",
+              "RelativeDocumentMoniker": "WinAppEjercicio7\\Form1.cs",
+              "ToolTip": "C:\\Users\\Jostin\\Documents\\QUINTO\\API I\\Ejercicios de API  MEDIO CICLO\\Estructuras Secuenciales Ejercicios\\WinAppEjercicio7\\WinAppEjercicio7\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "WinAppEjercicio7\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T19:47:10.791Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

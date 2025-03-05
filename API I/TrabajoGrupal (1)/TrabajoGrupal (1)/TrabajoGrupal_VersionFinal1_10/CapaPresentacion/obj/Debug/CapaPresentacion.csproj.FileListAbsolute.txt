@@ -1,0 +1,290 @@
+C:\Users\Jostin\source\repos\TrabajoGrupal\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+C:\Users\Jostin\source\repos\TrabajoGrupal\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+C:\Users\Jostin\source\repos\TrabajoGrupal\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+C:\Users\Jostin\source\repos\TrabajoGrupal\CapaPresentacion\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\Jostin\source\repos\TrabajoGrupal\CapaPresentacion\bin\Debug\CapaEntidades.dll
+C:\Users\Jostin\source\repos\TrabajoGrupal\CapaPresentacion\bin\Debug\CapaLogica.dll
+C:\Users\Jostin\source\repos\TrabajoGrupal\CapaPresentacion\bin\Debug\Google.Protobuf.dll
+C:\Users\Jostin\source\repos\TrabajoGrupal\CapaPresentacion\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Jostin\source\repos\TrabajoGrupal\CapaPresentacion\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Jostin\source\repos\TrabajoGrupal\CapaPresentacion\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Jostin\source\repos\TrabajoGrupal\CapaPresentacion\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Jostin\source\repos\TrabajoGrupal\CapaPresentacion\bin\Debug\MySql.Data.dll
+C:\Users\Jostin\source\repos\TrabajoGrupal\CapaPresentacion\bin\Debug\System.Buffers.dll
+C:\Users\Jostin\source\repos\TrabajoGrupal\CapaPresentacion\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Jostin\source\repos\TrabajoGrupal\CapaPresentacion\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Jostin\source\repos\TrabajoGrupal\CapaPresentacion\bin\Debug\System.IO.Pipelines.dll
+C:\Users\Jostin\source\repos\TrabajoGrupal\CapaPresentacion\bin\Debug\System.Memory.dll
+C:\Users\Jostin\source\repos\TrabajoGrupal\CapaPresentacion\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Jostin\source\repos\TrabajoGrupal\CapaPresentacion\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Jostin\source\repos\TrabajoGrupal\CapaPresentacion\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Jostin\source\repos\TrabajoGrupal\CapaPresentacion\bin\Debug\ZstdSharp.dll
+C:\Users\Jostin\source\repos\TrabajoGrupal\CapaPresentacion\bin\Debug\CapaDatos.dll
+C:\Users\Jostin\source\repos\TrabajoGrupal\CapaPresentacion\bin\Debug\CapaEntidades.pdb
+C:\Users\Jostin\source\repos\TrabajoGrupal\CapaPresentacion\bin\Debug\CapaLogica.pdb
+C:\Users\Jostin\source\repos\TrabajoGrupal\CapaPresentacion\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\Jostin\source\repos\TrabajoGrupal\CapaPresentacion\bin\Debug\Google.Protobuf.pdb
+C:\Users\Jostin\source\repos\TrabajoGrupal\CapaPresentacion\bin\Debug\Google.Protobuf.xml
+C:\Users\Jostin\source\repos\TrabajoGrupal\CapaPresentacion\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Jostin\source\repos\TrabajoGrupal\CapaPresentacion\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Jostin\source\repos\TrabajoGrupal\CapaPresentacion\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Jostin\source\repos\TrabajoGrupal\CapaPresentacion\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Jostin\source\repos\TrabajoGrupal\CapaPresentacion\bin\Debug\MySql.Data.xml
+C:\Users\Jostin\source\repos\TrabajoGrupal\CapaPresentacion\bin\Debug\System.Buffers.xml
+C:\Users\Jostin\source\repos\TrabajoGrupal\CapaPresentacion\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\Jostin\source\repos\TrabajoGrupal\CapaPresentacion\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Jostin\source\repos\TrabajoGrupal\CapaPresentacion\bin\Debug\System.IO.Pipelines.xml
+C:\Users\Jostin\source\repos\TrabajoGrupal\CapaPresentacion\bin\Debug\System.Memory.xml
+C:\Users\Jostin\source\repos\TrabajoGrupal\CapaPresentacion\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Jostin\source\repos\TrabajoGrupal\CapaPresentacion\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Jostin\source\repos\TrabajoGrupal\CapaPresentacion\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Jostin\source\repos\TrabajoGrupal\CapaPresentacion\bin\Debug\CapaDatos.pdb
+C:\Users\Jostin\source\repos\TrabajoGrupal\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.AssemblyReference.cache
+C:\Users\Jostin\source\repos\TrabajoGrupal\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.SuggestedBindingRedirects.cache
+C:\Users\Jostin\source\repos\TrabajoGrupal\CapaPresentacion\obj\Debug\CapaPresentacion.exe.config
+C:\Users\Jostin\source\repos\TrabajoGrupal\CapaPresentacion\obj\Debug\CapaPresentacion.Form1.resources
+C:\Users\Jostin\source\repos\TrabajoGrupal\CapaPresentacion\obj\Debug\CapaPresentacion.FRMPROVEDOR.resources
+C:\Users\Jostin\source\repos\TrabajoGrupal\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\Users\Jostin\source\repos\TrabajoGrupal\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\Jostin\source\repos\TrabajoGrupal\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\Jostin\source\repos\TrabajoGrupal\CapaPresentacion\obj\Debug\CapaPres.61CA7C38.Up2Date
+C:\Users\Jostin\source\repos\TrabajoGrupal\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+C:\Users\Jostin\source\repos\TrabajoGrupal\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+C:\Users\Jostin\source\repos\TrabajoGrupal\CapaPresentacion\obj\Debug\CapaPresentacion.FRMCATEGORIA.resources
+C:\Users\Jostin\source\repos\TrabajoGrupal\CapaPresentacion\obj\Debug\CapaPresentacion.FRMPIEZA.resources
+C:\Users\Jostin\source\repos\TrabajoGrupal\CapaPresentacion\obj\Debug\CapaPresentacion.FRMSUMINISTRAR.resources
+C:\Users\Jostin\Documents\QUINTO\API I\TrabajoGrupal (1)\TrabajoGrupal (1)\TrabajoGrupal\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+C:\Users\Jostin\Documents\QUINTO\API I\TrabajoGrupal (1)\TrabajoGrupal (1)\TrabajoGrupal\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+C:\Users\Jostin\Documents\QUINTO\API I\TrabajoGrupal (1)\TrabajoGrupal (1)\TrabajoGrupal\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+C:\Users\Jostin\Documents\QUINTO\API I\TrabajoGrupal (1)\TrabajoGrupal (1)\TrabajoGrupal\CapaPresentacion\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\Jostin\Documents\QUINTO\API I\TrabajoGrupal (1)\TrabajoGrupal (1)\TrabajoGrupal\CapaPresentacion\bin\Debug\CapaEntidades.dll
+C:\Users\Jostin\Documents\QUINTO\API I\TrabajoGrupal (1)\TrabajoGrupal (1)\TrabajoGrupal\CapaPresentacion\bin\Debug\CapaLogica.dll
+C:\Users\Jostin\Documents\QUINTO\API I\TrabajoGrupal (1)\TrabajoGrupal (1)\TrabajoGrupal\CapaPresentacion\bin\Debug\Google.Protobuf.dll
+C:\Users\Jostin\Documents\QUINTO\API I\TrabajoGrupal (1)\TrabajoGrupal (1)\TrabajoGrupal\CapaPresentacion\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Jostin\Documents\QUINTO\API I\TrabajoGrupal (1)\TrabajoGrupal (1)\TrabajoGrupal\CapaPresentacion\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Jostin\Documents\QUINTO\API I\TrabajoGrupal (1)\TrabajoGrupal (1)\TrabajoGrupal\CapaPresentacion\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Jostin\Documents\QUINTO\API I\TrabajoGrupal (1)\TrabajoGrupal (1)\TrabajoGrupal\CapaPresentacion\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Jostin\Documents\QUINTO\API I\TrabajoGrupal (1)\TrabajoGrupal (1)\TrabajoGrupal\CapaPresentacion\bin\Debug\MySql.Data.dll
+C:\Users\Jostin\Documents\QUINTO\API I\TrabajoGrupal (1)\TrabajoGrupal (1)\TrabajoGrupal\CapaPresentacion\bin\Debug\System.Buffers.dll
+C:\Users\Jostin\Documents\QUINTO\API I\TrabajoGrupal (1)\TrabajoGrupal (1)\TrabajoGrupal\CapaPresentacion\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Jostin\Documents\QUINTO\API I\TrabajoGrupal (1)\TrabajoGrupal (1)\TrabajoGrupal\CapaPresentacion\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Jostin\Documents\QUINTO\API I\TrabajoGrupal (1)\TrabajoGrupal (1)\TrabajoGrupal\CapaPresentacion\bin\Debug\System.IO.Pipelines.dll
+C:\Users\Jostin\Documents\QUINTO\API I\TrabajoGrupal (1)\TrabajoGrupal (1)\TrabajoGrupal\CapaPresentacion\bin\Debug\System.Memory.dll
+C:\Users\Jostin\Documents\QUINTO\API I\TrabajoGrupal (1)\TrabajoGrupal (1)\TrabajoGrupal\CapaPresentacion\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Jostin\Documents\QUINTO\API I\TrabajoGrupal (1)\TrabajoGrupal (1)\TrabajoGrupal\CapaPresentacion\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Jostin\Documents\QUINTO\API I\TrabajoGrupal (1)\TrabajoGrupal (1)\TrabajoGrupal\CapaPresentacion\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Jostin\Documents\QUINTO\API I\TrabajoGrupal (1)\TrabajoGrupal (1)\TrabajoGrupal\CapaPresentacion\bin\Debug\ZstdSharp.dll
+C:\Users\Jostin\Documents\QUINTO\API I\TrabajoGrupal (1)\TrabajoGrupal (1)\TrabajoGrupal\CapaPresentacion\bin\Debug\CapaDatos.dll
+C:\Users\Jostin\Documents\QUINTO\API I\TrabajoGrupal (1)\TrabajoGrupal (1)\TrabajoGrupal\CapaPresentacion\bin\Debug\CapaEntidades.pdb
+C:\Users\Jostin\Documents\QUINTO\API I\TrabajoGrupal (1)\TrabajoGrupal (1)\TrabajoGrupal\CapaPresentacion\bin\Debug\CapaLogica.pdb
+C:\Users\Jostin\Documents\QUINTO\API I\TrabajoGrupal (1)\TrabajoGrupal (1)\TrabajoGrupal\CapaPresentacion\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\Jostin\Documents\QUINTO\API I\TrabajoGrupal (1)\TrabajoGrupal (1)\TrabajoGrupal\CapaPresentacion\bin\Debug\Google.Protobuf.pdb
+C:\Users\Jostin\Documents\QUINTO\API I\TrabajoGrupal (1)\TrabajoGrupal (1)\TrabajoGrupal\CapaPresentacion\bin\Debug\Google.Protobuf.xml
+C:\Users\Jostin\Documents\QUINTO\API I\TrabajoGrupal (1)\TrabajoGrupal (1)\TrabajoGrupal\CapaPresentacion\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Jostin\Documents\QUINTO\API I\TrabajoGrupal (1)\TrabajoGrupal (1)\TrabajoGrupal\CapaPresentacion\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Jostin\Documents\QUINTO\API I\TrabajoGrupal (1)\TrabajoGrupal (1)\TrabajoGrupal\CapaPresentacion\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Jostin\Documents\QUINTO\API I\TrabajoGrupal (1)\TrabajoGrupal (1)\TrabajoGrupal\CapaPresentacion\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Jostin\Documents\QUINTO\API I\TrabajoGrupal (1)\TrabajoGrupal (1)\TrabajoGrupal\CapaPresentacion\bin\Debug\MySql.Data.xml
+C:\Users\Jostin\Documents\QUINTO\API I\TrabajoGrupal (1)\TrabajoGrupal (1)\TrabajoGrupal\CapaPresentacion\bin\Debug\System.Buffers.xml
+C:\Users\Jostin\Documents\QUINTO\API I\TrabajoGrupal (1)\TrabajoGrupal (1)\TrabajoGrupal\CapaPresentacion\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\Jostin\Documents\QUINTO\API I\TrabajoGrupal (1)\TrabajoGrupal (1)\TrabajoGrupal\CapaPresentacion\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Jostin\Documents\QUINTO\API I\TrabajoGrupal (1)\TrabajoGrupal (1)\TrabajoGrupal\CapaPresentacion\bin\Debug\System.IO.Pipelines.xml
+C:\Users\Jostin\Documents\QUINTO\API I\TrabajoGrupal (1)\TrabajoGrupal (1)\TrabajoGrupal\CapaPresentacion\bin\Debug\System.Memory.xml
+C:\Users\Jostin\Documents\QUINTO\API I\TrabajoGrupal (1)\TrabajoGrupal (1)\TrabajoGrupal\CapaPresentacion\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Jostin\Documents\QUINTO\API I\TrabajoGrupal (1)\TrabajoGrupal (1)\TrabajoGrupal\CapaPresentacion\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Jostin\Documents\QUINTO\API I\TrabajoGrupal (1)\TrabajoGrupal (1)\TrabajoGrupal\CapaPresentacion\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Jostin\Documents\QUINTO\API I\TrabajoGrupal (1)\TrabajoGrupal (1)\TrabajoGrupal\CapaPresentacion\bin\Debug\CapaDatos.pdb
+C:\Users\Jostin\Documents\QUINTO\API I\TrabajoGrupal (1)\TrabajoGrupal (1)\TrabajoGrupal\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.AssemblyReference.cache
+C:\Users\Jostin\Documents\QUINTO\API I\TrabajoGrupal (1)\TrabajoGrupal (1)\TrabajoGrupal\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.SuggestedBindingRedirects.cache
+C:\Users\Jostin\Documents\QUINTO\API I\TrabajoGrupal (1)\TrabajoGrupal (1)\TrabajoGrupal\CapaPresentacion\obj\Debug\CapaPresentacion.exe.config
+C:\Users\Jostin\Documents\QUINTO\API I\TrabajoGrupal (1)\TrabajoGrupal (1)\TrabajoGrupal\CapaPresentacion\obj\Debug\CapaPresentacion.Form1.resources
+C:\Users\Jostin\Documents\QUINTO\API I\TrabajoGrupal (1)\TrabajoGrupal (1)\TrabajoGrupal\CapaPresentacion\obj\Debug\CapaPresentacion.frmBuscar.resources
+C:\Users\Jostin\Documents\QUINTO\API I\TrabajoGrupal (1)\TrabajoGrupal (1)\TrabajoGrupal\CapaPresentacion\obj\Debug\CapaPresentacion.FRMCATEGORIA.resources
+C:\Users\Jostin\Documents\QUINTO\API I\TrabajoGrupal (1)\TrabajoGrupal (1)\TrabajoGrupal\CapaPresentacion\obj\Debug\CapaPresentacion.FRMPIEZA.resources
+C:\Users\Jostin\Documents\QUINTO\API I\TrabajoGrupal (1)\TrabajoGrupal (1)\TrabajoGrupal\CapaPresentacion\obj\Debug\CapaPresentacion.FRMPROVEDOR.resources
+C:\Users\Jostin\Documents\QUINTO\API I\TrabajoGrupal (1)\TrabajoGrupal (1)\TrabajoGrupal\CapaPresentacion\obj\Debug\CapaPresentacion.FRMSUMINISTRAR.resources
+C:\Users\Jostin\Documents\QUINTO\API I\TrabajoGrupal (1)\TrabajoGrupal (1)\TrabajoGrupal\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\Users\Jostin\Documents\QUINTO\API I\TrabajoGrupal (1)\TrabajoGrupal (1)\TrabajoGrupal\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\Jostin\Documents\QUINTO\API I\TrabajoGrupal (1)\TrabajoGrupal (1)\TrabajoGrupal\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\Jostin\Documents\QUINTO\API I\TrabajoGrupal (1)\TrabajoGrupal (1)\TrabajoGrupal\CapaPresentacion\obj\Debug\CapaPres.61CA7C38.Up2Date
+C:\Users\Jostin\Documents\QUINTO\API I\TrabajoGrupal (1)\TrabajoGrupal (1)\TrabajoGrupal\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+C:\Users\Jostin\Documents\QUINTO\API I\TrabajoGrupal (1)\TrabajoGrupal (1)\TrabajoGrupal\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+C:\Users\Jostin\Documents\QUINTO\API I\TrabajoGrupal (1)\TrabajoGrupal (1)\TrabajoGrupal\CapaPresentacion\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Jostin\Documents\QUINTO\API I\TrabajoGrupal (1)\TrabajoGrupal (1)\TrabajoGrupal\CapaPresentacion\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Jostin\Documents\QUINTO\API I\TrabajoGrupal (1)\TrabajoGrupal (1)\TrabajoGrupal\CapaPresentacion\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Jostin\Documents\QUINTO\API I\TrabajoGrupal (1)\TrabajoGrupal (1)\TrabajoGrupal\CapaPresentacion\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Jostin\Documents\QUINTO\API I\TrabajoGrupal (1)\TrabajoGrupal (1)\TrabajoGrupal\CapaPresentacion\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Jostin\Documents\QUINTO\API I\TrabajoGrupal (1)\TrabajoGrupal (1)\TrabajoGrupal\CapaPresentacion\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Jostin\Documents\QUINTO\API I\TrabajoGrupal (1)\TrabajoGrupal (1)\TrabajoGrupal\CapaPresentacion\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Jostin\Documents\QUINTO\API I\TrabajoGrupal (1)\TrabajoGrupal (1)\TrabajoGrupal\CapaPresentacion\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Jostin\Documents\QUINTO\API I\TrabajoGrupal (1)\TrabajoGrupal (1)\TrabajoGrupal\CapaPresentacion\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Jostin\Documents\QUINTO\API I\TrabajoGrupal (1)\TrabajoGrupal (1)\TrabajoGrupal\CapaPresentacion\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Jostin\Documents\QUINTO\API I\TrabajoGrupal (1)\TrabajoGrupal (1)\TrabajoGrupal\CapaPresentacion\bin\Debug\EnvDTE.dll
+C:\Users\Jostin\Documents\QUINTO\API I\TrabajoGrupal (1)\TrabajoGrupal (1)\TrabajoGrupal\CapaPresentacion\bin\Debug\stdole.dll
+C:\Users\Jostin\Documents\QUINTO\API I\TrabajoGrupal (1)\TrabajoGrupal (1)\TrabajoGrupal\CapaPresentacion\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Jostin\Documents\QUINTO\API I\TrabajoGrupal (1)\TrabajoGrupal (1)\TrabajoGrupal\CapaPresentacion\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Jostin\Documents\QUINTO\API I\TrabajoGrupal (1)\TrabajoGrupal (1)\TrabajoGrupal\CapaPresentacion\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Jostin\Documents\QUINTO\API I\TrabajoGrupal (1)\TrabajoGrupal (1)\TrabajoGrupal\CapaPresentacion\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Jostin\Documents\QUINTO\API I\TrabajoGrupal (1)\TrabajoGrupal (1)\TrabajoGrupal\CapaPresentacion\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Jostin\Documents\QUINTO\API I\TrabajoGrupal (1)\TrabajoGrupal (1)\TrabajoGrupal\CapaPresentacion\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Jostin\Documents\QUINTO\API I\TrabajoGrupal (1)\TrabajoGrupal (1)\TrabajoGrupal\CapaPresentacion\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Jostin\Documents\QUINTO\API I\TrabajoGrupal (1)\TrabajoGrupal (1)\TrabajoGrupal\CapaPresentacion\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Jostin\Documents\QUINTO\API I\TrabajoGrupal (1)\TrabajoGrupal (1)\TrabajoGrupal\CapaPresentacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Jostin\Documents\QUINTO\API I\TrabajoGrupal (1)\TrabajoGrupal (1)\TrabajoGrupal\CapaPresentacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Jostin\Documents\QUINTO\API I\TrabajoGrupal (1)\TrabajoGrupal (1)\TrabajoGrupal\CapaPresentacion\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Jostin\Documents\QUINTO\API I\TrabajoGrupal (1)\TrabajoGrupal (1)\TrabajoGrupal\CapaPresentacion\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Jostin\Documents\QUINTO\API I\TrabajoGrupal (1)\TrabajoGrupal (1)\TrabajoGrupal\CapaPresentacion\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Jostin\Documents\QUINTO\API I\TrabajoGrupal (1)\TrabajoGrupal (1)\TrabajoGrupal\CapaPresentacion\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Jostin\Documents\QUINTO\API I\TrabajoGrupal (1)\TrabajoGrupal (1)\TrabajoGrupal\CapaPresentacion\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Jostin\Documents\QUINTO\API I\TrabajoGrupal (1)\TrabajoGrupal (1)\TrabajoGrupal\CapaPresentacion\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Jostin\Documents\QUINTO\API I\TrabajoGrupal (1)\TrabajoGrupal (1)\TrabajoGrupal\CapaPresentacion\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Jostin\Documents\QUINTO\API I\TrabajoGrupal (1)\TrabajoGrupal (1)\TrabajoGrupal\CapaPresentacion\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Jostin\Documents\QUINTO\API I\TrabajoGrupal (1)\TrabajoGrupal (1)\TrabajoGrupal\CapaPresentacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Jostin\Documents\QUINTO\API I\TrabajoGrupal (1)\TrabajoGrupal (1)\TrabajoGrupal\CapaPresentacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Jostin\Documents\QUINTO\API I\TrabajoGrupal (1)\TrabajoGrupal (1)\TrabajoGrupal\CapaPresentacion\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Jostin\Documents\QUINTO\API I\TrabajoGrupal (1)\TrabajoGrupal (1)\TrabajoGrupal\CapaPresentacion\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Jostin\Documents\QUINTO\API I\TrabajoGrupal (1)\TrabajoGrupal (1)\TrabajoGrupal\CapaPresentacion\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Jostin\Documents\QUINTO\API I\TrabajoGrupal (1)\TrabajoGrupal (1)\TrabajoGrupal\CapaPresentacion\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Jostin\Documents\QUINTO\API I\TrabajoGrupal (1)\TrabajoGrupal (1)\TrabajoGrupal\CapaPresentacion\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Jostin\Documents\QUINTO\API I\TrabajoGrupal (1)\TrabajoGrupal (1)\TrabajoGrupal\CapaPresentacion\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Jostin\Documents\QUINTO\API I\TrabajoGrupal (1)\TrabajoGrupal (1)\TrabajoGrupal\CapaPresentacion\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Jostin\Documents\QUINTO\API I\TrabajoGrupal (1)\TrabajoGrupal (1)\TrabajoGrupal\CapaPresentacion\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Jostin\Documents\QUINTO\API I\TrabajoGrupal (1)\TrabajoGrupal (1)\TrabajoGrupal\CapaPresentacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Jostin\Documents\QUINTO\API I\TrabajoGrupal (1)\TrabajoGrupal (1)\TrabajoGrupal\CapaPresentacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Jostin\Documents\QUINTO\API I\TrabajoGrupal (1)\TrabajoGrupal (1)\TrabajoGrupal\CapaPresentacion\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Jostin\Documents\QUINTO\API I\TrabajoGrupal (1)\TrabajoGrupal (1)\TrabajoGrupal\CapaPresentacion\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Jostin\Documents\QUINTO\API I\TrabajoGrupal (1)\TrabajoGrupal (1)\TrabajoGrupal\CapaPresentacion\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Jostin\Documents\QUINTO\API I\TrabajoGrupal (1)\TrabajoGrupal (1)\TrabajoGrupal\CapaPresentacion\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Jostin\Documents\QUINTO\API I\TrabajoGrupal (1)\TrabajoGrupal (1)\TrabajoGrupal\CapaPresentacion\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Jostin\Documents\QUINTO\API I\TrabajoGrupal (1)\TrabajoGrupal (1)\TrabajoGrupal\CapaPresentacion\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Jostin\Documents\QUINTO\API I\TrabajoGrupal (1)\TrabajoGrupal (1)\TrabajoGrupal\CapaPresentacion\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Jostin\Documents\QUINTO\API I\TrabajoGrupal (1)\TrabajoGrupal (1)\TrabajoGrupal\CapaPresentacion\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Jostin\Documents\QUINTO\API I\TrabajoGrupal (1)\TrabajoGrupal (1)\TrabajoGrupal\CapaPresentacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Jostin\Documents\QUINTO\API I\TrabajoGrupal (1)\TrabajoGrupal (1)\TrabajoGrupal\CapaPresentacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Jostin\Documents\QUINTO\API I\TrabajoGrupal (1)\TrabajoGrupal (1)\TrabajoGrupal\CapaPresentacion\obj\Debug\CapaPresentacion.FRMREPORTE1.resources
+C:\Users\Jostin\Documents\QUINTO\API I\TrabajoGrupal (1)\TrabajoGrupal (1)\TrabajoGrupal\CapaPresentacion\obj\Debug\CapaPresentacion.FRMREPORTE2.resources
+C:\Users\Jostin\Documents\QUINTO\API I\TrabajoGrupal (1)\TrabajoGrupal (1)\TrabajoGrupal\CapaPresentacion\obj\Debug\CapaPresentacion.FRMREPORTPIEZA.resources
+C:\Users\Jostin\Documents\QUINTO\API I\TrabajoGrupal (1)\TrabajoGrupal (1)\TrabajoGrupal\CapaPresentacion\obj\Debug\CapaPresentacion.FRMREPORTSUMINSITRO.resources
+C:\Users\Jostin\Documents\QUINTO\API I\TrabajoGrupal (1)\TrabajoGrupal (1)\TrabajoGrupal\CapaPresentacion\obj\Debug\CapaPresentacion.FRMELIMINAR.resources
+C:\Users\Jostin\Documents\QUINTO\API I\TrabajoGrupal (1)\TrabajoGrupal (1)\TrabajoGrupal\CapaPresentacion\obj\Debug\CapaPresentacion.FRMBUSCAREDITAR.resources
+C:\Users\Jostin\Documents\QUINTO\API I\TrabajoGrupal (1)\TrabajoGrupal (1)\TrabajoGrupal\CapaPresentacion\obj\Debug\CapaPresentacion.FRMEDITAR.resources
+C:\Users\Jostin\Documents\QUINTO\API I\TrabajoGrupal (1)\TrabajoGrupal (1)\TrabajoGrupal\CapaPresentacion\obj\Debug\CapaPresentacion.FRMREPORTERESUMENCATEGORIA.resources
+C:\Users\Jostin\Documents\QUINTO\API I\TrabajoGrupal (1)\TrabajoGrupal (1)\TrabajoGrupal\CapaPresentacion\obj\Debug\CapaPresentacion.FRMREPORTRESUMENPROVEDORES.resources
+C:\Users\Jostin\Documents\QUINTO\API I\TrabajoGrupal (1)\TrabajoGrupal (1)\TrabajoGrupal_VersionFinal\CapaPresentacion\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Jostin\Documents\QUINTO\API I\TrabajoGrupal (1)\TrabajoGrupal (1)\TrabajoGrupal_VersionFinal\CapaPresentacion\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Jostin\Documents\QUINTO\API I\TrabajoGrupal (1)\TrabajoGrupal (1)\TrabajoGrupal_VersionFinal\CapaPresentacion\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Jostin\Documents\QUINTO\API I\TrabajoGrupal (1)\TrabajoGrupal (1)\TrabajoGrupal_VersionFinal\CapaPresentacion\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Jostin\Documents\QUINTO\API I\TrabajoGrupal (1)\TrabajoGrupal (1)\TrabajoGrupal_VersionFinal\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+C:\Users\Jostin\Documents\QUINTO\API I\TrabajoGrupal (1)\TrabajoGrupal (1)\TrabajoGrupal_VersionFinal\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+C:\Users\Jostin\Documents\QUINTO\API I\TrabajoGrupal (1)\TrabajoGrupal (1)\TrabajoGrupal_VersionFinal\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+C:\Users\Jostin\Documents\QUINTO\API I\TrabajoGrupal (1)\TrabajoGrupal (1)\TrabajoGrupal_VersionFinal\CapaPresentacion\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\Jostin\Documents\QUINTO\API I\TrabajoGrupal (1)\TrabajoGrupal (1)\TrabajoGrupal_VersionFinal\CapaPresentacion\bin\Debug\CapaEntidades.dll
+C:\Users\Jostin\Documents\QUINTO\API I\TrabajoGrupal (1)\TrabajoGrupal (1)\TrabajoGrupal_VersionFinal\CapaPresentacion\bin\Debug\CapaLogica.dll
+C:\Users\Jostin\Documents\QUINTO\API I\TrabajoGrupal (1)\TrabajoGrupal (1)\TrabajoGrupal_VersionFinal\CapaPresentacion\bin\Debug\Google.Protobuf.dll
+C:\Users\Jostin\Documents\QUINTO\API I\TrabajoGrupal (1)\TrabajoGrupal (1)\TrabajoGrupal_VersionFinal\CapaPresentacion\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Jostin\Documents\QUINTO\API I\TrabajoGrupal (1)\TrabajoGrupal (1)\TrabajoGrupal_VersionFinal\CapaPresentacion\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Jostin\Documents\QUINTO\API I\TrabajoGrupal (1)\TrabajoGrupal (1)\TrabajoGrupal_VersionFinal\CapaPresentacion\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Jostin\Documents\QUINTO\API I\TrabajoGrupal (1)\TrabajoGrupal (1)\TrabajoGrupal_VersionFinal\CapaPresentacion\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Jostin\Documents\QUINTO\API I\TrabajoGrupal (1)\TrabajoGrupal (1)\TrabajoGrupal_VersionFinal\CapaPresentacion\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Jostin\Documents\QUINTO\API I\TrabajoGrupal (1)\TrabajoGrupal (1)\TrabajoGrupal_VersionFinal\CapaPresentacion\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Jostin\Documents\QUINTO\API I\TrabajoGrupal (1)\TrabajoGrupal (1)\TrabajoGrupal_VersionFinal\CapaPresentacion\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Jostin\Documents\QUINTO\API I\TrabajoGrupal (1)\TrabajoGrupal (1)\TrabajoGrupal_VersionFinal\CapaPresentacion\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Jostin\Documents\QUINTO\API I\TrabajoGrupal (1)\TrabajoGrupal (1)\TrabajoGrupal_VersionFinal\CapaPresentacion\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Jostin\Documents\QUINTO\API I\TrabajoGrupal (1)\TrabajoGrupal (1)\TrabajoGrupal_VersionFinal\CapaPresentacion\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Jostin\Documents\QUINTO\API I\TrabajoGrupal (1)\TrabajoGrupal (1)\TrabajoGrupal_VersionFinal\CapaPresentacion\bin\Debug\MySql.Data.dll
+C:\Users\Jostin\Documents\QUINTO\API I\TrabajoGrupal (1)\TrabajoGrupal (1)\TrabajoGrupal_VersionFinal\CapaPresentacion\bin\Debug\System.Buffers.dll
+C:\Users\Jostin\Documents\QUINTO\API I\TrabajoGrupal (1)\TrabajoGrupal (1)\TrabajoGrupal_VersionFinal\CapaPresentacion\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Jostin\Documents\QUINTO\API I\TrabajoGrupal (1)\TrabajoGrupal (1)\TrabajoGrupal_VersionFinal\CapaPresentacion\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Jostin\Documents\QUINTO\API I\TrabajoGrupal (1)\TrabajoGrupal (1)\TrabajoGrupal_VersionFinal\CapaPresentacion\bin\Debug\System.IO.Pipelines.dll
+C:\Users\Jostin\Documents\QUINTO\API I\TrabajoGrupal (1)\TrabajoGrupal (1)\TrabajoGrupal_VersionFinal\CapaPresentacion\bin\Debug\System.Memory.dll
+C:\Users\Jostin\Documents\QUINTO\API I\TrabajoGrupal (1)\TrabajoGrupal (1)\TrabajoGrupal_VersionFinal\CapaPresentacion\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Jostin\Documents\QUINTO\API I\TrabajoGrupal (1)\TrabajoGrupal (1)\TrabajoGrupal_VersionFinal\CapaPresentacion\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Jostin\Documents\QUINTO\API I\TrabajoGrupal (1)\TrabajoGrupal (1)\TrabajoGrupal_VersionFinal\CapaPresentacion\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Jostin\Documents\QUINTO\API I\TrabajoGrupal (1)\TrabajoGrupal (1)\TrabajoGrupal_VersionFinal\CapaPresentacion\bin\Debug\ZstdSharp.dll
+C:\Users\Jostin\Documents\QUINTO\API I\TrabajoGrupal (1)\TrabajoGrupal (1)\TrabajoGrupal_VersionFinal\CapaPresentacion\bin\Debug\CapaDatos.dll
+C:\Users\Jostin\Documents\QUINTO\API I\TrabajoGrupal (1)\TrabajoGrupal (1)\TrabajoGrupal_VersionFinal\CapaPresentacion\bin\Debug\EnvDTE.dll
+C:\Users\Jostin\Documents\QUINTO\API I\TrabajoGrupal (1)\TrabajoGrupal (1)\TrabajoGrupal_VersionFinal\CapaPresentacion\bin\Debug\stdole.dll
+C:\Users\Jostin\Documents\QUINTO\API I\TrabajoGrupal (1)\TrabajoGrupal (1)\TrabajoGrupal_VersionFinal\CapaPresentacion\bin\Debug\CapaEntidades.pdb
+C:\Users\Jostin\Documents\QUINTO\API I\TrabajoGrupal (1)\TrabajoGrupal (1)\TrabajoGrupal_VersionFinal\CapaPresentacion\bin\Debug\CapaLogica.pdb
+C:\Users\Jostin\Documents\QUINTO\API I\TrabajoGrupal (1)\TrabajoGrupal (1)\TrabajoGrupal_VersionFinal\CapaPresentacion\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\Jostin\Documents\QUINTO\API I\TrabajoGrupal (1)\TrabajoGrupal (1)\TrabajoGrupal_VersionFinal\CapaPresentacion\bin\Debug\Google.Protobuf.pdb
+C:\Users\Jostin\Documents\QUINTO\API I\TrabajoGrupal (1)\TrabajoGrupal (1)\TrabajoGrupal_VersionFinal\CapaPresentacion\bin\Debug\Google.Protobuf.xml
+C:\Users\Jostin\Documents\QUINTO\API I\TrabajoGrupal (1)\TrabajoGrupal (1)\TrabajoGrupal_VersionFinal\CapaPresentacion\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Jostin\Documents\QUINTO\API I\TrabajoGrupal (1)\TrabajoGrupal (1)\TrabajoGrupal_VersionFinal\CapaPresentacion\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Jostin\Documents\QUINTO\API I\TrabajoGrupal (1)\TrabajoGrupal (1)\TrabajoGrupal_VersionFinal\CapaPresentacion\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Jostin\Documents\QUINTO\API I\TrabajoGrupal (1)\TrabajoGrupal (1)\TrabajoGrupal_VersionFinal\CapaPresentacion\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Jostin\Documents\QUINTO\API I\TrabajoGrupal (1)\TrabajoGrupal (1)\TrabajoGrupal_VersionFinal\CapaPresentacion\bin\Debug\MySql.Data.xml
+C:\Users\Jostin\Documents\QUINTO\API I\TrabajoGrupal (1)\TrabajoGrupal (1)\TrabajoGrupal_VersionFinal\CapaPresentacion\bin\Debug\System.Buffers.xml
+C:\Users\Jostin\Documents\QUINTO\API I\TrabajoGrupal (1)\TrabajoGrupal (1)\TrabajoGrupal_VersionFinal\CapaPresentacion\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\Jostin\Documents\QUINTO\API I\TrabajoGrupal (1)\TrabajoGrupal (1)\TrabajoGrupal_VersionFinal\CapaPresentacion\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Jostin\Documents\QUINTO\API I\TrabajoGrupal (1)\TrabajoGrupal (1)\TrabajoGrupal_VersionFinal\CapaPresentacion\bin\Debug\System.IO.Pipelines.xml
+C:\Users\Jostin\Documents\QUINTO\API I\TrabajoGrupal (1)\TrabajoGrupal (1)\TrabajoGrupal_VersionFinal\CapaPresentacion\bin\Debug\System.Memory.xml
+C:\Users\Jostin\Documents\QUINTO\API I\TrabajoGrupal (1)\TrabajoGrupal (1)\TrabajoGrupal_VersionFinal\CapaPresentacion\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Jostin\Documents\QUINTO\API I\TrabajoGrupal (1)\TrabajoGrupal (1)\TrabajoGrupal_VersionFinal\CapaPresentacion\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Jostin\Documents\QUINTO\API I\TrabajoGrupal (1)\TrabajoGrupal (1)\TrabajoGrupal_VersionFinal\CapaPresentacion\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Jostin\Documents\QUINTO\API I\TrabajoGrupal (1)\TrabajoGrupal (1)\TrabajoGrupal_VersionFinal\CapaPresentacion\bin\Debug\CapaDatos.pdb
+C:\Users\Jostin\Documents\QUINTO\API I\TrabajoGrupal (1)\TrabajoGrupal (1)\TrabajoGrupal_VersionFinal\CapaPresentacion\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Jostin\Documents\QUINTO\API I\TrabajoGrupal (1)\TrabajoGrupal (1)\TrabajoGrupal_VersionFinal\CapaPresentacion\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Jostin\Documents\QUINTO\API I\TrabajoGrupal (1)\TrabajoGrupal (1)\TrabajoGrupal_VersionFinal\CapaPresentacion\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Jostin\Documents\QUINTO\API I\TrabajoGrupal (1)\TrabajoGrupal (1)\TrabajoGrupal_VersionFinal\CapaPresentacion\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Jostin\Documents\QUINTO\API I\TrabajoGrupal (1)\TrabajoGrupal (1)\TrabajoGrupal_VersionFinal\CapaPresentacion\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Jostin\Documents\QUINTO\API I\TrabajoGrupal (1)\TrabajoGrupal (1)\TrabajoGrupal_VersionFinal\CapaPresentacion\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Jostin\Documents\QUINTO\API I\TrabajoGrupal (1)\TrabajoGrupal (1)\TrabajoGrupal_VersionFinal\CapaPresentacion\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Jostin\Documents\QUINTO\API I\TrabajoGrupal (1)\TrabajoGrupal (1)\TrabajoGrupal_VersionFinal\CapaPresentacion\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Jostin\Documents\QUINTO\API I\TrabajoGrupal (1)\TrabajoGrupal (1)\TrabajoGrupal_VersionFinal\CapaPresentacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Jostin\Documents\QUINTO\API I\TrabajoGrupal (1)\TrabajoGrupal (1)\TrabajoGrupal_VersionFinal\CapaPresentacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Jostin\Documents\QUINTO\API I\TrabajoGrupal (1)\TrabajoGrupal (1)\TrabajoGrupal_VersionFinal\CapaPresentacion\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Jostin\Documents\QUINTO\API I\TrabajoGrupal (1)\TrabajoGrupal (1)\TrabajoGrupal_VersionFinal\CapaPresentacion\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Jostin\Documents\QUINTO\API I\TrabajoGrupal (1)\TrabajoGrupal (1)\TrabajoGrupal_VersionFinal\CapaPresentacion\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Jostin\Documents\QUINTO\API I\TrabajoGrupal (1)\TrabajoGrupal (1)\TrabajoGrupal_VersionFinal\CapaPresentacion\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Jostin\Documents\QUINTO\API I\TrabajoGrupal (1)\TrabajoGrupal (1)\TrabajoGrupal_VersionFinal\CapaPresentacion\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Jostin\Documents\QUINTO\API I\TrabajoGrupal (1)\TrabajoGrupal (1)\TrabajoGrupal_VersionFinal\CapaPresentacion\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Jostin\Documents\QUINTO\API I\TrabajoGrupal (1)\TrabajoGrupal (1)\TrabajoGrupal_VersionFinal\CapaPresentacion\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Jostin\Documents\QUINTO\API I\TrabajoGrupal (1)\TrabajoGrupal (1)\TrabajoGrupal_VersionFinal\CapaPresentacion\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Jostin\Documents\QUINTO\API I\TrabajoGrupal (1)\TrabajoGrupal (1)\TrabajoGrupal_VersionFinal\CapaPresentacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Jostin\Documents\QUINTO\API I\TrabajoGrupal (1)\TrabajoGrupal (1)\TrabajoGrupal_VersionFinal\CapaPresentacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Jostin\Documents\QUINTO\API I\TrabajoGrupal (1)\TrabajoGrupal (1)\TrabajoGrupal_VersionFinal\CapaPresentacion\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Jostin\Documents\QUINTO\API I\TrabajoGrupal (1)\TrabajoGrupal (1)\TrabajoGrupal_VersionFinal\CapaPresentacion\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Jostin\Documents\QUINTO\API I\TrabajoGrupal (1)\TrabajoGrupal (1)\TrabajoGrupal_VersionFinal\CapaPresentacion\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Jostin\Documents\QUINTO\API I\TrabajoGrupal (1)\TrabajoGrupal (1)\TrabajoGrupal_VersionFinal\CapaPresentacion\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Jostin\Documents\QUINTO\API I\TrabajoGrupal (1)\TrabajoGrupal (1)\TrabajoGrupal_VersionFinal\CapaPresentacion\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Jostin\Documents\QUINTO\API I\TrabajoGrupal (1)\TrabajoGrupal (1)\TrabajoGrupal_VersionFinal\CapaPresentacion\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Jostin\Documents\QUINTO\API I\TrabajoGrupal (1)\TrabajoGrupal (1)\TrabajoGrupal_VersionFinal\CapaPresentacion\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Jostin\Documents\QUINTO\API I\TrabajoGrupal (1)\TrabajoGrupal (1)\TrabajoGrupal_VersionFinal\CapaPresentacion\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Jostin\Documents\QUINTO\API I\TrabajoGrupal (1)\TrabajoGrupal (1)\TrabajoGrupal_VersionFinal\CapaPresentacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Jostin\Documents\QUINTO\API I\TrabajoGrupal (1)\TrabajoGrupal (1)\TrabajoGrupal_VersionFinal\CapaPresentacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Jostin\Documents\QUINTO\API I\TrabajoGrupal (1)\TrabajoGrupal (1)\TrabajoGrupal_VersionFinal\CapaPresentacion\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Jostin\Documents\QUINTO\API I\TrabajoGrupal (1)\TrabajoGrupal (1)\TrabajoGrupal_VersionFinal\CapaPresentacion\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Jostin\Documents\QUINTO\API I\TrabajoGrupal (1)\TrabajoGrupal (1)\TrabajoGrupal_VersionFinal\CapaPresentacion\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Jostin\Documents\QUINTO\API I\TrabajoGrupal (1)\TrabajoGrupal (1)\TrabajoGrupal_VersionFinal\CapaPresentacion\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Jostin\Documents\QUINTO\API I\TrabajoGrupal (1)\TrabajoGrupal (1)\TrabajoGrupal_VersionFinal\CapaPresentacion\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Jostin\Documents\QUINTO\API I\TrabajoGrupal (1)\TrabajoGrupal (1)\TrabajoGrupal_VersionFinal\CapaPresentacion\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Jostin\Documents\QUINTO\API I\TrabajoGrupal (1)\TrabajoGrupal (1)\TrabajoGrupal_VersionFinal\CapaPresentacion\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Jostin\Documents\QUINTO\API I\TrabajoGrupal (1)\TrabajoGrupal (1)\TrabajoGrupal_VersionFinal\CapaPresentacion\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Jostin\Documents\QUINTO\API I\TrabajoGrupal (1)\TrabajoGrupal (1)\TrabajoGrupal_VersionFinal\CapaPresentacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Jostin\Documents\QUINTO\API I\TrabajoGrupal (1)\TrabajoGrupal (1)\TrabajoGrupal_VersionFinal\CapaPresentacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Jostin\Documents\QUINTO\API I\TrabajoGrupal (1)\TrabajoGrupal (1)\TrabajoGrupal_VersionFinal\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.AssemblyReference.cache
+C:\Users\Jostin\Documents\QUINTO\API I\TrabajoGrupal (1)\TrabajoGrupal (1)\TrabajoGrupal_VersionFinal\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.SuggestedBindingRedirects.cache
+C:\Users\Jostin\Documents\QUINTO\API I\TrabajoGrupal (1)\TrabajoGrupal (1)\TrabajoGrupal_VersionFinal\CapaPresentacion\obj\Debug\CapaPresentacion.exe.config
+C:\Users\Jostin\Documents\QUINTO\API I\TrabajoGrupal (1)\TrabajoGrupal (1)\TrabajoGrupal_VersionFinal\CapaPresentacion\obj\Debug\CapaPresentacion.Form1.resources
+C:\Users\Jostin\Documents\QUINTO\API I\TrabajoGrupal (1)\TrabajoGrupal (1)\TrabajoGrupal_VersionFinal\CapaPresentacion\obj\Debug\CapaPresentacion.frmBuscar.resources
+C:\Users\Jostin\Documents\QUINTO\API I\TrabajoGrupal (1)\TrabajoGrupal (1)\TrabajoGrupal_VersionFinal\CapaPresentacion\obj\Debug\CapaPresentacion.FRMBUSCAREDITAR.resources
+C:\Users\Jostin\Documents\QUINTO\API I\TrabajoGrupal (1)\TrabajoGrupal (1)\TrabajoGrupal_VersionFinal\CapaPresentacion\obj\Debug\CapaPresentacion.FRMCATEGORIA.resources
+C:\Users\Jostin\Documents\QUINTO\API I\TrabajoGrupal (1)\TrabajoGrupal (1)\TrabajoGrupal_VersionFinal\CapaPresentacion\obj\Debug\CapaPresentacion.FRMEDITAR.resources
+C:\Users\Jostin\Documents\QUINTO\API I\TrabajoGrupal (1)\TrabajoGrupal (1)\TrabajoGrupal_VersionFinal\CapaPresentacion\obj\Debug\CapaPresentacion.FRMELIMINAR.resources
+C:\Users\Jostin\Documents\QUINTO\API I\TrabajoGrupal (1)\TrabajoGrupal (1)\TrabajoGrupal_VersionFinal\CapaPresentacion\obj\Debug\CapaPresentacion.FRMPIEZA.resources
+C:\Users\Jostin\Documents\QUINTO\API I\TrabajoGrupal (1)\TrabajoGrupal (1)\TrabajoGrupal_VersionFinal\CapaPresentacion\obj\Debug\CapaPresentacion.FRMPROVEDOR.resources
+C:\Users\Jostin\Documents\QUINTO\API I\TrabajoGrupal (1)\TrabajoGrupal (1)\TrabajoGrupal_VersionFinal\CapaPresentacion\obj\Debug\CapaPresentacion.FRMREPORTE1.resources
+C:\Users\Jostin\Documents\QUINTO\API I\TrabajoGrupal (1)\TrabajoGrupal (1)\TrabajoGrupal_VersionFinal\CapaPresentacion\obj\Debug\CapaPresentacion.FRMREPORTE2.resources
+C:\Users\Jostin\Documents\QUINTO\API I\TrabajoGrupal (1)\TrabajoGrupal (1)\TrabajoGrupal_VersionFinal\CapaPresentacion\obj\Debug\CapaPresentacion.FRMREPORTERESUMENCATEGORIA.resources
+C:\Users\Jostin\Documents\QUINTO\API I\TrabajoGrupal (1)\TrabajoGrupal (1)\TrabajoGrupal_VersionFinal\CapaPresentacion\obj\Debug\CapaPresentacion.FRMREPORTPIEZA.resources
+C:\Users\Jostin\Documents\QUINTO\API I\TrabajoGrupal (1)\TrabajoGrupal (1)\TrabajoGrupal_VersionFinal\CapaPresentacion\obj\Debug\CapaPresentacion.FRMREPORTRESUMENPROVEDORES.resources
+C:\Users\Jostin\Documents\QUINTO\API I\TrabajoGrupal (1)\TrabajoGrupal (1)\TrabajoGrupal_VersionFinal\CapaPresentacion\obj\Debug\CapaPresentacion.FRMREPORTSUMINSITRO.resources
+C:\Users\Jostin\Documents\QUINTO\API I\TrabajoGrupal (1)\TrabajoGrupal (1)\TrabajoGrupal_VersionFinal\CapaPresentacion\obj\Debug\CapaPresentacion.FRMSUMINISTRAR.resources
+C:\Users\Jostin\Documents\QUINTO\API I\TrabajoGrupal (1)\TrabajoGrupal (1)\TrabajoGrupal_VersionFinal\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\Users\Jostin\Documents\QUINTO\API I\TrabajoGrupal (1)\TrabajoGrupal (1)\TrabajoGrupal_VersionFinal\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\Jostin\Documents\QUINTO\API I\TrabajoGrupal (1)\TrabajoGrupal (1)\TrabajoGrupal_VersionFinal\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\Jostin\Documents\QUINTO\API I\TrabajoGrupal (1)\TrabajoGrupal (1)\TrabajoGrupal_VersionFinal\CapaPresentacion\obj\Debug\CapaPres.61CA7C38.Up2Date
+C:\Users\Jostin\Documents\QUINTO\API I\TrabajoGrupal (1)\TrabajoGrupal (1)\TrabajoGrupal_VersionFinal\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+C:\Users\Jostin\Documents\QUINTO\API I\TrabajoGrupal (1)\TrabajoGrupal (1)\TrabajoGrupal_VersionFinal\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+C:\Users\Jostin\Documents\QUINTO\API I\TrabajoGrupal (1)\TrabajoGrupal (1)\TrabajoGrupal_VersionFinal\CapaPresentacion\obj\Debug\CapaPresentacion.FRMELIMINAR2.resources

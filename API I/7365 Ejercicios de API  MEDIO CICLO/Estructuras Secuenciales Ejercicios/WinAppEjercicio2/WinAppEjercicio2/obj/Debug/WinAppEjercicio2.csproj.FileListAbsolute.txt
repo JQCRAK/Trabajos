@@ -1,0 +1,20 @@
+C:\Users\Jostin\Documents\QUINTO\API I\Estructuras Secuenciales Ejercicios\WinAppEjercicio2\WinAppEjercicio2\bin\Debug\WinAppEjercicio2.exe.config
+C:\Users\Jostin\Documents\QUINTO\API I\Estructuras Secuenciales Ejercicios\WinAppEjercicio2\WinAppEjercicio2\bin\Debug\WinAppEjercicio2.exe
+C:\Users\Jostin\Documents\QUINTO\API I\Estructuras Secuenciales Ejercicios\WinAppEjercicio2\WinAppEjercicio2\bin\Debug\WinAppEjercicio2.pdb
+C:\Users\Jostin\Documents\QUINTO\API I\Estructuras Secuenciales Ejercicios\WinAppEjercicio2\WinAppEjercicio2\obj\Debug\WinAppEjercicio2.csproj.AssemblyReference.cache
+C:\Users\Jostin\Documents\QUINTO\API I\Estructuras Secuenciales Ejercicios\WinAppEjercicio2\WinAppEjercicio2\obj\Debug\WinAppEjercicio2.Form1.resources
+C:\Users\Jostin\Documents\QUINTO\API I\Estructuras Secuenciales Ejercicios\WinAppEjercicio2\WinAppEjercicio2\obj\Debug\WinAppEjercicio2.Properties.Resources.resources
+C:\Users\Jostin\Documents\QUINTO\API I\Estructuras Secuenciales Ejercicios\WinAppEjercicio2\WinAppEjercicio2\obj\Debug\WinAppEjercicio2.csproj.GenerateResource.cache
+C:\Users\Jostin\Documents\QUINTO\API I\Estructuras Secuenciales Ejercicios\WinAppEjercicio2\WinAppEjercicio2\obj\Debug\WinAppEjercicio2.csproj.CoreCompileInputs.cache
+C:\Users\Jostin\Documents\QUINTO\API I\Estructuras Secuenciales Ejercicios\WinAppEjercicio2\WinAppEjercicio2\obj\Debug\WinAppEjercicio2.exe
+C:\Users\Jostin\Documents\QUINTO\API I\Estructuras Secuenciales Ejercicios\WinAppEjercicio2\WinAppEjercicio2\obj\Debug\WinAppEjercicio2.pdb
+C:\Users\Jostin\Documents\QUINTO\API I\Ejercicios de API  MEDIO CICLO\Estructuras Secuenciales Ejercicios\WinAppEjercicio2\WinAppEjercicio2\bin\Debug\WinAppEjercicio2.exe.config
+C:\Users\Jostin\Documents\QUINTO\API I\Ejercicios de API  MEDIO CICLO\Estructuras Secuenciales Ejercicios\WinAppEjercicio2\WinAppEjercicio2\bin\Debug\WinAppEjercicio2.exe
+C:\Users\Jostin\Documents\QUINTO\API I\Ejercicios de API  MEDIO CICLO\Estructuras Secuenciales Ejercicios\WinAppEjercicio2\WinAppEjercicio2\bin\Debug\WinAppEjercicio2.pdb
+C:\Users\Jostin\Documents\QUINTO\API I\Ejercicios de API  MEDIO CICLO\Estructuras Secuenciales Ejercicios\WinAppEjercicio2\WinAppEjercicio2\obj\Debug\WinAppEjercicio2.csproj.AssemblyReference.cache
+C:\Users\Jostin\Documents\QUINTO\API I\Ejercicios de API  MEDIO CICLO\Estructuras Secuenciales Ejercicios\WinAppEjercicio2\WinAppEjercicio2\obj\Debug\WinAppEjercicio2.Form1.resources
+C:\Users\Jostin\Documents\QUINTO\API I\Ejercicios de API  MEDIO CICLO\Estructuras Secuenciales Ejercicios\WinAppEjercicio2\WinAppEjercicio2\obj\Debug\WinAppEjercicio2.Properties.Resources.resources
+C:\Users\Jostin\Documents\QUINTO\API I\Ejercicios de API  MEDIO CICLO\Estructuras Secuenciales Ejercicios\WinAppEjercicio2\WinAppEjercicio2\obj\Debug\WinAppEjercicio2.csproj.GenerateResource.cache
+C:\Users\Jostin\Documents\QUINTO\API I\Ejercicios de API  MEDIO CICLO\Estructuras Secuenciales Ejercicios\WinAppEjercicio2\WinAppEjercicio2\obj\Debug\WinAppEjercicio2.csproj.CoreCompileInputs.cache
+C:\Users\Jostin\Documents\QUINTO\API I\Ejercicios de API  MEDIO CICLO\Estructuras Secuenciales Ejercicios\WinAppEjercicio2\WinAppEjercicio2\obj\Debug\WinAppEjercicio2.exe
+C:\Users\Jostin\Documents\QUINTO\API I\Ejercicios de API  MEDIO CICLO\Estructuras Secuenciales Ejercicios\WinAppEjercicio2\WinAppEjercicio2\obj\Debug\WinAppEjercicio2.pdb

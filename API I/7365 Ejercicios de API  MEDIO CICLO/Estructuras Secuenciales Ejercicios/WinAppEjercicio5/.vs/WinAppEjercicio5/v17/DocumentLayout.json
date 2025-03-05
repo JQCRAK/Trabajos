@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Jostin\\Documents\\QUINTO\\API I\\Ejercicios de API  MEDIO CICLO\\Estructuras Secuenciales Ejercicios\\WinAppEjercicio5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B2714FA3-D3E5-4B4A-9563-DFE46C9E72FC}|WinAppEjercicio5\\WinAppEjercicio5.csproj|C:\\Users\\Jostin\\Documents\\QUINTO\\API I\\Ejercicios de API  MEDIO CICLO\\Estructuras Secuenciales Ejercicios\\WinAppEjercicio5\\winappejercicio5\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2714FA3-D3E5-4B4A-9563-DFE46C9E72FC}|WinAppEjercicio5\\WinAppEjercicio5.csproj|solutionrelative:winappejercicio5\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2714FA3-D3E5-4B4A-9563-DFE46C9E72FC}|WinAppEjercicio5\\WinAppEjercicio5.csproj|c:\\users\\jostin\\documents\\quinto\\api i\\ejercicios de api  medio ciclo\\estructuras secuenciales ejercicios\\winappejercicio5\\winappejercicio5\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B2714FA3-D3E5-4B4A-9563-DFE46C9E72FC}|WinAppEjercicio5\\WinAppEjercicio5.csproj|solutionrelative:winappejercicio5\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2714FA3-D3E5-4B4A-9563-DFE46C9E72FC}|WinAppEjercicio5\\WinAppEjercicio5.csproj|C:\\Users\\Jostin\\Documents\\QUINTO\\API I\\Ejercicios de API  MEDIO CICLO\\Estructuras Secuenciales Ejercicios\\WinAppEjercicio5\\winappejercicio5\\convertirsegundos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2714FA3-D3E5-4B4A-9563-DFE46C9E72FC}|WinAppEjercicio5\\WinAppEjercicio5.csproj|solutionrelative:winappejercicio5\\convertirsegundos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2714FA3-D3E5-4B4A-9563-DFE46C9E72FC}|WinAppEjercicio5\\WinAppEjercicio5.csproj|C:\\Users\\Jostin\\Documents\\QUINTO\\API I\\Ejercicios de API  MEDIO CICLO\\Estructuras Secuenciales Ejercicios\\WinAppEjercicio5\\winappejercicio5\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2714FA3-D3E5-4B4A-9563-DFE46C9E72FC}|WinAppEjercicio5\\WinAppEjercicio5.csproj|solutionrelative:winappejercicio5\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Jostin\\Documents\\QUINTO\\API I\\Ejercicios de API  MEDIO CICLO\\Estructuras Secuenciales Ejercicios\\WinAppEjercicio5\\WinAppEjercicio5\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "WinAppEjercicio5\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\Jostin\\Documents\\QUINTO\\API I\\Ejercicios de API  MEDIO CICLO\\Estructuras Secuenciales Ejercicios\\WinAppEjercicio5\\WinAppEjercicio5\\Form1.Designer.cs",
+              "RelativeToolTip": "WinAppEjercicio5\\Form1.Designer.cs",
+              "ViewState": "AgIAAHUAAAAAAAAAAAAWwGgAAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T21:55:19.276Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Jostin\\Documents\\QUINTO\\API I\\Ejercicios de API  MEDIO CICLO\\Estructuras Secuenciales Ejercicios\\WinAppEjercicio5\\WinAppEjercicio5\\Form1.cs",
+              "RelativeDocumentMoniker": "WinAppEjercicio5\\Form1.cs",
+              "ToolTip": "C:\\Users\\Jostin\\Documents\\QUINTO\\API I\\Ejercicios de API  MEDIO CICLO\\Estructuras Secuenciales Ejercicios\\WinAppEjercicio5\\WinAppEjercicio5\\Form1.cs",
+              "RelativeToolTip": "WinAppEjercicio5\\Form1.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAcwBwAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T21:30:26.902Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ConvertirSegundos.cs",
+              "DocumentMoniker": "C:\\Users\\Jostin\\Documents\\QUINTO\\API I\\Ejercicios de API  MEDIO CICLO\\Estructuras Secuenciales Ejercicios\\WinAppEjercicio5\\WinAppEjercicio5\\ConvertirSegundos.cs",
+              "RelativeDocumentMoniker": "WinAppEjercicio5\\ConvertirSegundos.cs",
+              "ToolTip": "C:\\Users\\Jostin\\Documents\\QUINTO\\API I\\Ejercicios de API  MEDIO CICLO\\Estructuras Secuenciales Ejercicios\\WinAppEjercicio5\\WinAppEjercicio5\\ConvertirSegundos.cs",
+              "RelativeToolTip": "WinAppEjercicio5\\ConvertirSegundos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T21:28:32.702Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Jostin\\Documents\\QUINTO\\API I\\Ejercicios de API  MEDIO CICLO\\Estructuras Secuenciales Ejercicios\\WinAppEjercicio5\\WinAppEjercicio5\\Form1.cs",
+              "RelativeDocumentMoniker": "WinAppEjercicio5\\Form1.cs",
+              "ToolTip": "C:\\Users\\Jostin\\Documents\\QUINTO\\API I\\Ejercicios de API  MEDIO CICLO\\Estructuras Secuenciales Ejercicios\\WinAppEjercicio5\\WinAppEjercicio5\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "WinAppEjercicio5\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T21:09:43.036Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

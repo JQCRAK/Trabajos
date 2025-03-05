@@ -1,0 +1,602 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Jostin\\Documents\\QUINTO\\API I\\TrabajoGrupal (1)\\TrabajoGrupal (1)\\TrabajoGrupal_VersionFinal\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1850D8D7-5721-4DE8-A5F4-266AB27EEDF3}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\Jostin\\Documents\\QUINTO\\API I\\TrabajoGrupal (1)\\TrabajoGrupal (1)\\TrabajoGrupal_VersionFinal\\capapresentacion\\frmbuscar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1850D8D7-5721-4DE8-A5F4-266AB27EEDF3}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\frmbuscar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1850D8D7-5721-4DE8-A5F4-266AB27EEDF3}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\Jostin\\Documents\\QUINTO\\API I\\TrabajoGrupal (1)\\TrabajoGrupal (1)\\TrabajoGrupal_VersionFinal\\capapresentacion\\frmbuscar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1850D8D7-5721-4DE8-A5F4-266AB27EEDF3}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\frmbuscar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1850D8D7-5721-4DE8-A5F4-266AB27EEDF3}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\Jostin\\Documents\\QUINTO\\API I\\TrabajoGrupal (1)\\TrabajoGrupal (1)\\TrabajoGrupal_VersionFinal\\capapresentacion\\frmeliminar2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1850D8D7-5721-4DE8-A5F4-266AB27EEDF3}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\frmeliminar2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1850D8D7-5721-4DE8-A5F4-266AB27EEDF3}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\Jostin\\Documents\\QUINTO\\API I\\TrabajoGrupal (1)\\TrabajoGrupal (1)\\TrabajoGrupal_VersionFinal\\capapresentacion\\frmpieza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1850D8D7-5721-4DE8-A5F4-266AB27EEDF3}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\frmpieza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1850D8D7-5721-4DE8-A5F4-266AB27EEDF3}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\Jostin\\Documents\\QUINTO\\API I\\TrabajoGrupal (1)\\TrabajoGrupal (1)\\TrabajoGrupal_VersionFinal\\capapresentacion\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1850D8D7-5721-4DE8-A5F4-266AB27EEDF3}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{925E80C2-99E9-4458-8853-F65B2A6767F6}|CapaDatos\\CapaDatos.csproj|C:\\Users\\Jostin\\Documents\\QUINTO\\API I\\TrabajoGrupal (1)\\TrabajoGrupal (1)\\TrabajoGrupal_VersionFinal\\capadatos\\operaciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{925E80C2-99E9-4458-8853-F65B2A6767F6}|CapaDatos\\CapaDatos.csproj|solutionrelative:capadatos\\operaciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1850D8D7-5721-4DE8-A5F4-266AB27EEDF3}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\Jostin\\Documents\\QUINTO\\API I\\TrabajoGrupal (1)\\TrabajoGrupal (1)\\TrabajoGrupal_VersionFinal\\capapresentacion\\frmprovedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1850D8D7-5721-4DE8-A5F4-266AB27EEDF3}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\frmprovedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1850D8D7-5721-4DE8-A5F4-266AB27EEDF3}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\Jostin\\Documents\\QUINTO\\API I\\TrabajoGrupal (1)\\TrabajoGrupal (1)\\TrabajoGrupal_VersionFinal\\capapresentacion\\frmeliminar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1850D8D7-5721-4DE8-A5F4-266AB27EEDF3}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\frmeliminar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1850D8D7-5721-4DE8-A5F4-266AB27EEDF3}|CapaPresentacion\\CapaPresentacion.csproj|c:\\users\\jostin\\documents\\quinto\\api i\\trabajogrupal (1)\\trabajogrupal (1)\\trabajogrupal_versionfinal\\capapresentacion\\frmeliminar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1850D8D7-5721-4DE8-A5F4-266AB27EEDF3}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\frmeliminar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{114F1BC7-E2E0-4F22-9DC6-3652F7D35483}|CapaLogica\\CapaLogica.csproj|C:\\Users\\Jostin\\Documents\\QUINTO\\API I\\TrabajoGrupal (1)\\TrabajoGrupal (1)\\TrabajoGrupal_VersionFinal\\capalogica\\logicadatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{114F1BC7-E2E0-4F22-9DC6-3652F7D35483}|CapaLogica\\CapaLogica.csproj|solutionrelative:capalogica\\logicadatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1850D8D7-5721-4DE8-A5F4-266AB27EEDF3}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\Jostin\\Documents\\QUINTO\\API I\\TrabajoGrupal (1)\\TrabajoGrupal (1)\\TrabajoGrupal_VersionFinal\\capapresentacion\\frmeliminar2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1850D8D7-5721-4DE8-A5F4-266AB27EEDF3}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\frmeliminar2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1850D8D7-5721-4DE8-A5F4-266AB27EEDF3}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\Jostin\\Documents\\QUINTO\\API I\\TrabajoGrupal (1)\\TrabajoGrupal (1)\\TrabajoGrupal_VersionFinal\\capapresentacion\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1850D8D7-5721-4DE8-A5F4-266AB27EEDF3}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1850D8D7-5721-4DE8-A5F4-266AB27EEDF3}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\Jostin\\Documents\\QUINTO\\API I\\TrabajoGrupal (1)\\TrabajoGrupal (1)\\TrabajoGrupal_VersionFinal\\capapresentacion\\report6.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}",
+      "RelativeMoniker": "D:0:0:{1850D8D7-5721-4DE8-A5F4-266AB27EEDF3}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\report6.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1850D8D7-5721-4DE8-A5F4-266AB27EEDF3}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\Jostin\\Documents\\QUINTO\\API I\\TrabajoGrupal (1)\\TrabajoGrupal (1)\\TrabajoGrupal_VersionFinal\\capapresentacion\\report5.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}",
+      "RelativeMoniker": "D:0:0:{1850D8D7-5721-4DE8-A5F4-266AB27EEDF3}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\report5.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1850D8D7-5721-4DE8-A5F4-266AB27EEDF3}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\Jostin\\Documents\\QUINTO\\API I\\TrabajoGrupal (1)\\TrabajoGrupal (1)\\TrabajoGrupal_VersionFinal\\capapresentacion\\report4.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}",
+      "RelativeMoniker": "D:0:0:{1850D8D7-5721-4DE8-A5F4-266AB27EEDF3}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\report4.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1850D8D7-5721-4DE8-A5F4-266AB27EEDF3}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\Jostin\\Documents\\QUINTO\\API I\\TrabajoGrupal (1)\\TrabajoGrupal (1)\\TrabajoGrupal_VersionFinal\\capapresentacion\\report3.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}",
+      "RelativeMoniker": "D:0:0:{1850D8D7-5721-4DE8-A5F4-266AB27EEDF3}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\report3.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1850D8D7-5721-4DE8-A5F4-266AB27EEDF3}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\Jostin\\Documents\\QUINTO\\API I\\TrabajoGrupal (1)\\TrabajoGrupal (1)\\TrabajoGrupal_VersionFinal\\capapresentacion\\report2.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}",
+      "RelativeMoniker": "D:0:0:{1850D8D7-5721-4DE8-A5F4-266AB27EEDF3}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\report2.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1850D8D7-5721-4DE8-A5F4-266AB27EEDF3}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\Jostin\\Documents\\QUINTO\\API I\\TrabajoGrupal (1)\\TrabajoGrupal (1)\\TrabajoGrupal_VersionFinal\\capapresentacion\\report1.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}",
+      "RelativeMoniker": "D:0:0:{1850D8D7-5721-4DE8-A5F4-266AB27EEDF3}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\report1.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1850D8D7-5721-4DE8-A5F4-266AB27EEDF3}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\Jostin\\Documents\\QUINTO\\API I\\TrabajoGrupal (1)\\TrabajoGrupal (1)\\TrabajoGrupal_VersionFinal\\capapresentacion\\frmsuministrar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1850D8D7-5721-4DE8-A5F4-266AB27EEDF3}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\frmsuministrar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1850D8D7-5721-4DE8-A5F4-266AB27EEDF3}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\Jostin\\Documents\\QUINTO\\API I\\TrabajoGrupal (1)\\TrabajoGrupal (1)\\TrabajoGrupal_VersionFinal\\capapresentacion\\frmreportsuminsitro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1850D8D7-5721-4DE8-A5F4-266AB27EEDF3}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\frmreportsuminsitro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1850D8D7-5721-4DE8-A5F4-266AB27EEDF3}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\Jostin\\Documents\\QUINTO\\API I\\TrabajoGrupal (1)\\TrabajoGrupal (1)\\TrabajoGrupal_VersionFinal\\capapresentacion\\frmreportresumenprovedores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1850D8D7-5721-4DE8-A5F4-266AB27EEDF3}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\frmreportresumenprovedores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1850D8D7-5721-4DE8-A5F4-266AB27EEDF3}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\Jostin\\Documents\\QUINTO\\API I\\TrabajoGrupal (1)\\TrabajoGrupal (1)\\TrabajoGrupal_VersionFinal\\capapresentacion\\frmreportpieza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1850D8D7-5721-4DE8-A5F4-266AB27EEDF3}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\frmreportpieza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1850D8D7-5721-4DE8-A5F4-266AB27EEDF3}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\Jostin\\Documents\\QUINTO\\API I\\TrabajoGrupal (1)\\TrabajoGrupal (1)\\TrabajoGrupal_VersionFinal\\capapresentacion\\frmreporteresumencategoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1850D8D7-5721-4DE8-A5F4-266AB27EEDF3}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\frmreporteresumencategoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1850D8D7-5721-4DE8-A5F4-266AB27EEDF3}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\Jostin\\Documents\\QUINTO\\API I\\TrabajoGrupal (1)\\TrabajoGrupal (1)\\TrabajoGrupal_VersionFinal\\capapresentacion\\frmreporte2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1850D8D7-5721-4DE8-A5F4-266AB27EEDF3}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\frmreporte2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1850D8D7-5721-4DE8-A5F4-266AB27EEDF3}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\Jostin\\Documents\\QUINTO\\API I\\TrabajoGrupal (1)\\TrabajoGrupal (1)\\TrabajoGrupal_VersionFinal\\capapresentacion\\frmreporte1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1850D8D7-5721-4DE8-A5F4-266AB27EEDF3}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\frmreporte1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1850D8D7-5721-4DE8-A5F4-266AB27EEDF3}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\Jostin\\Documents\\QUINTO\\API I\\TrabajoGrupal (1)\\TrabajoGrupal (1)\\TrabajoGrupal_VersionFinal\\capapresentacion\\frmprovedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1850D8D7-5721-4DE8-A5F4-266AB27EEDF3}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\frmprovedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1850D8D7-5721-4DE8-A5F4-266AB27EEDF3}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\Jostin\\Documents\\QUINTO\\API I\\TrabajoGrupal (1)\\TrabajoGrupal (1)\\TrabajoGrupal_VersionFinal\\capapresentacion\\frmeditar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1850D8D7-5721-4DE8-A5F4-266AB27EEDF3}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\frmeditar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1850D8D7-5721-4DE8-A5F4-266AB27EEDF3}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\Jostin\\Documents\\QUINTO\\API I\\TrabajoGrupal (1)\\TrabajoGrupal (1)\\TrabajoGrupal_VersionFinal\\capapresentacion\\frmcategoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1850D8D7-5721-4DE8-A5F4-266AB27EEDF3}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\frmcategoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1850D8D7-5721-4DE8-A5F4-266AB27EEDF3}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\Jostin\\Documents\\QUINTO\\API I\\TrabajoGrupal (1)\\TrabajoGrupal (1)\\TrabajoGrupal_VersionFinal\\capapresentacion\\frmbuscareditar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1850D8D7-5721-4DE8-A5F4-266AB27EEDF3}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\frmbuscareditar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D77D30F-3DF5-4605-A86F-19B3EFD8226B}|CapaEntidades\\CapaEntidades.csproj|C:\\Users\\Jostin\\Documents\\QUINTO\\API I\\TrabajoGrupal (1)\\TrabajoGrupal (1)\\TrabajoGrupal_VersionFinal\\capaentidades\\entidades.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D77D30F-3DF5-4605-A86F-19B3EFD8226B}|CapaEntidades\\CapaEntidades.csproj|solutionrelative:capaentidades\\entidades.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{925E80C2-99E9-4458-8853-F65B2A6767F6}|CapaDatos\\CapaDatos.csproj|C:\\Users\\Jostin\\Documents\\QUINTO\\API I\\TrabajoGrupal (1)\\TrabajoGrupal (1)\\TrabajoGrupal_VersionFinal\\capadatos\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{925E80C2-99E9-4458-8853-F65B2A6767F6}|CapaDatos\\CapaDatos.csproj|solutionrelative:capadatos\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1850D8D7-5721-4DE8-A5F4-266AB27EEDF3}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\Jostin\\Documents\\QUINTO\\API I\\TrabajoGrupal (1)\\TrabajoGrupal (1)\\TrabajoGrupal_VersionFinal\\capapresentacion\\frmcategoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1850D8D7-5721-4DE8-A5F4-266AB27EEDF3}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\frmcategoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1850D8D7-5721-4DE8-A5F4-266AB27EEDF3}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\Jostin\\Documents\\QUINTO\\API I\\TrabajoGrupal (1)\\TrabajoGrupal (1)\\TrabajoGrupal_VersionFinal\\capapresentacion\\frmeditar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1850D8D7-5721-4DE8-A5F4-266AB27EEDF3}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\frmeditar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1850D8D7-5721-4DE8-A5F4-266AB27EEDF3}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\Jostin\\Documents\\QUINTO\\API I\\TrabajoGrupal (1)\\TrabajoGrupal (1)\\TrabajoGrupal_VersionFinal\\capapresentacion\\frmbuscareditar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1850D8D7-5721-4DE8-A5F4-266AB27EEDF3}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\frmbuscareditar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1850D8D7-5721-4DE8-A5F4-266AB27EEDF3}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\Jostin\\Documents\\QUINTO\\API I\\TrabajoGrupal (1)\\TrabajoGrupal (1)\\TrabajoGrupal_VersionFinal\\capapresentacion\\frmsuministrar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1850D8D7-5721-4DE8-A5F4-266AB27EEDF3}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\frmsuministrar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1850D8D7-5721-4DE8-A5F4-266AB27EEDF3}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\Jostin\\Documents\\QUINTO\\API I\\TrabajoGrupal (1)\\TrabajoGrupal (1)\\TrabajoGrupal_VersionFinal\\capapresentacion\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1850D8D7-5721-4DE8-A5F4-266AB27EEDF3}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Jostin\\Documents\\QUINTO\\API I\\TrabajoGrupal (1)\\TrabajoGrupal (1)\\TrabajoGrupal_VersionFinal\\CapaPresentacion\\Form1.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\Form1.cs",
+              "ToolTip": "C:\\Users\\Jostin\\Documents\\QUINTO\\API I\\TrabajoGrupal (1)\\TrabajoGrupal (1)\\TrabajoGrupal_VersionFinal\\CapaPresentacion\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "CapaPresentacion\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T22:11:52.855Z",
+              "IsPinned": true,
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FRMPROVEDOR.cs",
+              "DocumentMoniker": "C:\\Users\\Jostin\\Documents\\QUINTO\\API I\\TrabajoGrupal (1)\\TrabajoGrupal (1)\\TrabajoGrupal_VersionFinal\\CapaPresentacion\\FRMPROVEDOR.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\FRMPROVEDOR.cs",
+              "ToolTip": "C:\\Users\\Jostin\\Documents\\QUINTO\\API I\\TrabajoGrupal (1)\\TrabajoGrupal (1)\\TrabajoGrupal_VersionFinal\\CapaPresentacion\\FRMPROVEDOR.cs",
+              "RelativeToolTip": "CapaPresentacion\\FRMPROVEDOR.cs",
+              "ViewState": "AgIAAFoAAAAAAAAAAAA8wH8AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T22:27:22.136Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "FRMCATEGORIA.cs",
+              "DocumentMoniker": "C:\\Users\\Jostin\\Documents\\QUINTO\\API I\\TrabajoGrupal (1)\\TrabajoGrupal (1)\\TrabajoGrupal_VersionFinal\\CapaPresentacion\\FRMCATEGORIA.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\FRMCATEGORIA.cs",
+              "ToolTip": "C:\\Users\\Jostin\\Documents\\QUINTO\\API I\\TrabajoGrupal (1)\\TrabajoGrupal (1)\\TrabajoGrupal_VersionFinal\\CapaPresentacion\\FRMCATEGORIA.cs",
+              "RelativeToolTip": "CapaPresentacion\\FRMCATEGORIA.cs",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAuwFAAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T23:49:12.327Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Operaciones.cs",
+              "DocumentMoniker": "C:\\Users\\Jostin\\Documents\\QUINTO\\API I\\TrabajoGrupal (1)\\TrabajoGrupal (1)\\TrabajoGrupal_VersionFinal\\CapaDatos\\Operaciones.cs",
+              "RelativeDocumentMoniker": "CapaDatos\\Operaciones.cs",
+              "ToolTip": "C:\\Users\\Jostin\\Documents\\QUINTO\\API I\\TrabajoGrupal (1)\\TrabajoGrupal (1)\\TrabajoGrupal_VersionFinal\\CapaDatos\\Operaciones.cs",
+              "RelativeToolTip": "CapaDatos\\Operaciones.cs",
+              "ViewState": "AgIAAG8BAAAAAAAAAAAYwIQBAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T22:13:53.163Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LogicaDatos.cs",
+              "DocumentMoniker": "C:\\Users\\Jostin\\Documents\\QUINTO\\API I\\TrabajoGrupal (1)\\TrabajoGrupal (1)\\TrabajoGrupal_VersionFinal\\CapaLogica\\LogicaDatos.cs",
+              "RelativeDocumentMoniker": "CapaLogica\\LogicaDatos.cs",
+              "ToolTip": "C:\\Users\\Jostin\\Documents\\QUINTO\\API I\\TrabajoGrupal (1)\\TrabajoGrupal (1)\\TrabajoGrupal_VersionFinal\\CapaLogica\\LogicaDatos.cs",
+              "RelativeToolTip": "CapaLogica\\LogicaDatos.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAA5wDwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T22:27:50.048Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Jostin\\Documents\\QUINTO\\API I\\TrabajoGrupal (1)\\TrabajoGrupal (1)\\TrabajoGrupal_VersionFinal\\CapaPresentacion\\Form1.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\Form1.cs",
+              "ToolTip": "C:\\Users\\Jostin\\Documents\\QUINTO\\API I\\TrabajoGrupal (1)\\TrabajoGrupal (1)\\TrabajoGrupal_VersionFinal\\CapaPresentacion\\Form1.cs",
+              "RelativeToolTip": "CapaPresentacion\\Form1.cs",
+              "ViewState": "AgIAAH0AAAAAAAAAAAAQwJEAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T20:22:09.559Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Report2.rdlc [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Jostin\\Documents\\QUINTO\\API I\\TrabajoGrupal (1)\\TrabajoGrupal (1)\\TrabajoGrupal_VersionFinal\\CapaPresentacion\\Report2.rdlc",
+              "RelativeDocumentMoniker": "CapaPresentacion\\Report2.rdlc",
+              "ToolTip": "C:\\Users\\Jostin\\Documents\\QUINTO\\API I\\TrabajoGrupal (1)\\TrabajoGrupal (1)\\TrabajoGrupal_VersionFinal\\CapaPresentacion\\Report2.rdlc [Dise\u00F1o]",
+              "RelativeToolTip": "CapaPresentacion\\Report2.rdlc [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001755|",
+              "WhenOpened": "2024-12-06T00:22:09.868Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmBuscar.cs",
+              "DocumentMoniker": "C:\\Users\\Jostin\\Documents\\QUINTO\\API I\\TrabajoGrupal (1)\\TrabajoGrupal (1)\\TrabajoGrupal_VersionFinal\\CapaPresentacion\\frmBuscar.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\frmBuscar.cs",
+              "ToolTip": "C:\\Users\\Jostin\\Documents\\QUINTO\\API I\\TrabajoGrupal (1)\\TrabajoGrupal (1)\\TrabajoGrupal_VersionFinal\\CapaPresentacion\\frmBuscar.cs",
+              "RelativeToolTip": "CapaPresentacion\\frmBuscar.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAmwCIAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T23:30:38.873Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FRMELIMINAR.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Jostin\\Documents\\QUINTO\\API I\\TrabajoGrupal (1)\\TrabajoGrupal (1)\\TrabajoGrupal_VersionFinal\\CapaPresentacion\\FRMELIMINAR.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\FRMELIMINAR.cs",
+              "ToolTip": "C:\\Users\\Jostin\\Documents\\QUINTO\\API I\\TrabajoGrupal (1)\\TrabajoGrupal (1)\\TrabajoGrupal_VersionFinal\\CapaPresentacion\\FRMELIMINAR.cs [Dise\u00F1o]",
+              "RelativeToolTip": "CapaPresentacion\\FRMELIMINAR.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T01:16:12.063Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FRMELIMINAR2.cs",
+              "DocumentMoniker": "C:\\Users\\Jostin\\Documents\\QUINTO\\API I\\TrabajoGrupal (1)\\TrabajoGrupal (1)\\TrabajoGrupal_VersionFinal\\CapaPresentacion\\FRMELIMINAR2.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\FRMELIMINAR2.cs",
+              "ToolTip": "C:\\Users\\Jostin\\Documents\\QUINTO\\API I\\TrabajoGrupal (1)\\TrabajoGrupal (1)\\TrabajoGrupal_VersionFinal\\CapaPresentacion\\FRMELIMINAR2.cs",
+              "RelativeToolTip": "CapaPresentacion\\FRMELIMINAR2.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAUwBYAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T11:36:32.174Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FRMPIEZA.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Jostin\\Documents\\QUINTO\\API I\\TrabajoGrupal (1)\\TrabajoGrupal (1)\\TrabajoGrupal_VersionFinal\\CapaPresentacion\\FRMPIEZA.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\FRMPIEZA.cs",
+              "ToolTip": "C:\\Users\\Jostin\\Documents\\QUINTO\\API I\\TrabajoGrupal (1)\\TrabajoGrupal (1)\\TrabajoGrupal_VersionFinal\\CapaPresentacion\\FRMPIEZA.cs [Dise\u00F1o]",
+              "RelativeToolTip": "CapaPresentacion\\FRMPIEZA.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T23:04:41.026Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmBuscar.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Jostin\\Documents\\QUINTO\\API I\\TrabajoGrupal (1)\\TrabajoGrupal (1)\\TrabajoGrupal_VersionFinal\\CapaPresentacion\\frmBuscar.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\frmBuscar.cs",
+              "ToolTip": "C:\\Users\\Jostin\\Documents\\QUINTO\\API I\\TrabajoGrupal (1)\\TrabajoGrupal (1)\\TrabajoGrupal_VersionFinal\\CapaPresentacion\\frmBuscar.cs [Dise\u00F1o]",
+              "RelativeToolTip": "CapaPresentacion\\frmBuscar.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T22:28:20.777Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Report6.rdlc [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Jostin\\Documents\\QUINTO\\API I\\TrabajoGrupal (1)\\TrabajoGrupal (1)\\TrabajoGrupal_VersionFinal\\CapaPresentacion\\Report6.rdlc",
+              "RelativeDocumentMoniker": "CapaPresentacion\\Report6.rdlc",
+              "ToolTip": "C:\\Users\\Jostin\\Documents\\QUINTO\\API I\\TrabajoGrupal (1)\\TrabajoGrupal (1)\\TrabajoGrupal_VersionFinal\\CapaPresentacion\\Report6.rdlc [Dise\u00F1o]",
+              "RelativeToolTip": "CapaPresentacion\\Report6.rdlc [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001755|",
+              "WhenOpened": "2024-12-06T08:30:14.854Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FRMELIMINAR2.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Jostin\\Documents\\QUINTO\\API I\\TrabajoGrupal (1)\\TrabajoGrupal (1)\\TrabajoGrupal_VersionFinal\\CapaPresentacion\\FRMELIMINAR2.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\FRMELIMINAR2.cs",
+              "ToolTip": "C:\\Users\\Jostin\\Documents\\QUINTO\\API I\\TrabajoGrupal (1)\\TrabajoGrupal (1)\\TrabajoGrupal_VersionFinal\\CapaPresentacion\\FRMELIMINAR2.cs [Dise\u00F1o]",
+              "RelativeToolTip": "CapaPresentacion\\FRMELIMINAR2.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T11:33:20.966Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FRMELIMINAR.cs",
+              "DocumentMoniker": "C:\\Users\\Jostin\\Documents\\QUINTO\\API I\\TrabajoGrupal (1)\\TrabajoGrupal (1)\\TrabajoGrupal_VersionFinal\\CapaPresentacion\\FRMELIMINAR.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\FRMELIMINAR.cs",
+              "ToolTip": "C:\\Users\\Jostin\\Documents\\QUINTO\\API I\\TrabajoGrupal (1)\\TrabajoGrupal (1)\\TrabajoGrupal_VersionFinal\\CapaPresentacion\\FRMELIMINAR.cs",
+              "RelativeToolTip": "CapaPresentacion\\FRMELIMINAR.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAqwBUAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T01:18:36.565Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Report5.rdlc [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Jostin\\Documents\\QUINTO\\API I\\TrabajoGrupal (1)\\TrabajoGrupal (1)\\TrabajoGrupal_VersionFinal\\CapaPresentacion\\Report5.rdlc",
+              "RelativeDocumentMoniker": "CapaPresentacion\\Report5.rdlc",
+              "ToolTip": "C:\\Users\\Jostin\\Documents\\QUINTO\\API I\\TrabajoGrupal (1)\\TrabajoGrupal (1)\\TrabajoGrupal_VersionFinal\\CapaPresentacion\\Report5.rdlc [Dise\u00F1o]",
+              "RelativeToolTip": "CapaPresentacion\\Report5.rdlc [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001755|",
+              "WhenOpened": "2024-12-06T08:25:51.789Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Report4.rdlc [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Jostin\\Documents\\QUINTO\\API I\\TrabajoGrupal (1)\\TrabajoGrupal (1)\\TrabajoGrupal_VersionFinal\\CapaPresentacion\\Report4.rdlc",
+              "RelativeDocumentMoniker": "CapaPresentacion\\Report4.rdlc",
+              "ToolTip": "C:\\Users\\Jostin\\Documents\\QUINTO\\API I\\TrabajoGrupal (1)\\TrabajoGrupal (1)\\TrabajoGrupal_VersionFinal\\CapaPresentacion\\Report4.rdlc [Dise\u00F1o]",
+              "RelativeToolTip": "CapaPresentacion\\Report4.rdlc [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001755|",
+              "WhenOpened": "2024-12-06T00:29:25.636Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Report3.rdlc [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Jostin\\Documents\\QUINTO\\API I\\TrabajoGrupal (1)\\TrabajoGrupal (1)\\TrabajoGrupal_VersionFinal\\CapaPresentacion\\Report3.rdlc",
+              "RelativeDocumentMoniker": "CapaPresentacion\\Report3.rdlc",
+              "ToolTip": "C:\\Users\\Jostin\\Documents\\QUINTO\\API I\\TrabajoGrupal (1)\\TrabajoGrupal (1)\\TrabajoGrupal_VersionFinal\\CapaPresentacion\\Report3.rdlc [Dise\u00F1o]",
+              "RelativeToolTip": "CapaPresentacion\\Report3.rdlc [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001755|",
+              "WhenOpened": "2024-12-06T00:25:08.184Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Report1.rdlc [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Jostin\\Documents\\QUINTO\\API I\\TrabajoGrupal (1)\\TrabajoGrupal (1)\\TrabajoGrupal_VersionFinal\\CapaPresentacion\\Report1.rdlc",
+              "RelativeDocumentMoniker": "CapaPresentacion\\Report1.rdlc",
+              "ToolTip": "C:\\Users\\Jostin\\Documents\\QUINTO\\API I\\TrabajoGrupal (1)\\TrabajoGrupal (1)\\TrabajoGrupal_VersionFinal\\CapaPresentacion\\Report1.rdlc [Dise\u00F1o]",
+              "RelativeToolTip": "CapaPresentacion\\Report1.rdlc [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001755|",
+              "WhenOpened": "2024-12-06T00:14:42.185Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "FRMSUMINISTRAR.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Jostin\\Documents\\QUINTO\\API I\\TrabajoGrupal (1)\\TrabajoGrupal (1)\\TrabajoGrupal_VersionFinal\\CapaPresentacion\\FRMSUMINISTRAR.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\FRMSUMINISTRAR.cs",
+              "ToolTip": "C:\\Users\\Jostin\\Documents\\QUINTO\\API I\\TrabajoGrupal (1)\\TrabajoGrupal (1)\\TrabajoGrupal_VersionFinal\\CapaPresentacion\\FRMSUMINISTRAR.cs [Dise\u00F1o]",
+              "RelativeToolTip": "CapaPresentacion\\FRMSUMINISTRAR.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T18:05:23.1Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "FRMREPORTSUMINSITRO.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Jostin\\Documents\\QUINTO\\API I\\TrabajoGrupal (1)\\TrabajoGrupal (1)\\TrabajoGrupal_VersionFinal\\CapaPresentacion\\FRMREPORTSUMINSITRO.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\FRMREPORTSUMINSITRO.cs",
+              "ToolTip": "C:\\Users\\Jostin\\Documents\\QUINTO\\API I\\TrabajoGrupal (1)\\TrabajoGrupal (1)\\TrabajoGrupal_VersionFinal\\CapaPresentacion\\FRMREPORTSUMINSITRO.cs [Dise\u00F1o]",
+              "RelativeToolTip": "CapaPresentacion\\FRMREPORTSUMINSITRO.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T00:31:53.08Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "FRMREPORTRESUMENPROVEDORES.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Jostin\\Documents\\QUINTO\\API I\\TrabajoGrupal (1)\\TrabajoGrupal (1)\\TrabajoGrupal_VersionFinal\\CapaPresentacion\\FRMREPORTRESUMENPROVEDORES.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\FRMREPORTRESUMENPROVEDORES.cs",
+              "ToolTip": "C:\\Users\\Jostin\\Documents\\QUINTO\\API I\\TrabajoGrupal (1)\\TrabajoGrupal (1)\\TrabajoGrupal_VersionFinal\\CapaPresentacion\\FRMREPORTRESUMENPROVEDORES.cs [Dise\u00F1o]",
+              "RelativeToolTip": "CapaPresentacion\\FRMREPORTRESUMENPROVEDORES.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T08:35:54.856Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "FRMREPORTPIEZA.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Jostin\\Documents\\QUINTO\\API I\\TrabajoGrupal (1)\\TrabajoGrupal (1)\\TrabajoGrupal_VersionFinal\\CapaPresentacion\\FRMREPORTPIEZA.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\FRMREPORTPIEZA.cs",
+              "ToolTip": "C:\\Users\\Jostin\\Documents\\QUINTO\\API I\\TrabajoGrupal (1)\\TrabajoGrupal (1)\\TrabajoGrupal_VersionFinal\\CapaPresentacion\\FRMREPORTPIEZA.cs [Dise\u00F1o]",
+              "RelativeToolTip": "CapaPresentacion\\FRMREPORTPIEZA.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T00:28:44.98Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "FRMREPORTERESUMENCATEGORIA.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Jostin\\Documents\\QUINTO\\API I\\TrabajoGrupal (1)\\TrabajoGrupal (1)\\TrabajoGrupal_VersionFinal\\CapaPresentacion\\FRMREPORTERESUMENCATEGORIA.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\FRMREPORTERESUMENCATEGORIA.cs",
+              "ToolTip": "C:\\Users\\Jostin\\Documents\\QUINTO\\API I\\TrabajoGrupal (1)\\TrabajoGrupal (1)\\TrabajoGrupal_VersionFinal\\CapaPresentacion\\FRMREPORTERESUMENCATEGORIA.cs [Dise\u00F1o]",
+              "RelativeToolTip": "CapaPresentacion\\FRMREPORTERESUMENCATEGORIA.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T08:28:45.842Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "FRMREPORTE2.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Jostin\\Documents\\QUINTO\\API I\\TrabajoGrupal (1)\\TrabajoGrupal (1)\\TrabajoGrupal_VersionFinal\\CapaPresentacion\\FRMREPORTE2.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\FRMREPORTE2.cs",
+              "ToolTip": "C:\\Users\\Jostin\\Documents\\QUINTO\\API I\\TrabajoGrupal (1)\\TrabajoGrupal (1)\\TrabajoGrupal_VersionFinal\\CapaPresentacion\\FRMREPORTE2.cs [Dise\u00F1o]",
+              "RelativeToolTip": "CapaPresentacion\\FRMREPORTE2.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T00:23:41.174Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "FRMREPORTE1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Jostin\\Documents\\QUINTO\\API I\\TrabajoGrupal (1)\\TrabajoGrupal (1)\\TrabajoGrupal_VersionFinal\\CapaPresentacion\\FRMREPORTE1.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\FRMREPORTE1.cs",
+              "ToolTip": "C:\\Users\\Jostin\\Documents\\QUINTO\\API I\\TrabajoGrupal (1)\\TrabajoGrupal (1)\\TrabajoGrupal_VersionFinal\\CapaPresentacion\\FRMREPORTE1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "CapaPresentacion\\FRMREPORTE1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T09:34:56.527Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "FRMPROVEDOR.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Jostin\\Documents\\QUINTO\\API I\\TrabajoGrupal (1)\\TrabajoGrupal (1)\\TrabajoGrupal_VersionFinal\\CapaPresentacion\\FRMPROVEDOR.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\FRMPROVEDOR.cs",
+              "ToolTip": "C:\\Users\\Jostin\\Documents\\QUINTO\\API I\\TrabajoGrupal (1)\\TrabajoGrupal (1)\\TrabajoGrupal_VersionFinal\\CapaPresentacion\\FRMPROVEDOR.cs [Dise\u00F1o]",
+              "RelativeToolTip": "CapaPresentacion\\FRMPROVEDOR.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T22:17:28.815Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "FRMEDITAR.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Jostin\\Documents\\QUINTO\\API I\\TrabajoGrupal (1)\\TrabajoGrupal (1)\\TrabajoGrupal_VersionFinal\\CapaPresentacion\\FRMEDITAR.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\FRMEDITAR.cs",
+              "ToolTip": "C:\\Users\\Jostin\\Documents\\QUINTO\\API I\\TrabajoGrupal (1)\\TrabajoGrupal (1)\\TrabajoGrupal_VersionFinal\\CapaPresentacion\\FRMEDITAR.cs [Dise\u00F1o]",
+              "RelativeToolTip": "CapaPresentacion\\FRMEDITAR.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T07:52:43.933Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "FRMCATEGORIA.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Jostin\\Documents\\QUINTO\\API I\\TrabajoGrupal (1)\\TrabajoGrupal (1)\\TrabajoGrupal_VersionFinal\\CapaPresentacion\\FRMCATEGORIA.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\FRMCATEGORIA.cs",
+              "ToolTip": "C:\\Users\\Jostin\\Documents\\QUINTO\\API I\\TrabajoGrupal (1)\\TrabajoGrupal (1)\\TrabajoGrupal_VersionFinal\\CapaPresentacion\\FRMCATEGORIA.cs [Dise\u00F1o]",
+              "RelativeToolTip": "CapaPresentacion\\FRMCATEGORIA.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T23:41:12.302Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "FRMBUSCAREDITAR.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Jostin\\Documents\\QUINTO\\API I\\TrabajoGrupal (1)\\TrabajoGrupal (1)\\TrabajoGrupal_VersionFinal\\CapaPresentacion\\FRMBUSCAREDITAR.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\FRMBUSCAREDITAR.cs",
+              "ToolTip": "C:\\Users\\Jostin\\Documents\\QUINTO\\API I\\TrabajoGrupal (1)\\TrabajoGrupal (1)\\TrabajoGrupal_VersionFinal\\CapaPresentacion\\FRMBUSCAREDITAR.cs [Dise\u00F1o]",
+              "RelativeToolTip": "CapaPresentacion\\FRMBUSCAREDITAR.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T07:49:25.718Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Entidades.cs",
+              "DocumentMoniker": "C:\\Users\\Jostin\\Documents\\QUINTO\\API I\\TrabajoGrupal (1)\\TrabajoGrupal (1)\\TrabajoGrupal_VersionFinal\\CapaEntidades\\Entidades.cs",
+              "RelativeDocumentMoniker": "CapaEntidades\\Entidades.cs",
+              "ToolTip": "C:\\Users\\Jostin\\Documents\\QUINTO\\API I\\TrabajoGrupal (1)\\TrabajoGrupal (1)\\TrabajoGrupal_VersionFinal\\CapaEntidades\\Entidades.cs",
+              "RelativeToolTip": "CapaEntidades\\Entidades.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAADwvxMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T22:14:05.904Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Conexion.cs",
+              "DocumentMoniker": "C:\\Users\\Jostin\\Documents\\QUINTO\\API I\\TrabajoGrupal (1)\\TrabajoGrupal (1)\\TrabajoGrupal_VersionFinal\\CapaDatos\\Conexion.cs",
+              "RelativeDocumentMoniker": "CapaDatos\\Conexion.cs",
+              "ToolTip": "C:\\Users\\Jostin\\Documents\\QUINTO\\API I\\TrabajoGrupal (1)\\TrabajoGrupal (1)\\TrabajoGrupal_VersionFinal\\CapaDatos\\Conexion.cs",
+              "RelativeToolTip": "CapaDatos\\Conexion.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T22:13:39.3Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "FRMEDITAR.cs",
+              "DocumentMoniker": "C:\\Users\\Jostin\\Documents\\QUINTO\\API I\\TrabajoGrupal (1)\\TrabajoGrupal (1)\\TrabajoGrupal_VersionFinal\\CapaPresentacion\\FRMEDITAR.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\FRMEDITAR.cs",
+              "ToolTip": "C:\\Users\\Jostin\\Documents\\QUINTO\\API I\\TrabajoGrupal (1)\\TrabajoGrupal (1)\\TrabajoGrupal_VersionFinal\\CapaPresentacion\\FRMEDITAR.cs",
+              "RelativeToolTip": "CapaPresentacion\\FRMEDITAR.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAkwBoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T07:59:55.286Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "FRMBUSCAREDITAR.cs",
+              "DocumentMoniker": "C:\\Users\\Jostin\\Documents\\QUINTO\\API I\\TrabajoGrupal (1)\\TrabajoGrupal (1)\\TrabajoGrupal_VersionFinal\\CapaPresentacion\\FRMBUSCAREDITAR.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\FRMBUSCAREDITAR.cs",
+              "ToolTip": "C:\\Users\\Jostin\\Documents\\QUINTO\\API I\\TrabajoGrupal (1)\\TrabajoGrupal (1)\\TrabajoGrupal_VersionFinal\\CapaPresentacion\\FRMBUSCAREDITAR.cs",
+              "RelativeToolTip": "CapaPresentacion\\FRMBUSCAREDITAR.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAcwCsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T07:51:46.821Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "FRMSUMINISTRAR.cs",
+              "DocumentMoniker": "C:\\Users\\Jostin\\Documents\\QUINTO\\API I\\TrabajoGrupal (1)\\TrabajoGrupal (1)\\TrabajoGrupal_VersionFinal\\CapaPresentacion\\FRMSUMINISTRAR.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\FRMSUMINISTRAR.cs",
+              "ToolTip": "C:\\Users\\Jostin\\Documents\\QUINTO\\API I\\TrabajoGrupal (1)\\TrabajoGrupal (1)\\TrabajoGrupal_VersionFinal\\CapaPresentacion\\FRMSUMINISTRAR.cs",
+              "RelativeToolTip": "CapaPresentacion\\FRMSUMINISTRAR.cs",
+              "ViewState": "AgIAAHYAAAAAAAAAAADwv34AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T20:03:35.465Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Jostin\\Documents\\QUINTO\\API I\\TrabajoGrupal (1)\\TrabajoGrupal (1)\\TrabajoGrupal_VersionFinal\\CapaPresentacion\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\Jostin\\Documents\\QUINTO\\API I\\TrabajoGrupal (1)\\TrabajoGrupal (1)\\TrabajoGrupal_VersionFinal\\CapaPresentacion\\Form1.Designer.cs",
+              "RelativeToolTip": "CapaPresentacion\\Form1.Designer.cs",
+              "ViewState": "AgIAAGwAAAAAAAAAAAASwHsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T00:09:22.85Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

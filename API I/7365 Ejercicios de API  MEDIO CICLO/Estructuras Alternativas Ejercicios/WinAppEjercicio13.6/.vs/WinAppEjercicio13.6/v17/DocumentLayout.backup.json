@@ -1,0 +1,84 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Jostin\\Documents\\QUINTO\\API I\\Ejercicios de API  MEDIO CICLO\\Estructuras Alternativas Ejercicios\\WinAppEjercicio13.6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C25E832F-7973-47F6-A836-CC70AE09BE32}|WinAppEjercicio13.6\\WinAppEjercicio13.6.csproj|C:\\Users\\Jostin\\Documents\\QUINTO\\API I\\Ejercicios de API  MEDIO CICLO\\Estructuras Alternativas Ejercicios\\WinAppEjercicio13.6\\winappejercicio13.6\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C25E832F-7973-47F6-A836-CC70AE09BE32}|WinAppEjercicio13.6\\WinAppEjercicio13.6.csproj|solutionrelative:winappejercicio13.6\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C25E832F-7973-47F6-A836-CC70AE09BE32}|WinAppEjercicio13.6\\WinAppEjercicio13.6.csproj|c:\\users\\jostin\\documents\\quinto\\api i\\ejercicios de api  medio ciclo\\estructuras alternativas ejercicios\\winappejercicio13.6\\winappejercicio13.6\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C25E832F-7973-47F6-A836-CC70AE09BE32}|WinAppEjercicio13.6\\WinAppEjercicio13.6.csproj|solutionrelative:winappejercicio13.6\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C25E832F-7973-47F6-A836-CC70AE09BE32}|WinAppEjercicio13.6\\WinAppEjercicio13.6.csproj|C:\\Users\\Jostin\\Documents\\QUINTO\\API I\\Ejercicios de API  MEDIO CICLO\\Estructuras Alternativas Ejercicios\\WinAppEjercicio13.6\\winappejercicio13.6\\ruleta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C25E832F-7973-47F6-A836-CC70AE09BE32}|WinAppEjercicio13.6\\WinAppEjercicio13.6.csproj|solutionrelative:winappejercicio13.6\\ruleta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C25E832F-7973-47F6-A836-CC70AE09BE32}|WinAppEjercicio13.6\\WinAppEjercicio13.6.csproj|C:\\Users\\Jostin\\Documents\\QUINTO\\API I\\Ejercicios de API  MEDIO CICLO\\Estructuras Alternativas Ejercicios\\WinAppEjercicio13.6\\winappejercicio13.6\\ruleta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C25E832F-7973-47F6-A836-CC70AE09BE32}|WinAppEjercicio13.6\\WinAppEjercicio13.6.csproj|solutionrelative:winappejercicio13.6\\ruleta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Ruleta.cs",
+              "DocumentMoniker": "C:\\Users\\Jostin\\Documents\\QUINTO\\API I\\Ejercicios de API  MEDIO CICLO\\Estructuras Alternativas Ejercicios\\WinAppEjercicio13.6\\WinAppEjercicio13.6\\Ruleta.cs",
+              "RelativeDocumentMoniker": "WinAppEjercicio13.6\\Ruleta.cs",
+              "ToolTip": "C:\\Users\\Jostin\\Documents\\QUINTO\\API I\\Ejercicios de API  MEDIO CICLO\\Estructuras Alternativas Ejercicios\\WinAppEjercicio13.6\\WinAppEjercicio13.6\\Ruleta.cs",
+              "RelativeToolTip": "WinAppEjercicio13.6\\Ruleta.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T16:54:38.824Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Jostin\\Documents\\QUINTO\\API I\\Ejercicios de API  MEDIO CICLO\\Estructuras Alternativas Ejercicios\\WinAppEjercicio13.6\\WinAppEjercicio13.6\\Form1.cs",
+              "RelativeDocumentMoniker": "WinAppEjercicio13.6\\Form1.cs",
+              "ToolTip": "C:\\Users\\Jostin\\Documents\\QUINTO\\API I\\Ejercicios de API  MEDIO CICLO\\Estructuras Alternativas Ejercicios\\WinAppEjercicio13.6\\WinAppEjercicio13.6\\Form1.cs*",
+              "RelativeToolTip": "WinAppEjercicio13.6\\Form1.cs*",
+              "ViewState": "AgIAAJwAAAAAAAAAAADwv7QAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T16:49:15.281Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Ruleta.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Jostin\\Documents\\QUINTO\\API I\\Ejercicios de API  MEDIO CICLO\\Estructuras Alternativas Ejercicios\\WinAppEjercicio13.6\\WinAppEjercicio13.6\\Ruleta.cs",
+              "RelativeDocumentMoniker": "WinAppEjercicio13.6\\Ruleta.cs",
+              "ToolTip": "C:\\Users\\Jostin\\Documents\\QUINTO\\API I\\Ejercicios de API  MEDIO CICLO\\Estructuras Alternativas Ejercicios\\WinAppEjercicio13.6\\WinAppEjercicio13.6\\Ruleta.cs [Dise\u00F1o]",
+              "RelativeToolTip": "WinAppEjercicio13.6\\Ruleta.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T16:20:54.602Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Jostin\\Documents\\QUINTO\\API I\\Ejercicios de API  MEDIO CICLO\\Estructuras Alternativas Ejercicios\\WinAppEjercicio13.6\\WinAppEjercicio13.6\\Form1.cs",
+              "RelativeDocumentMoniker": "WinAppEjercicio13.6\\Form1.cs",
+              "ToolTip": "C:\\Users\\Jostin\\Documents\\QUINTO\\API I\\Ejercicios de API  MEDIO CICLO\\Estructuras Alternativas Ejercicios\\WinAppEjercicio13.6\\WinAppEjercicio13.6\\Form1.cs [Dise\u00F1o]*",
+              "RelativeToolTip": "WinAppEjercicio13.6\\Form1.cs [Dise\u00F1o]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T16:00:14.831Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

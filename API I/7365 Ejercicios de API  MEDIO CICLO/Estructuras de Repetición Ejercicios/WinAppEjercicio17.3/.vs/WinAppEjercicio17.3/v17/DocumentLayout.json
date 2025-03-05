@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Jostin\\Documents\\QUINTO\\API I\\Ejercicios de API  MEDIO CICLO\\Estructuras de Repetici\u00F3n Ejercicios\\WinAppEjercicio17.3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{554F1B2B-649C-4700-A8E9-AED4FAED6062}|WinAppEjercicio17.3\\WinAppEjercicio17.3.csproj|c:\\users\\jostin\\documents\\quinto\\api i\\ejercicios de api  medio ciclo\\estructuras de repetici\u00F3n ejercicios\\winappejercicio17.3\\winappejercicio17.3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{554F1B2B-649C-4700-A8E9-AED4FAED6062}|WinAppEjercicio17.3\\WinAppEjercicio17.3.csproj|solutionrelative:winappejercicio17.3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{554F1B2B-649C-4700-A8E9-AED4FAED6062}|WinAppEjercicio17.3\\WinAppEjercicio17.3.csproj|C:\\Users\\Jostin\\Documents\\QUINTO\\API I\\Ejercicios de API  MEDIO CICLO\\Estructuras de Repetici\u00F3n Ejercicios\\WinAppEjercicio17.3\\winappejercicio17.3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{554F1B2B-649C-4700-A8E9-AED4FAED6062}|WinAppEjercicio17.3\\WinAppEjercicio17.3.csproj|solutionrelative:winappejercicio17.3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{554F1B2B-649C-4700-A8E9-AED4FAED6062}|WinAppEjercicio17.3\\WinAppEjercicio17.3.csproj|C:\\Users\\Jostin\\Documents\\QUINTO\\API I\\Ejercicios de API  MEDIO CICLO\\Estructuras de Repetici\u00F3n Ejercicios\\WinAppEjercicio17.3\\winappejercicio17.3\\serie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{554F1B2B-649C-4700-A8E9-AED4FAED6062}|WinAppEjercicio17.3\\WinAppEjercicio17.3.csproj|solutionrelative:winappejercicio17.3\\serie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Jostin\\Documents\\QUINTO\\API I\\Ejercicios de API  MEDIO CICLO\\Estructuras de Repetici\u00F3n Ejercicios\\WinAppEjercicio17.3\\WinAppEjercicio17.3\\Form1.cs",
+              "RelativeDocumentMoniker": "WinAppEjercicio17.3\\Form1.cs",
+              "ToolTip": "C:\\Users\\Jostin\\Documents\\QUINTO\\API I\\Ejercicios de API  MEDIO CICLO\\Estructuras de Repetici\u00F3n Ejercicios\\WinAppEjercicio17.3\\WinAppEjercicio17.3\\Form1.cs",
+              "RelativeToolTip": "WinAppEjercicio17.3\\Form1.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAwwCYAAACPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T18:45:18.678Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Serie.cs",
+              "DocumentMoniker": "C:\\Users\\Jostin\\Documents\\QUINTO\\API I\\Ejercicios de API  MEDIO CICLO\\Estructuras de Repetici\u00F3n Ejercicios\\WinAppEjercicio17.3\\WinAppEjercicio17.3\\Serie.cs",
+              "RelativeDocumentMoniker": "WinAppEjercicio17.3\\Serie.cs",
+              "ToolTip": "C:\\Users\\Jostin\\Documents\\QUINTO\\API I\\Ejercicios de API  MEDIO CICLO\\Estructuras de Repetici\u00F3n Ejercicios\\WinAppEjercicio17.3\\WinAppEjercicio17.3\\Serie.cs",
+              "RelativeToolTip": "WinAppEjercicio17.3\\Serie.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T18:57:24.939Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Jostin\\Documents\\QUINTO\\API I\\Ejercicios de API  MEDIO CICLO\\Estructuras de Repetici\u00F3n Ejercicios\\WinAppEjercicio17.3\\WinAppEjercicio17.3\\Form1.cs",
+              "RelativeDocumentMoniker": "WinAppEjercicio17.3\\Form1.cs",
+              "ToolTip": "C:\\Users\\Jostin\\Documents\\QUINTO\\API I\\Ejercicios de API  MEDIO CICLO\\Estructuras de Repetici\u00F3n Ejercicios\\WinAppEjercicio17.3\\WinAppEjercicio17.3\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "WinAppEjercicio17.3\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T18:34:43.837Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

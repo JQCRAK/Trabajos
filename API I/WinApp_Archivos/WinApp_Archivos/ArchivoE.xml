@@ -1,0 +1,15 @@
+<?xml version="1.0" standalone="yes"?>
+<DataSet1 xmlns="http://tempuri.org/DataSet1.xsd">
+  <tblDatos>
+    <Codigo>0</Codigo>
+    <Nombre>A</Nombre>
+    <Edad>6</Edad>
+    <Telefono>89498343</Telefono>
+  </tblDatos>
+  <tblDatos>
+    <Codigo>0</Codigo>
+    <Nombre>A</Nombre>
+    <Edad>6</Edad>
+    <Telefono>89498343</Telefono>
+  </tblDatos>
+</DataSet1>

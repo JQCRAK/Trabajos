@@ -1,0 +1,7 @@
+C:\Users\Jostin\Documents\QUINTO\API I\Con_AreaTriangulo\Con_AreaTriangulo\bin\Debug\Con_AreaTriangulo.exe.config
+C:\Users\Jostin\Documents\QUINTO\API I\Con_AreaTriangulo\Con_AreaTriangulo\bin\Debug\Con_AreaTriangulo.exe
+C:\Users\Jostin\Documents\QUINTO\API I\Con_AreaTriangulo\Con_AreaTriangulo\bin\Debug\Con_AreaTriangulo.pdb
+C:\Users\Jostin\Documents\QUINTO\API I\Con_AreaTriangulo\Con_AreaTriangulo\obj\Debug\Con_AreaTriangulo.csproj.AssemblyReference.cache
+C:\Users\Jostin\Documents\QUINTO\API I\Con_AreaTriangulo\Con_AreaTriangulo\obj\Debug\Con_AreaTriangulo.csproj.CoreCompileInputs.cache
+C:\Users\Jostin\Documents\QUINTO\API I\Con_AreaTriangulo\Con_AreaTriangulo\obj\Debug\Con_AreaTriangulo.exe
+C:\Users\Jostin\Documents\QUINTO\API I\Con_AreaTriangulo\Con_AreaTriangulo\obj\Debug\Con_AreaTriangulo.pdb

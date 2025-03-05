@@ -1,0 +1,318 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Calculadora de Área de Trapecio</title>
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" rel="stylesheet">
+    <script src="App.js" defer></script>
+    <style>
+        :root {
+            --color-primario: #4776E6;
+            --color-secundario: #8E54E9;
+            --color-error: #ff4757;
+            --color-texto: #2d3436;
+            --color-fondo: #f9f9f9;
+            --color-borde: #dfe6e9;
+            --color-card: rgba(255, 255, 255, 0.95);
+        }
+
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Segoe UI', system-ui, -apple-system, sans-serif;
+            background: linear-gradient(135deg, #8BC6EC 0%, #9599E2 100%);
+            color: var(--color-texto);
+            line-height: 1.6;
+            min-height: 100vh;
+            padding: 2rem 0;
+        }
+
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 0 1.5rem;
+        }
+
+        .header {
+            text-align: center;
+            margin-bottom: 2.5rem;
+            padding: 2rem;
+            background: linear-gradient(135deg, var(--color-primario), var(--color-secundario));
+            color: white;
+            border-radius: 20px;
+            box-shadow: 0 8px 20px rgba(0, 0, 0, 0.15);
+            transform: translateY(-10px);
+        }
+
+        .header h1 {
+            font-size: 2.2rem;
+            margin-bottom: 0.5rem;
+            text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2);
+        }
+
+        .header p {
+            font-size: 1.1rem;
+            opacity: 0.9;
+        }
+
+        .calculator-card {
+            background: var(--color-card);
+            border-radius: 20px;
+            padding: 2.5rem;
+            box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
+            backdrop-filter: blur(10px);
+        }
+
+        .trapezoid-diagram {
+            width: 200px;
+            height: 180px;
+            margin: 1rem auto 2rem;
+            filter: drop-shadow(0 4px 8px rgba(0, 0, 0, 0.2));
+        }
+
+        .trapezoid-diagram path {
+            transition: all 0.3s ease;
+        }
+
+        .trapezoid-diagram path.trapezoid-fill {
+            fill: rgba(71, 118, 230, 0.1);
+            stroke: #4776E6;
+            stroke-width: 2;
+        }
+
+        .trapezoid-diagram text {
+            font-family: 'Segoe UI', sans-serif;
+            font-size: 14px;
+            font-weight: 600;
+        }
+
+        .trapezoid-diagram text.vertex {
+            fill: #4776E6;
+        }
+
+        .trapezoid-diagram text.measure-label {
+            fill: #8E54E9;
+            font-style: italic;
+        }
+
+        .trapezoid-diagram:hover path.trapezoid-fill {
+            fill: rgba(71, 118, 230, 0.15);
+            filter: drop-shadow(0 0 3px rgba(71, 118, 230, 0.5));
+        }
+
+        .input-group {
+            display: grid;
+            grid-template-columns: 120px 1fr auto;
+            align-items: center;
+            gap: 1rem;
+            padding: 0.8rem;
+            background: rgba(255, 255, 255, 0.5);
+            border-radius: 10px;
+            transition: all 0.3s ease;
+            margin-bottom: 1rem;
+        }
+
+        .input-group:hover {
+            background: rgba(255, 255, 255, 0.8);
+            transform: translateX(5px);
+        }
+
+        .input-group label {
+            font-weight: 600;
+            color: var(--color-texto);
+            font-size: 1.1rem;
+        }
+
+        .input-group input {
+            padding: 0.8rem 1rem;
+            border: 2px solid var(--color-borde);
+            border-radius: 10px;
+            font-size: 1.1rem;
+            transition: all 0.3s ease;
+            background: white;
+        }
+
+        .input-group input:focus {
+            outline: none;
+            border-color: var(--color-primario);
+            box-shadow: 0 0 0 4px rgba(71, 118, 230, 0.2);
+        }
+
+        .unit {
+            color: #666;
+            font-size: 1rem;
+            font-weight: 500;
+        }
+
+        .calculate-btn {
+            background: linear-gradient(135deg, var(--color-primario), var(--color-secundario));
+            color: white;
+            border: none;
+            padding: 1rem 2rem;
+            border-radius: 12px;
+            cursor: pointer;
+            font-size: 1.2rem;
+            font-weight: 600;
+            transition: all 0.3s ease;
+            margin: 1.5rem 0;
+            width: 100%;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+        }
+
+        .calculate-btn:hover {
+            transform: translateY(-3px);
+            box-shadow: 0 8px 15px rgba(0, 0, 0, 0.2);
+        }
+
+        .calculate-btn:active {
+            transform: translateY(-1px);
+        }
+
+        .error-message {
+            color: var(--color-error);
+            font-size: 1rem;
+            text-align: center;
+            min-height: 1.5rem;
+            margin: 0.8rem 0;
+            padding: 0.5rem;
+            background: rgba(255, 71, 87, 0.1);
+            border-radius: 8px;
+            opacity: 0;
+            transition: opacity 0.3s ease;
+        }
+
+        .error-message.visible {
+            opacity: 1;
+        }
+
+        .results {
+            background: rgba(255, 255, 255, 0.8);
+            padding: 1.5rem;
+            border-radius: 15px;
+            margin-top: 1.5rem;
+            backdrop-filter: blur(5px);
+        }
+
+        .result-item {
+            display: flex;
+            align-items: center;
+            gap: 1rem;
+            margin: 1rem 0;
+            font-size: 1.1rem;
+            font-weight: 500;
+            padding: 0.8rem;
+            border-radius: 8px;
+            transition: all 0.3s ease;
+        }
+
+        .result-item:hover {
+            background: rgba(255, 255, 255, 0.9);
+        }
+
+        .result-item i {
+            color: var(--color-primario);
+            font-size: 1.2rem;
+        }
+
+        @media (max-width: 600px) {
+            .input-group {
+                grid-template-columns: 1fr;
+                padding: 1rem;
+            }
+
+            .header {
+                padding: 1.5rem;
+                margin-bottom: 2rem;
+            }
+
+            .header h1 {
+                font-size: 1.8rem;
+            }
+
+            .calculator-card {
+                padding: 1.5rem;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header class="header">
+            <h1>Calculadora de Área de Trapecio</h1>
+            <p>A = ((B + b) × h) ÷ 2</p>
+        </header>
+
+        <main class="calculator-card">
+            <!-- Trapecio SVG -->
+            <svg class="trapezoid-diagram" viewBox="0 0 200 180">
+                <defs>
+                    <linearGradient id="trapezoidGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+                        <stop offset="0%" style="stop-color:#4776E6;stop-opacity:0.1" />
+                        <stop offset="100%" style="stop-color:#8E54E9;stop-opacity:0.1" />
+                    </linearGradient>
+                    <filter id="glow">
+                        <feGaussianBlur stdDeviation="2" result="coloredBlur"/>
+                        <feMerge>
+                            <feMergeNode in="coloredBlur"/>
+                            <feMergeNode in="SourceGraphic"/>
+                        </feMerge>
+                    </filter>
+                </defs>
+                
+                <path class="trapezoid-fill" 
+                      d="M40 120 L160 120 L140 60 L60 60 Z" 
+                      fill="url(#trapezoidGradient)"
+                      filter="url(#glow)"/>
+                
+                <line x1="100" y1="60" x2="100" y2="120" 
+                      stroke="#8E54E9" stroke-width="1" stroke-dasharray="4"/>
+                
+                <text class="measure-label" x="95" y="95">h</text>
+                <text class="measure-label" x="95" y="135">B</text>
+                <text class="measure-label" x="95" y="55">b</text>
+            </svg>
+
+            <form id="trapezoidForm" onsubmit="return calcularAreaTrapecio(event)">
+                <div class="input-group">
+                    <label for="base-mayor">Base mayor (B):</label>
+                    <input type="number" id="base-mayor" placeholder="Ingrese base mayor" required step="any" min="0">
+                    <span class="unit">cm</span>
+                </div>
+
+                <div class="input-group">
+                    <label for="base-menor">Base menor (b):</label>
+                    <input type="number" id="base-menor" placeholder="Ingrese base menor" required step="any" min="0">
+                    <span class="unit">cm</span>
+                </div>
+
+                <div class="input-group">
+                    <label for="altura">Altura (h):</label>
+                    <input type="number" id="altura" placeholder="Ingrese altura" required step="any" min="0">
+                    <span class="unit">cm</span>
+                </div>
+
+                <button type="submit" class="calculate-btn">
+                    <i class="fas fa-calculator"></i> Calcular Área
+                </button>
+            </form>
+
+            <div id="error-message" class="error-message"></div>
+
+            <div class="results">
+                <div class="result-item">
+                    <i class="fas fa-square"></i>
+                    <span>Área: </span>
+                    <span id="area">-</span>
+                    <span class="unit">cm²</span>
+                </div>
+            </div>
+        </main>
+    </div>
+</body>
+</html>

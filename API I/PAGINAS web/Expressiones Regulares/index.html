@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>Expresiones Regulares</h1>
+    <form>
+        <label>Ingrese su nombre</label> <br>
+        <input type="text" placeholder="nombre" required maxlength="20" > <br>
+        <label>Ingrese la edad</label> <br>
+        <input type="number" min="1" max="3"> <br> 
+        <label>Fecha de nacimiento</label> <br>
+        <input type="date" min="2023/01/01" max="2024/01/06"><br>
+        <label>Subir un archivo</label> <br>
+        <input type="file" > <br>
+        <label>Subir multiples archivos</label> <br>
+        <input type="file" multiple> <br>
+        <label>Subir un archivo específico</label><br>
+        <input type="file" accept=".mp3, .pdf"><br>
+        <label>Correo Electronico</label> <br>
+        <input type="email" placeholder="example@gmail.com"> <br>
+        <label>Ingrese Riobamba</label><br>
+        <input type="text" name="" id="" pattern="Riobamba"><br>
+        <label>Ingrese RiobAmba</label><br>
+        <input type="text" name="" id="" pattern="[Rr]iob[A]mba"><br>
+        <label>Que empiece con culaquier letra</label><br>
+        <input type="text" name="" id="" pattern=".iobamba"><br>
+        <label>Que solo acepte letras de la a-z</label><br>
+        <input type="text" name="" id="" pattern="[a-zA-Z\ñ\Ñ]"><br>
+        <label>Que solo acepte numeros del 0 al 9</label><br>
+        <input type="text" name="" id="" pattern="[0-9]"><br>
+        <input type="submit" value="Enviar">
+    </form>
+    
+</body>
+</html>

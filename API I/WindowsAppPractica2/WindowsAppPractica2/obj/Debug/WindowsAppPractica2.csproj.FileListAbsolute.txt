@@ -1,0 +1,16 @@
+C:\Users\Jostin\Documents\QUINTO\API I\WindowsAppPractica2\WindowsAppPractica2\bin\Debug\WindowsAppPractica2.exe.config
+C:\Users\Jostin\Documents\QUINTO\API I\WindowsAppPractica2\WindowsAppPractica2\bin\Debug\WindowsAppPractica2.exe
+C:\Users\Jostin\Documents\QUINTO\API I\WindowsAppPractica2\WindowsAppPractica2\bin\Debug\WindowsAppPractica2.pdb
+C:\Users\Jostin\Documents\QUINTO\API I\WindowsAppPractica2\WindowsAppPractica2\obj\Debug\WindowsAppPractica2.csproj.AssemblyReference.cache
+C:\Users\Jostin\Documents\QUINTO\API I\WindowsAppPractica2\WindowsAppPractica2\obj\Debug\WindowsAppPractica2.Form1.resources
+C:\Users\Jostin\Documents\QUINTO\API I\WindowsAppPractica2\WindowsAppPractica2\obj\Debug\WindowsAppPractica2.Properties.Resources.resources
+C:\Users\Jostin\Documents\QUINTO\API I\WindowsAppPractica2\WindowsAppPractica2\obj\Debug\WindowsAppPractica2.csproj.GenerateResource.cache
+C:\Users\Jostin\Documents\QUINTO\API I\WindowsAppPractica2\WindowsAppPractica2\obj\Debug\WindowsAppPractica2.csproj.CoreCompileInputs.cache
+C:\Users\Jostin\Documents\QUINTO\API I\WindowsAppPractica2\WindowsAppPractica2\obj\Debug\WindowsAppPractica2.exe
+C:\Users\Jostin\Documents\QUINTO\API I\WindowsAppPractica2\WindowsAppPractica2\obj\Debug\WindowsAppPractica2.pdb
+C:\Users\Jostin\Documents\QUINTO\API I\WindowsAppPractica2\WindowsAppPractica2\obj\Debug\WindowsAppPractica2.FRMFELIZ.resources
+C:\Users\Jostin\Documents\QUINTO\API I\WindowsAppPractica2\WindowsAppPractica2\obj\Debug\WindowsAppPractica2.Form2.resources
+C:\Users\Jostin\Documents\QUINTO\API I\WindowsAppPractica2\WindowsAppPractica2\bin\Debug\WindowsAppCalcularnumcifras.dll
+C:\Users\Jostin\Documents\QUINTO\API I\WindowsAppPractica2\WindowsAppPractica2\bin\Debug\WindowsAppCalcularnumcifras.pdb
+C:\Users\Jostin\Documents\QUINTO\API I\WindowsAppPractica2\WindowsAppPractica2\bin\Debug\WindowsAppCalcularnumcifras.dll.config
+C:\Users\Jostin\Documents\QUINTO\API I\WindowsAppPractica2\WindowsAppPractica2\obj\Debug\WindowsA.5012C72F.Up2Date

@@ -1,0 +1,16 @@
+C:\Users\Jostin\Documents\QUINTO\API I\Ejercicios de API  MEDIO CICLO\Estructuras Alternativas Ejercicios\WinAppEjercicio9.2\WinAppEjercicio9.2\bin\Debug\WinAppEjercicio9.2.exe.config
+C:\Users\Jostin\Documents\QUINTO\API I\Ejercicios de API  MEDIO CICLO\Estructuras Alternativas Ejercicios\WinAppEjercicio9.2\WinAppEjercicio9.2\bin\Debug\WinAppEjercicio9.2.exe
+C:\Users\Jostin\Documents\QUINTO\API I\Ejercicios de API  MEDIO CICLO\Estructuras Alternativas Ejercicios\WinAppEjercicio9.2\WinAppEjercicio9.2\bin\Debug\WinAppEjercicio9.2.pdb
+C:\Users\Jostin\Documents\QUINTO\API I\Ejercicios de API  MEDIO CICLO\Estructuras Alternativas Ejercicios\WinAppEjercicio9.2\WinAppEjercicio9.2\obj\Debug\WinAppEjercicio9.2.csproj.AssemblyReference.cache
+C:\Users\Jostin\Documents\QUINTO\API I\Ejercicios de API  MEDIO CICLO\Estructuras Alternativas Ejercicios\WinAppEjercicio9.2\WinAppEjercicio9.2\obj\Debug\WinAppEjercicio9._2.Form1.resources
+C:\Users\Jostin\Documents\QUINTO\API I\Ejercicios de API  MEDIO CICLO\Estructuras Alternativas Ejercicios\WinAppEjercicio9.2\WinAppEjercicio9.2\obj\Debug\WinAppEjercicio9._2.Properties.Resources.resources
+C:\Users\Jostin\Documents\QUINTO\API I\Ejercicios de API  MEDIO CICLO\Estructuras Alternativas Ejercicios\WinAppEjercicio9.2\WinAppEjercicio9.2\obj\Debug\WinAppEjercicio9.2.csproj.GenerateResource.cache
+C:\Users\Jostin\Documents\QUINTO\API I\Ejercicios de API  MEDIO CICLO\Estructuras Alternativas Ejercicios\WinAppEjercicio9.2\WinAppEjercicio9.2\obj\Debug\WinAppEjercicio9.2.csproj.CoreCompileInputs.cache
+C:\Users\Jostin\Documents\QUINTO\API I\Ejercicios de API  MEDIO CICLO\Estructuras Alternativas Ejercicios\WinAppEjercicio9.2\WinAppEjercicio9.2\obj\Debug\WinAppEjercicio9.2.exe
+C:\Users\Jostin\Documents\QUINTO\API I\Ejercicios de API  MEDIO CICLO\Estructuras Alternativas Ejercicios\WinAppEjercicio9.2\WinAppEjercicio9.2\obj\Debug\WinAppEjercicio9.2.pdb
+C:\Users\Jostin\Documents\QUINTO\API I\Ejercicios de API  MEDIO CICLO\Estructuras Alternativas Ejercicios\WinAppEjercicio9.2\WinAppEjercicio9.2\obj\Debug\WinAppEjercicio9._2.Listadepeliculasdeanimacion.resources
+C:\Users\Jostin\Documents\QUINTO\API I\Ejercicios de API  MEDIO CICLO\Estructuras Alternativas Ejercicios\WinAppEjercicio9.2\WinAppEjercicio9.2\obj\Debug\WinAppEjercicio9._2.Peliculas_CienciaFiccion.resources
+C:\Users\Jostin\Documents\QUINTO\API I\Ejercicios de API  MEDIO CICLO\Estructuras Alternativas Ejercicios\WinAppEjercicio9.2\WinAppEjercicio9.2\obj\Debug\WinAppEjercicio9._2.Series_CienciaFiccion.resources
+C:\Users\Jostin\Documents\QUINTO\API I\Ejercicios de API  MEDIO CICLO\Estructuras Alternativas Ejercicios\WinAppEjercicio9.2\WinAppEjercicio9.2\obj\Debug\WinAppEjercicio9._2.Listas_Series_Drama.resources
+C:\Users\Jostin\Documents\QUINTO\API I\Ejercicios de API  MEDIO CICLO\Estructuras Alternativas Ejercicios\WinAppEjercicio9.2\WinAppEjercicio9.2\obj\Debug\WinAppEjercicio9._2.Peliculas_Drama.resources
+C:\Users\Jostin\Documents\QUINTO\API I\Ejercicios de API  MEDIO CICLO\Estructuras Alternativas Ejercicios\WinAppEjercicio9.2\WinAppEjercicio9.2\obj\Debug\WinAppEjercicio9._2.películasdelmomento.resources

@@ -1,0 +1,193 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mi Proyecto con Bulma</title>
+    <link rel="stylesheet" href="bulma-1.0.2/bulma/css/bulma.min.css">
+</head>
+<body>
+
+    <!-- Encabezado -->
+    <section class="hero is-primary">
+        <div class="hero-body">
+            <p class="title">¡Hola, Bulma!</p>
+            <p class="subtitle">Mi primer proyecto con este framework.</p>
+        </div>
+    </section>
+
+    <!-- Contenido -->
+    <div class="container my-5">
+        <h2 class="title is-2">Sección principal</h2>
+        <p>Este es un ejemplo básico de cómo usar Bulma en tu proyecto.</p>
+
+        <!-- Tabla básica -->
+        <h2 class="title is-3 mt-5">1. Tabla básica</h2>
+        <table class="table is-striped is-hoverable is-fullwidth">
+            <thead>
+                <tr>
+                    <th>#</th>
+                    <th>Nombre</th>
+                    <th>Edad</th>
+                    <th>Ciudad</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <th>1</th>
+                    <td>Ana</td>
+                    <td>23</td>
+                    <td>Quito</td>
+                </tr>
+                <tr>
+                    <th>2</th>
+                    <td>Jorge</td>
+                    <td>30</td>
+                    <td>Guayaquil</td>
+                </tr>
+                <tr>
+                    <th>3</th>
+                    <td>María</td>
+                    <td>28</td>
+                    <td>Cuenca</td>
+                </tr>
+            </tbody>
+        </table>
+
+        <!-- Tabla con rayas alternas -->
+        <h2 class="title is-3 mt-5">2. Tabla con rayas alternas</h2>
+        <table class="table is-striped">
+            <thead>
+                <tr>
+                    <th>#</th>
+                    <th>Producto</th>
+                    <th>Precio</th>
+                    <th>Cantidad</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <th>1</th>
+                    <td>Manzanas</td>
+                    <td>$1.50</td>
+                    <td>15</td>
+                </tr>
+                <tr>
+                    <th>2</th>
+                    <td>Plátanos</td>
+                    <td>$0.80</td>
+                    <td>20</td>
+                </tr>
+                <tr>
+                    <th>3</th>
+                    <td>Naranjas</td>
+                    <td>$1.00</td>
+                    <td>10</td>
+                </tr>
+            </tbody>
+        </table>
+
+        <!-- Tabla con bordes -->
+        <h2 class="title is-3 mt-5">3. Tabla con Bordes</h2>
+        <table class="table is-bordered is-fullwidth">
+            <thead>
+                <tr>
+                    <th>#</th>
+                    <th>Servicio</th>
+                    <th>Costo</th>
+                    <th>Duración</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <th>1</th>
+                    <td>Consulta Médica</td>
+                    <td>$50</td>
+                    <td>30 min</td>
+                </tr>
+                <tr>
+                    <th>2</th>
+                    <td>Examen Laboratorio</td>
+                    <td>$25</td>
+                    <td>20 min</td>
+                </tr>
+                <tr>
+                    <th>3</th>
+                    <td>Terapia Física</td>
+                    <td>$40</td>
+                    <td>1 hora</td>
+                </tr>
+            </tbody>
+        </table>
+
+        <!-- Tabla Responsiva -->
+        <h2 class="title is-3 mt-5">4. Tabla Responsiva</h2>
+        <div class="table-container">
+            <table class="table is-bordered is-striped is-hoverable is-fullwidth">
+                <thead>
+                    <tr>
+                        <th>#</th>
+                        <th>Estudiante</th>
+                        <th>Curso</th>
+                        <th>Calificación</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <th>1</th>
+                        <td>Pedro</td>
+                        <td>Matemáticas</td>
+                        <td>A</td>
+                    </tr>
+                    <tr>
+                        <th>2</th>
+                        <td>Lucía</td>
+                        <td>Ciencias</td>
+                        <td>B+</td>
+                    </tr>
+                    <tr>
+                        <th>3</th>
+                        <td>Juan</td>
+                        <td>Historia</td>
+                        <td>A-</td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+
+        <!-- Tabla con Botones en Filas -->
+        <h2 class="title is-3 mt-5">5. Tabla con Botones en Filas</h2>
+        <table class="table is-striped is-hoverable">
+            <thead>
+                <tr>
+                    <th>#</th>
+                    <th>Nombre</th>
+                    <th>Correo</th>
+                    <th>Acción</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <th>1</th>
+                    <td>Laura</td>
+                    <td>laura@example.com</td>
+                    <td><button class="button is-small is-info">Ver Perfil</button></td>
+                </tr>
+                <tr>
+                    <th>2</th>
+                    <td>Carlos</td>
+                    <td>carlos@example.com</td>
+                    <td><button class="button is-small is-danger">Eliminar</button></td>
+                </tr>
+                <tr>
+                    <th>3</th>
+                    <td>Diego</td>
+                    <td>diego@example.com</td>
+                    <td><button class="button is-small is-success">Editar</button></td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+
+</body>
+</html>

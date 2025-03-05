@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Asistente de Voz</title>
+    <script src="App3.js"></script>
+    <style>
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background: linear-gradient(135deg, #6e8efb, #a777e3);
+            min-height: 100vh;
+            margin: 0;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+
+        .container {
+            background: rgba(255, 255, 255, 0.95);
+            border-radius: 20px;
+            padding: 2rem;
+            box-shadow: 0 8px 32px rgba(0, 0, 0, 0.1);
+            text-align: center;
+            max-width: 500px;
+            width: 90%;
+        }
+
+        h1 {
+            color: #4a4a4a;
+            margin-bottom: 1.5rem;
+            font-size: 2.5rem;
+            text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.1);
+        }
+
+        .mic-button {
+            background: #6e8efb;
+            color: white;
+            border: none;
+            padding: 1rem 2rem;
+            border-radius: 50px;
+            font-size: 1.2rem;
+            cursor: pointer;
+            transition: transform 0.2s, background 0.3s;
+            margin: 1rem 0;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            gap: 10px;
+            width: 200px;
+            margin: 1rem auto;
+        }
+
+        .mic-button:hover {
+            background: #5c7cfa;
+            transform: scale(1.05);
+        }
+
+        .mic-button:active {
+            transform: scale(0.95);
+        }
+
+        #output {
+            background: #f5f5f5;
+            padding: 1rem;
+            border-radius: 10px;
+            margin-top: 1rem;
+            min-height: 100px;
+            font-size: 1.1rem;
+            color: #333;
+            white-space: pre-wrap;
+        }
+
+        .status {
+            color: #666;
+            font-style: italic;
+            margin: 1rem 0;
+        }
+
+        .mic-icon {
+            width: 24px;
+            height: 24px;
+            fill: currentColor;
+        }
+
+        .pulse {
+            animation: pulse 1.5s infinite;
+        }
+
+        @keyframes pulse {
+            0% {
+                transform: scale(1);
+            }
+            50% {
+                transform: scale(1.1);
+            }
+            100% {
+                transform: scale(1);
+            }
+        }
+
+        .commands {
+            background: #eef2ff;
+            padding: 1rem;
+            border-radius: 10px;
+            margin-top: 1rem;
+            text-align: left;
+        }
+
+        .commands h3 {
+            color: #4a4a4a;
+            margin-top: 0;
+        }
+
+        .commands ul {
+            margin: 0;
+            padding-left: 1.5rem;
+            color: #666;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>🎤 Asistente de Voz</h1>
+        
+        <button id="startButton" class="mic-button">
+            <svg class="mic-icon" viewBox="0 0 24 24">
+                <path d="M12 14c1.66 0 3-1.34 3-3V5c0-1.66-1.34-3-3-3S9 3.34 9 5v6c0 1.66 1.34 3 3 3z"/>
+                <path d="M17 11c0 2.76-2.24 5-5 5s-5-2.24-5-5H5c0 3.53 2.61 6.43 6 6.92V21h2v-3.08c3.39-.49 6-3.39 6-6.92h-2z"/>
+            </svg>
+            Iniciar Reconocimiento
+        </button>
+        
+        <p id="status" class="status">Esperando para iniciar...</p>
+        <div id="output">El texto reconocido aparecerá aquí...</div>
+
+        <div class="commands">
+            <h3>Comandos disponibles:</h3>
+            <ul>
+                <li>Di "hola" para un saludo</li>
+                <li>Di "hora" para saber la hora actual</li>
+                <li>Di "fecha" para saber la fecha actual</li>
+                <li>Di "chiste" para escuchar un chiste</li>
+                <li>Di "limpiar" para borrar el texto</li>
+            </ul>
+        </div>
+    </div>
+</body>
+</html>

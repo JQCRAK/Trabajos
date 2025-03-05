@@ -1,0 +1,72 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Jostin\\Documents\\QUINTO\\API I\\Ejercicios de API  MEDIO CICLO\\Estructuras Secuenciales Ejercicios\\WinAppEjercicio4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F4AAF698-BF0D-4F44-8358-9F53BF769A5D}|WinAppEjercicio4\\WinAppEjercicio4.csproj|C:\\Users\\Jostin\\Documents\\QUINTO\\API I\\Ejercicios de API  MEDIO CICLO\\Estructuras Secuenciales Ejercicios\\WinAppEjercicio4\\winappejercicio4\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4AAF698-BF0D-4F44-8358-9F53BF769A5D}|WinAppEjercicio4\\WinAppEjercicio4.csproj|solutionrelative:winappejercicio4\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4AAF698-BF0D-4F44-8358-9F53BF769A5D}|WinAppEjercicio4\\WinAppEjercicio4.csproj|C:\\Users\\Jostin\\Documents\\QUINTO\\API I\\Ejercicios de API  MEDIO CICLO\\Estructuras Secuenciales Ejercicios\\WinAppEjercicio4\\winappejercicio4\\calcularsalarion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4AAF698-BF0D-4F44-8358-9F53BF769A5D}|WinAppEjercicio4\\WinAppEjercicio4.csproj|solutionrelative:winappejercicio4\\calcularsalarion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4AAF698-BF0D-4F44-8358-9F53BF769A5D}|WinAppEjercicio4\\WinAppEjercicio4.csproj|c:\\users\\jostin\\documents\\quinto\\api i\\ejercicios de api  medio ciclo\\estructuras secuenciales ejercicios\\winappejercicio4\\winappejercicio4\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F4AAF698-BF0D-4F44-8358-9F53BF769A5D}|WinAppEjercicio4\\WinAppEjercicio4.csproj|solutionrelative:winappejercicio4\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CalcularSalarioN.cs",
+              "DocumentMoniker": "C:\\Users\\Jostin\\Documents\\QUINTO\\API I\\Ejercicios de API  MEDIO CICLO\\Estructuras Secuenciales Ejercicios\\WinAppEjercicio4\\WinAppEjercicio4\\CalcularSalarioN.cs",
+              "RelativeDocumentMoniker": "WinAppEjercicio4\\CalcularSalarioN.cs",
+              "ToolTip": "C:\\Users\\Jostin\\Documents\\QUINTO\\API I\\Ejercicios de API  MEDIO CICLO\\Estructuras Secuenciales Ejercicios\\WinAppEjercicio4\\WinAppEjercicio4\\CalcularSalarioN.cs",
+              "RelativeToolTip": "WinAppEjercicio4\\CalcularSalarioN.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAzwBEAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T21:29:59.199Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Jostin\\Documents\\QUINTO\\API I\\Ejercicios de API  MEDIO CICLO\\Estructuras Secuenciales Ejercicios\\WinAppEjercicio4\\WinAppEjercicio4\\Form1.cs",
+              "RelativeDocumentMoniker": "WinAppEjercicio4\\Form1.cs",
+              "ToolTip": "C:\\Users\\Jostin\\Documents\\QUINTO\\API I\\Ejercicios de API  MEDIO CICLO\\Estructuras Secuenciales Ejercicios\\WinAppEjercicio4\\WinAppEjercicio4\\Form1.cs*",
+              "RelativeToolTip": "WinAppEjercicio4\\Form1.cs*",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAcwGkAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T20:59:30.954Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Jostin\\Documents\\QUINTO\\API I\\Ejercicios de API  MEDIO CICLO\\Estructuras Secuenciales Ejercicios\\WinAppEjercicio4\\WinAppEjercicio4\\Form1.cs",
+              "RelativeDocumentMoniker": "WinAppEjercicio4\\Form1.cs",
+              "ToolTip": "C:\\Users\\Jostin\\Documents\\QUINTO\\API I\\Ejercicios de API  MEDIO CICLO\\Estructuras Secuenciales Ejercicios\\WinAppEjercicio4\\WinAppEjercicio4\\Form1.cs [Dise\u00F1o]*",
+              "RelativeToolTip": "WinAppEjercicio4\\Form1.cs [Dise\u00F1o]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T20:46:10.671Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

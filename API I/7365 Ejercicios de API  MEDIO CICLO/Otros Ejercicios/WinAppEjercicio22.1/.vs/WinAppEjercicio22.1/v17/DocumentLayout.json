@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Jostin\\Documents\\QUINTO\\API I\\Ejercicios de API  MEDIO CICLO\\Otros Ejercicios\\WinAppEjercicio22.1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E22658BC-DCE2-4FB1-B816-3469A78360BB}|WinAppEjercicio22.1\\WinAppEjercicio22.1.csproj|c:\\users\\jostin\\documents\\quinto\\api i\\ejercicios de api  medio ciclo\\otros ejercicios\\winappejercicio22.1\\winappejercicio22.1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E22658BC-DCE2-4FB1-B816-3469A78360BB}|WinAppEjercicio22.1\\WinAppEjercicio22.1.csproj|solutionrelative:winappejercicio22.1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E22658BC-DCE2-4FB1-B816-3469A78360BB}|WinAppEjercicio22.1\\WinAppEjercicio22.1.csproj|C:\\Users\\Jostin\\Documents\\QUINTO\\API I\\Ejercicios de API  MEDIO CICLO\\Otros Ejercicios\\WinAppEjercicio22.1\\winappejercicio22.1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E22658BC-DCE2-4FB1-B816-3469A78360BB}|WinAppEjercicio22.1\\WinAppEjercicio22.1.csproj|solutionrelative:winappejercicio22.1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Jostin\\Documents\\QUINTO\\API I\\Ejercicios de API  MEDIO CICLO\\Otros Ejercicios\\WinAppEjercicio22.1\\WinAppEjercicio22.1\\Form1.cs",
+              "RelativeDocumentMoniker": "WinAppEjercicio22.1\\Form1.cs",
+              "ToolTip": "C:\\Users\\Jostin\\Documents\\QUINTO\\API I\\Ejercicios de API  MEDIO CICLO\\Otros Ejercicios\\WinAppEjercicio22.1\\WinAppEjercicio22.1\\Form1.cs",
+              "RelativeToolTip": "WinAppEjercicio22.1\\Form1.cs",
+              "ViewState": "AgIAAHoAAAAAAAAAAAAUwJwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T23:50:23.412Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Jostin\\Documents\\QUINTO\\API I\\Ejercicios de API  MEDIO CICLO\\Otros Ejercicios\\WinAppEjercicio22.1\\WinAppEjercicio22.1\\Form1.cs",
+              "RelativeDocumentMoniker": "WinAppEjercicio22.1\\Form1.cs",
+              "ToolTip": "C:\\Users\\Jostin\\Documents\\QUINTO\\API I\\Ejercicios de API  MEDIO CICLO\\Otros Ejercicios\\WinAppEjercicio22.1\\WinAppEjercicio22.1\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "WinAppEjercicio22.1\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T22:51:54.301Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

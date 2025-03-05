@@ -1,0 +1,7 @@
+C:\Users\Jostin\Documents\QUINTO\API I\CONAPPSUMA\CONAPPSUMA\bin\Debug\CONAPPSUMA.exe.config
+C:\Users\Jostin\Documents\QUINTO\API I\CONAPPSUMA\CONAPPSUMA\bin\Debug\CONAPPSUMA.exe
+C:\Users\Jostin\Documents\QUINTO\API I\CONAPPSUMA\CONAPPSUMA\bin\Debug\CONAPPSUMA.pdb
+C:\Users\Jostin\Documents\QUINTO\API I\CONAPPSUMA\CONAPPSUMA\obj\Debug\CONAPPSUMA.csproj.AssemblyReference.cache
+C:\Users\Jostin\Documents\QUINTO\API I\CONAPPSUMA\CONAPPSUMA\obj\Debug\CONAPPSUMA.csproj.CoreCompileInputs.cache
+C:\Users\Jostin\Documents\QUINTO\API I\CONAPPSUMA\CONAPPSUMA\obj\Debug\CONAPPSUMA.exe
+C:\Users\Jostin\Documents\QUINTO\API I\CONAPPSUMA\CONAPPSUMA\obj\Debug\CONAPPSUMA.pdb

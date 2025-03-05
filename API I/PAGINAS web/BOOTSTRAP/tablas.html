@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tipos de Tablas en HTML</title>
+    <style>
+        table {
+            border-collapse: collapse;
+            width: 100%;
+            margin-bottom: 20px;
+        }
+        th, td {
+            border: 1px solid #000;
+            padding: 8px;
+            text-align: center;
+        }
+        .striped tr:nth-child(even) {
+            background-color: #f2f2f2;
+        }
+        .bordered th, .bordered td {
+            border: 2px solid #333;
+        }
+        .highlighted th {
+            background-color: #ffcc00;
+        }
+    </style>
+</head>
+<body>
+    <h1>Tipos de Tablas en HTML</h1>
+
+    <!-- Tabla básica -->
+    <h2>1. Tabla Básica</h2>
+    <table>
+        <tr>
+            <th>Columna 1</th>
+            <th>Columna 2</th>
+            <th>Columna 3</th>
+        </tr>
+        <tr>
+            <td>Dato 1</td>
+            <td>Dato 2</td>
+            <td>Dato 3</td>
+        </tr>
+        <tr>
+            <td>Dato 4</td>
+            <td>Dato 5</td>
+            <td>Dato 6</td>
+        </tr>
+    </table>
+
+    <!-- Tabla con filas alternadas -->
+    <h2>2. Tabla con Filas Alternadas</h2>
+    <table class="striped">
+        <tr>
+            <th>Nombre</th>
+            <th>Edad</th>
+            <th>País</th>
+        </tr>
+        <tr>
+            <td>Ana</td>
+            <td>25</td>
+            <td>México</td>
+        </tr>
+        <tr>
+            <td>Juan</td>
+            <td>30</td>
+            <td>España</td>
+        </tr>
+        <tr>
+            <td>Maria</td>
+            <td>28</td>
+            <td>Argentina</td>
+        </tr>
+    </table>
+
+    <!-- Tabla con bordes personalizados -->
+    <h2>3. Tabla con Bordes Personalizados</h2>
+    <table class="bordered">
+        <tr>
+            <th>Producto</th>
+            <th>Precio</th>
+            <th>Cantidad</th>
+        </tr>
+        <tr>
+            <td>Manzanas</td>
+            <td>$1.00</td>
+            <td>10</td>
+        </tr>
+        <tr>
+            <td>Naranjas</td>
+            <td>$0.80</td>
+            <td>15</td>
+        </tr>
+    </table>
+
+    <!-- Tabla con encabezado destacado -->
+    <h2>4. Tabla con Encabezado Destacado</h2>
+    <table class="highlighted">
+        <tr>
+            <th>Departamento</th>
+            <th>Empleado</th>
+            <th>Salario</th>
+        </tr>
+        <tr>
+            <td>Recursos Humanos</td>
+            <td>Lucía</td>
+            <td>$2500</td>
+        </tr>
+        <tr>
+            <td>IT</td>
+            <td>Carlos</td>
+            <td>$3000</td>
+        </tr>
+    </table>
+</body>
+</html>

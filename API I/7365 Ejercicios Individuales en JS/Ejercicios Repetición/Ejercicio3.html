@@ -1,0 +1,164 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Generador de Combinaciones</title>
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.3.2/css/bootstrap.min.css" rel="stylesheet">
+    <style>
+        body {
+            background: linear-gradient(-45deg, #ee7752, #e73c7e, #23a6d5, #23d5ab);
+            background-size: 400% 400%;
+            animation: gradient 15s ease infinite;
+            min-height: 100vh;
+            padding: 20px;
+        }
+
+        @keyframes gradient {
+            0% { background-position: 0% 50%; }
+            50% { background-position: 100% 50%; }
+            100% { background-position: 0% 50%; }
+        }
+
+        .main-container {
+            background: rgba(255, 255, 255, 0.9);
+            border-radius: 30px;
+            box-shadow: 0 8px 32px rgba(0, 0, 0, 0.1);
+            padding: 30px;
+            margin-top: 20px;
+            backdrop-filter: blur(8px);
+        }
+
+        h1 {
+            color: #e73c7e;
+            text-align: center;
+            margin-bottom: 30px;
+            font-weight: 800;
+            font-size: 2.8rem;
+            text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.1);
+        }
+
+        .input-section {
+            background: white;
+            border-radius: 20px;
+            padding: 25px;
+            margin-bottom: 20px;
+            box-shadow: 0 4px 15px rgba(0, 0, 0, 0.05);
+        }
+
+        .result-card {
+            background: white;
+            border-radius: 15px;
+            padding: 20px;
+            margin: 10px 0;
+            transition: all 0.3s ease;
+            border-left: 5px solid #23a6d5;
+            max-height: 400px;
+            overflow-y: auto;
+        }
+
+        .btn-generar {
+            background: linear-gradient(45deg, #e73c7e, #23a6d5);
+            border: none;
+            color: white;
+            padding: 15px 30px;
+            border-radius: 50px;
+            font-weight: 600;
+            transition: all 0.3s ease;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+            width: 100%;
+        }
+
+        .btn-generar:hover {
+            background: linear-gradient(45deg, #23a6d5, #e73c7e);
+            transform: translateY(-2px);
+            box-shadow: 0 5px 15px rgba(231, 60, 126, 0.4);
+            color: white;
+        }
+
+        .info-text {
+            color: #666;
+            font-size: 0.9rem;
+            margin-top: 8px;
+        }
+
+        .number-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(80px, 1fr));
+            gap: 10px;
+            padding: 10px;
+        }
+
+        .number-item {
+            background: #f8f9fa;
+            padding: 8px;
+            border-radius: 8px;
+            text-align: center;
+            font-weight: 500;
+            color: #2c3e50;
+            border: 1px solid #e0e0e0;
+        }
+
+        @keyframes slideIn {
+            from {
+                opacity: 0;
+                transform: translateY(20px);
+            }
+            to {
+                opacity: 1;
+                transform: translateY(0);
+            }
+        }
+
+        .animated {
+            animation: slideIn 0.5s ease forwards;
+        }
+
+        .stats-container {
+            margin-top: 20px;
+            padding: 15px;
+            background: #f8f9fa;
+            border-radius: 10px;
+            font-size: 1.1rem;
+            color: #2c3e50;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="main-container">
+            <h1>🔢 Generador de Combinaciones</h1>
+            
+            <div class="row">
+                <div class="col-md-4">
+                    <div class="input-section">
+                        <h3 class="mb-4">Panel de Control</h3>
+                        <div class="mb-3">
+                            <button class="btn btn-generar" onclick="generarCombinaciones()">
+                                Generar Combinaciones
+                            </button>
+                            <div class="info-text">Se generarán todas las combinaciones posibles de 3 cifras usando los dígitos 1, 2, 3, 4</div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-md-8">
+                    <div class="result-card animated">
+                        <h4>Combinaciones Generadas</h4>
+                        <div id="resultadoCombinaciones" class="number-grid">
+                            <!-- Aquí se mostrarán las combinaciones -->
+                        </div>
+                        <div id="statsContainer" class="stats-container">
+                            Total de combinaciones: <span id="totalCombinaciones">0</span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.3.2/js/bootstrap.bundle.min.js"></script>
+    <script src="App2.js"></script>
+</body>
+</html>

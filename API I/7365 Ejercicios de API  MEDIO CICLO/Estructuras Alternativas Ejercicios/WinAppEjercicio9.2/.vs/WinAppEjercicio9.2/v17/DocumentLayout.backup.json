@@ -1,0 +1,160 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Jostin\\Documents\\QUINTO\\API I\\Ejercicios de API  MEDIO CICLO\\Estructuras Alternativas Ejercicios\\WinAppEjercicio9.2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9784F1F5-2EAD-4A2A-9C33-D2B077E89EA4}|WinAppEjercicio9.2\\WinAppEjercicio9.2.csproj|C:\\Users\\Jostin\\Documents\\QUINTO\\API I\\Ejercicios de API  MEDIO CICLO\\Estructuras Alternativas Ejercicios\\WinAppEjercicio9.2\\winappejercicio9.2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9784F1F5-2EAD-4A2A-9C33-D2B077E89EA4}|WinAppEjercicio9.2\\WinAppEjercicio9.2.csproj|solutionrelative:winappejercicio9.2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9784F1F5-2EAD-4A2A-9C33-D2B077E89EA4}|WinAppEjercicio9.2\\WinAppEjercicio9.2.csproj|c:\\users\\jostin\\documents\\quinto\\api i\\ejercicios de api  medio ciclo\\estructuras alternativas ejercicios\\winappejercicio9.2\\winappejercicio9.2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9784F1F5-2EAD-4A2A-9C33-D2B077E89EA4}|WinAppEjercicio9.2\\WinAppEjercicio9.2.csproj|solutionrelative:winappejercicio9.2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9784F1F5-2EAD-4A2A-9C33-D2B077E89EA4}|WinAppEjercicio9.2\\WinAppEjercicio9.2.csproj|C:\\Users\\Jostin\\Documents\\QUINTO\\API I\\Ejercicios de API  MEDIO CICLO\\Estructuras Alternativas Ejercicios\\WinAppEjercicio9.2\\winappejercicio9.2\\pel\u00EDculasdelmomento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9784F1F5-2EAD-4A2A-9C33-D2B077E89EA4}|WinAppEjercicio9.2\\WinAppEjercicio9.2.csproj|solutionrelative:winappejercicio9.2\\pel\u00EDculasdelmomento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9784F1F5-2EAD-4A2A-9C33-D2B077E89EA4}|WinAppEjercicio9.2\\WinAppEjercicio9.2.csproj|C:\\Users\\Jostin\\Documents\\QUINTO\\API I\\Ejercicios de API  MEDIO CICLO\\Estructuras Alternativas Ejercicios\\WinAppEjercicio9.2\\winappejercicio9.2\\listadepeliculasdeanimacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9784F1F5-2EAD-4A2A-9C33-D2B077E89EA4}|WinAppEjercicio9.2\\WinAppEjercicio9.2.csproj|solutionrelative:winappejercicio9.2\\listadepeliculasdeanimacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9784F1F5-2EAD-4A2A-9C33-D2B077E89EA4}|WinAppEjercicio9.2\\WinAppEjercicio9.2.csproj|C:\\Users\\Jostin\\Documents\\QUINTO\\API I\\Ejercicios de API  MEDIO CICLO\\Estructuras Alternativas Ejercicios\\WinAppEjercicio9.2\\winappejercicio9.2\\listadeseriesdecienciaficcion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9784F1F5-2EAD-4A2A-9C33-D2B077E89EA4}|WinAppEjercicio9.2\\WinAppEjercicio9.2.csproj|solutionrelative:winappejercicio9.2\\listadeseriesdecienciaficcion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9784F1F5-2EAD-4A2A-9C33-D2B077E89EA4}|WinAppEjercicio9.2\\WinAppEjercicio9.2.csproj|C:\\Users\\Jostin\\Documents\\QUINTO\\API I\\Ejercicios de API  MEDIO CICLO\\Estructuras Alternativas Ejercicios\\WinAppEjercicio9.2\\winappejercicio9.2\\pel\u00EDculasdelmomento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9784F1F5-2EAD-4A2A-9C33-D2B077E89EA4}|WinAppEjercicio9.2\\WinAppEjercicio9.2.csproj|solutionrelative:winappejercicio9.2\\pel\u00EDculasdelmomento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9784F1F5-2EAD-4A2A-9C33-D2B077E89EA4}|WinAppEjercicio9.2\\WinAppEjercicio9.2.csproj|C:\\Users\\Jostin\\Documents\\QUINTO\\API I\\Ejercicios de API  MEDIO CICLO\\Estructuras Alternativas Ejercicios\\WinAppEjercicio9.2\\winappejercicio9.2\\series_cienciaficcion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9784F1F5-2EAD-4A2A-9C33-D2B077E89EA4}|WinAppEjercicio9.2\\WinAppEjercicio9.2.csproj|solutionrelative:winappejercicio9.2\\series_cienciaficcion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9784F1F5-2EAD-4A2A-9C33-D2B077E89EA4}|WinAppEjercicio9.2\\WinAppEjercicio9.2.csproj|C:\\Users\\Jostin\\Documents\\QUINTO\\API I\\Ejercicios de API  MEDIO CICLO\\Estructuras Alternativas Ejercicios\\WinAppEjercicio9.2\\winappejercicio9.2\\listas_series_drama.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9784F1F5-2EAD-4A2A-9C33-D2B077E89EA4}|WinAppEjercicio9.2\\WinAppEjercicio9.2.csproj|solutionrelative:winappejercicio9.2\\listas_series_drama.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9784F1F5-2EAD-4A2A-9C33-D2B077E89EA4}|WinAppEjercicio9.2\\WinAppEjercicio9.2.csproj|C:\\Users\\Jostin\\Documents\\QUINTO\\API I\\Ejercicios de API  MEDIO CICLO\\Estructuras Alternativas Ejercicios\\WinAppEjercicio9.2\\winappejercicio9.2\\peliculas_drama.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9784F1F5-2EAD-4A2A-9C33-D2B077E89EA4}|WinAppEjercicio9.2\\WinAppEjercicio9.2.csproj|solutionrelative:winappejercicio9.2\\peliculas_drama.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Jostin\\Documents\\QUINTO\\API I\\Ejercicios de API  MEDIO CICLO\\Estructuras Alternativas Ejercicios\\WinAppEjercicio9.2\\WinAppEjercicio9.2\\Form1.cs",
+              "RelativeDocumentMoniker": "WinAppEjercicio9.2\\Form1.cs",
+              "ToolTip": "C:\\Users\\Jostin\\Documents\\QUINTO\\API I\\Ejercicios de API  MEDIO CICLO\\Estructuras Alternativas Ejercicios\\WinAppEjercicio9.2\\WinAppEjercicio9.2\\Form1.cs*",
+              "RelativeToolTip": "WinAppEjercicio9.2\\Form1.cs*",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAcwFUAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T00:52:04.082Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "pel\u00EDculasdelmomento.cs",
+              "DocumentMoniker": "C:\\Users\\Jostin\\Documents\\QUINTO\\API I\\Ejercicios de API  MEDIO CICLO\\Estructuras Alternativas Ejercicios\\WinAppEjercicio9.2\\WinAppEjercicio9.2\\pel\u00EDculasdelmomento.cs",
+              "RelativeDocumentMoniker": "WinAppEjercicio9.2\\pel\u00EDculasdelmomento.cs",
+              "ToolTip": "C:\\Users\\Jostin\\Documents\\QUINTO\\API I\\Ejercicios de API  MEDIO CICLO\\Estructuras Alternativas Ejercicios\\WinAppEjercicio9.2\\WinAppEjercicio9.2\\pel\u00EDculasdelmomento.cs",
+              "RelativeToolTip": "WinAppEjercicio9.2\\pel\u00EDculasdelmomento.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAvwBUAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T20:15:13.265Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Series_CienciaFiccion.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Jostin\\Documents\\QUINTO\\API I\\Ejercicios de API  MEDIO CICLO\\Estructuras Alternativas Ejercicios\\WinAppEjercicio9.2\\WinAppEjercicio9.2\\Series_CienciaFiccion.cs",
+              "RelativeDocumentMoniker": "WinAppEjercicio9.2\\Series_CienciaFiccion.cs",
+              "ToolTip": "C:\\Users\\Jostin\\Documents\\QUINTO\\API I\\Ejercicios de API  MEDIO CICLO\\Estructuras Alternativas Ejercicios\\WinAppEjercicio9.2\\WinAppEjercicio9.2\\Series_CienciaFiccion.cs [Dise\u00F1o]",
+              "RelativeToolTip": "WinAppEjercicio9.2\\Series_CienciaFiccion.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T20:11:02.354Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "pel\u00EDculasdelmomento.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Jostin\\Documents\\QUINTO\\API I\\Ejercicios de API  MEDIO CICLO\\Estructuras Alternativas Ejercicios\\WinAppEjercicio9.2\\WinAppEjercicio9.2\\pel\u00EDculasdelmomento.cs",
+              "RelativeDocumentMoniker": "WinAppEjercicio9.2\\pel\u00EDculasdelmomento.cs",
+              "ToolTip": "C:\\Users\\Jostin\\Documents\\QUINTO\\API I\\Ejercicios de API  MEDIO CICLO\\Estructuras Alternativas Ejercicios\\WinAppEjercicio9.2\\WinAppEjercicio9.2\\pel\u00EDculasdelmomento.cs [Dise\u00F1o]",
+              "RelativeToolTip": "WinAppEjercicio9.2\\pel\u00EDculasdelmomento.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T20:11:00.691Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Peliculas_Drama.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Jostin\\Documents\\QUINTO\\API I\\Ejercicios de API  MEDIO CICLO\\Estructuras Alternativas Ejercicios\\WinAppEjercicio9.2\\WinAppEjercicio9.2\\Peliculas_Drama.cs",
+              "RelativeDocumentMoniker": "WinAppEjercicio9.2\\Peliculas_Drama.cs",
+              "ToolTip": "C:\\Users\\Jostin\\Documents\\QUINTO\\API I\\Ejercicios de API  MEDIO CICLO\\Estructuras Alternativas Ejercicios\\WinAppEjercicio9.2\\WinAppEjercicio9.2\\Peliculas_Drama.cs [Dise\u00F1o]",
+              "RelativeToolTip": "WinAppEjercicio9.2\\Peliculas_Drama.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T20:10:59.691Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Listas_Series_Drama.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Jostin\\Documents\\QUINTO\\API I\\Ejercicios de API  MEDIO CICLO\\Estructuras Alternativas Ejercicios\\WinAppEjercicio9.2\\WinAppEjercicio9.2\\Listas_Series_Drama.cs",
+              "RelativeDocumentMoniker": "WinAppEjercicio9.2\\Listas_Series_Drama.cs",
+              "ToolTip": "C:\\Users\\Jostin\\Documents\\QUINTO\\API I\\Ejercicios de API  MEDIO CICLO\\Estructuras Alternativas Ejercicios\\WinAppEjercicio9.2\\WinAppEjercicio9.2\\Listas_Series_Drama.cs [Dise\u00F1o]",
+              "RelativeToolTip": "WinAppEjercicio9.2\\Listas_Series_Drama.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T20:10:58.578Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Listadeseriesdecienciaficcion.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Jostin\\Documents\\QUINTO\\API I\\Ejercicios de API  MEDIO CICLO\\Estructuras Alternativas Ejercicios\\WinAppEjercicio9.2\\WinAppEjercicio9.2\\Listadeseriesdecienciaficcion.cs",
+              "RelativeDocumentMoniker": "WinAppEjercicio9.2\\Listadeseriesdecienciaficcion.cs",
+              "ToolTip": "C:\\Users\\Jostin\\Documents\\QUINTO\\API I\\Ejercicios de API  MEDIO CICLO\\Estructuras Alternativas Ejercicios\\WinAppEjercicio9.2\\WinAppEjercicio9.2\\Listadeseriesdecienciaficcion.cs [Dise\u00F1o]",
+              "RelativeToolTip": "WinAppEjercicio9.2\\Listadeseriesdecienciaficcion.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T20:10:57.364Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Listadepeliculasdeanimacion.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Jostin\\Documents\\QUINTO\\API I\\Ejercicios de API  MEDIO CICLO\\Estructuras Alternativas Ejercicios\\WinAppEjercicio9.2\\WinAppEjercicio9.2\\Listadepeliculasdeanimacion.cs",
+              "RelativeDocumentMoniker": "WinAppEjercicio9.2\\Listadepeliculasdeanimacion.cs",
+              "ToolTip": "C:\\Users\\Jostin\\Documents\\QUINTO\\API I\\Ejercicios de API  MEDIO CICLO\\Estructuras Alternativas Ejercicios\\WinAppEjercicio9.2\\WinAppEjercicio9.2\\Listadepeliculasdeanimacion.cs [Dise\u00F1o]",
+              "RelativeToolTip": "WinAppEjercicio9.2\\Listadepeliculasdeanimacion.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T20:10:55.151Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Jostin\\Documents\\QUINTO\\API I\\Ejercicios de API  MEDIO CICLO\\Estructuras Alternativas Ejercicios\\WinAppEjercicio9.2\\WinAppEjercicio9.2\\Form1.cs",
+              "RelativeDocumentMoniker": "WinAppEjercicio9.2\\Form1.cs",
+              "ToolTip": "C:\\Users\\Jostin\\Documents\\QUINTO\\API I\\Ejercicios de API  MEDIO CICLO\\Estructuras Alternativas Ejercicios\\WinAppEjercicio9.2\\WinAppEjercicio9.2\\Form1.cs [Dise\u00F1o]*",
+              "RelativeToolTip": "WinAppEjercicio9.2\\Form1.cs [Dise\u00F1o]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T22:50:38.474Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+C:\Users\Jostin\Documents\QUINTO\API I\windoappPractica\windoappPractica\bin\Debug\windoappPractica.exe.config
+C:\Users\Jostin\Documents\QUINTO\API I\windoappPractica\windoappPractica\bin\Debug\windoappPractica.exe
+C:\Users\Jostin\Documents\QUINTO\API I\windoappPractica\windoappPractica\bin\Debug\windoappPractica.pdb
+C:\Users\Jostin\Documents\QUINTO\API I\windoappPractica\windoappPractica\obj\Debug\windoappPractica.csproj.AssemblyReference.cache
+C:\Users\Jostin\Documents\QUINTO\API I\windoappPractica\windoappPractica\obj\Debug\windoappPractica.Form1.resources
+C:\Users\Jostin\Documents\QUINTO\API I\windoappPractica\windoappPractica\obj\Debug\windoappPractica.Properties.Resources.resources
+C:\Users\Jostin\Documents\QUINTO\API I\windoappPractica\windoappPractica\obj\Debug\windoappPractica.csproj.GenerateResource.cache
+C:\Users\Jostin\Documents\QUINTO\API I\windoappPractica\windoappPractica\obj\Debug\windoappPractica.csproj.CoreCompileInputs.cache
+C:\Users\Jostin\Documents\QUINTO\API I\windoappPractica\windoappPractica\obj\Debug\windoappPractica.exe
+C:\Users\Jostin\Documents\QUINTO\API I\windoappPractica\windoappPractica\obj\Debug\windoappPractica.pdb

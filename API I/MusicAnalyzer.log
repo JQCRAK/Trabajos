@@ -1,0 +1,416 @@
+02/12/2024 13:42:37: Error analizando Danca Love: Se produjo una excepción de tipo 'System.OutOfMemoryException'.
+Excepción detallada: Se produjo una excepción de tipo 'System.OutOfMemoryException'.
+Stack Trace:    en MathNet.Numerics.Providers.FourierTransform.ManagedFourierTransformProvider.BluesteinConvolutionParallel(Complex[] samples)
+   en MathNet.Numerics.Providers.FourierTransform.ManagedFourierTransformProvider.Forward(Complex[] samples, FourierTransformScaling scaling)
+   en MathNet.Numerics.IntegralTransforms.Fourier.Forward(Complex[] samples, FourierOptions options)
+   en WinAppIA_BASEDATOS.AnalizadorMusicas.CalcularFrecuenciaPromedioRobusta(Single[] samples, Int32 sampleRate) en C:\Users\Jostin\source\repos\WinAppIA_BASEDATOS\WinAppIA_BASEDATOS\AnalizadorMusicas.cs:línea 281
+   en WinAppIA_BASEDATOS.AnalizadorMusicas.AnalizarYGuardarCancion(SqlConnection conexion, Cancion cancion) en C:\Users\Jostin\source\repos\WinAppIA_BASEDATOS\WinAppIA_BASEDATOS\AnalizadorMusicas.cs:línea 101
+02/12/2024 13:42:41: Error analizando Haunt Funk: Se produjo una excepción de tipo 'System.OutOfMemoryException'.
+Excepción detallada: Se produjo una excepción de tipo 'System.OutOfMemoryException'.
+Stack Trace:    en MathNet.Numerics.Providers.FourierTransform.ManagedFourierTransformProvider.BluesteinConvolutionParallel(Complex[] samples)
+   en MathNet.Numerics.Providers.FourierTransform.ManagedFourierTransformProvider.Forward(Complex[] samples, FourierTransformScaling scaling)
+   en MathNet.Numerics.IntegralTransforms.Fourier.Forward(Complex[] samples, FourierOptions options)
+   en WinAppIA_BASEDATOS.AnalizadorMusicas.CalcularFrecuenciaPromedioRobusta(Single[] samples, Int32 sampleRate) en C:\Users\Jostin\source\repos\WinAppIA_BASEDATOS\WinAppIA_BASEDATOS\AnalizadorMusicas.cs:línea 281
+   en WinAppIA_BASEDATOS.AnalizadorMusicas.AnalizarYGuardarCancion(SqlConnection conexion, Cancion cancion) en C:\Users\Jostin\source\repos\WinAppIA_BASEDATOS\WinAppIA_BASEDATOS\AnalizadorMusicas.cs:línea 101
+02/12/2024 13:42:46: Error analizando FUNK MORENO: Se produjo una excepción de tipo 'System.OutOfMemoryException'.
+Excepción detallada: Se produjo una excepción de tipo 'System.OutOfMemoryException'.
+Stack Trace:    en System.Linq.Buffer`1..ctor(IEnumerable`1 source)
+   en System.Linq.Enumerable.ToArray[TSource](IEnumerable`1 source)
+   en WinAppIA_BASEDATOS.AnalizadorMusicas.CalcularFrecuenciaPromedioRobusta(Single[] samples, Int32 sampleRate) en C:\Users\Jostin\source\repos\WinAppIA_BASEDATOS\WinAppIA_BASEDATOS\AnalizadorMusicas.cs:línea 280
+   en WinAppIA_BASEDATOS.AnalizadorMusicas.AnalizarYGuardarCancion(SqlConnection conexion, Cancion cancion) en C:\Users\Jostin\source\repos\WinAppIA_BASEDATOS\WinAppIA_BASEDATOS\AnalizadorMusicas.cs:línea 101
+02/12/2024 13:44:08: Error analizando Mazko: Ya hay un DataReader abierto asociado a este Command, debe cerrarlo primero.
+Excepción detallada: Ya hay un DataReader abierto asociado a este Command, debe cerrarlo primero.
+Stack Trace:    en System.Data.SqlClient.SqlInternalConnectionTds.ValidateConnectionForExecute(SqlCommand command)
+   en System.Data.SqlClient.SqlConnection.ValidateConnectionForExecute(String method, SqlCommand command)
+   en System.Data.SqlClient.SqlCommand.ValidateCommand(String method, Boolean async)
+   en System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   en System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   en WinAppIA_BASEDATOS.AnalizadorMusicas.InsertarAnalisisMusical(SqlConnection conexion, Cancion cancion, ResultadoAnalisis analisis) en C:\Users\Jostin\source\repos\WinAppIA_BASEDATOS\WinAppIA_BASEDATOS\AnalizadorMusicas.cs:línea 263
+   en WinAppIA_BASEDATOS.AnalizadorMusicas.AnalizarYGuardarCancion(SqlConnection conexion, Cancion cancion) en C:\Users\Jostin\source\repos\WinAppIA_BASEDATOS\WinAppIA_BASEDATOS\AnalizadorMusicas.cs:línea 110
+02/12/2024 13:44:12: Error analizando SLIDE MOTIVE: Se produjo una excepción de tipo 'System.OutOfMemoryException'.
+Excepción detallada: Se produjo una excepción de tipo 'System.OutOfMemoryException'.
+Stack Trace:    en MathNet.Numerics.Providers.FourierTransform.ManagedFourierTransformProvider.BluesteinConvolutionParallel(Complex[] samples)
+   en MathNet.Numerics.Providers.FourierTransform.ManagedFourierTransformProvider.Forward(Complex[] samples, FourierTransformScaling scaling)
+   en MathNet.Numerics.IntegralTransforms.Fourier.Forward(Complex[] samples, FourierOptions options)
+   en WinAppIA_BASEDATOS.AnalizadorMusicas.CalcularFrecuenciaPromedioRobusta(Single[] samples, Int32 sampleRate) en C:\Users\Jostin\source\repos\WinAppIA_BASEDATOS\WinAppIA_BASEDATOS\AnalizadorMusicas.cs:línea 281
+   en WinAppIA_BASEDATOS.AnalizadorMusicas.AnalizarYGuardarCancion(SqlConnection conexion, Cancion cancion) en C:\Users\Jostin\source\repos\WinAppIA_BASEDATOS\WinAppIA_BASEDATOS\AnalizadorMusicas.cs:línea 101
+02/12/2024 13:44:16: Error analizando FADED: Se produjo una excepción de tipo 'System.OutOfMemoryException'.
+Excepción detallada: Se produjo una excepción de tipo 'System.OutOfMemoryException'.
+Stack Trace:    en System.Linq.Buffer`1..ctor(IEnumerable`1 source)
+   en System.Linq.Enumerable.ToArray[TSource](IEnumerable`1 source)
+   en WinAppIA_BASEDATOS.AnalizadorMusicas.CalcularFrecuenciaPromedioRobusta(Single[] samples, Int32 sampleRate) en C:\Users\Jostin\source\repos\WinAppIA_BASEDATOS\WinAppIA_BASEDATOS\AnalizadorMusicas.cs:línea 280
+   en WinAppIA_BASEDATOS.AnalizadorMusicas.AnalizarYGuardarCancion(SqlConnection conexion, Cancion cancion) en C:\Users\Jostin\source\repos\WinAppIA_BASEDATOS\WinAppIA_BASEDATOS\AnalizadorMusicas.cs:línea 101
+02/12/2024 13:44:20: Error analizando Sing Me To Sleep: Se produjo una excepción de tipo 'System.OutOfMemoryException'.
+Excepción detallada: Se produjo una excepción de tipo 'System.OutOfMemoryException'.
+Stack Trace:    en System.Linq.Buffer`1..ctor(IEnumerable`1 source)
+   en System.Linq.Enumerable.ToArray[TSource](IEnumerable`1 source)
+   en WinAppIA_BASEDATOS.AnalizadorMusicas.CalcularFrecuenciaPromedioRobusta(Single[] samples, Int32 sampleRate) en C:\Users\Jostin\source\repos\WinAppIA_BASEDATOS\WinAppIA_BASEDATOS\AnalizadorMusicas.cs:línea 280
+   en WinAppIA_BASEDATOS.AnalizadorMusicas.AnalizarYGuardarCancion(SqlConnection conexion, Cancion cancion) en C:\Users\Jostin\source\repos\WinAppIA_BASEDATOS\WinAppIA_BASEDATOS\AnalizadorMusicas.cs:línea 101
+02/12/2024 13:44:24: Error analizando Waiting For Love: Se produjo una excepción de tipo 'System.OutOfMemoryException'.
+Excepción detallada: Se produjo una excepción de tipo 'System.OutOfMemoryException'.
+Stack Trace:    en System.Linq.Buffer`1..ctor(IEnumerable`1 source)
+   en System.Linq.Enumerable.ToArray[TSource](IEnumerable`1 source)
+   en WinAppIA_BASEDATOS.AnalizadorMusicas.CalcularFrecuenciaPromedioRobusta(Single[] samples, Int32 sampleRate) en C:\Users\Jostin\source\repos\WinAppIA_BASEDATOS\WinAppIA_BASEDATOS\AnalizadorMusicas.cs:línea 280
+   en WinAppIA_BASEDATOS.AnalizadorMusicas.AnalizarYGuardarCancion(SqlConnection conexion, Cancion cancion) en C:\Users\Jostin\source\repos\WinAppIA_BASEDATOS\WinAppIA_BASEDATOS\AnalizadorMusicas.cs:línea 101
+02/12/2024 13:44:27: Error analizando Summer: Se produjo una excepción de tipo 'System.OutOfMemoryException'.
+Excepción detallada: Se produjo una excepción de tipo 'System.OutOfMemoryException'.
+Stack Trace:    en System.Linq.Buffer`1..ctor(IEnumerable`1 source)
+   en System.Linq.Enumerable.ToArray[TSource](IEnumerable`1 source)
+   en WinAppIA_BASEDATOS.AnalizadorMusicas.CalcularFrecuenciaPromedioRobusta(Single[] samples, Int32 sampleRate) en C:\Users\Jostin\source\repos\WinAppIA_BASEDATOS\WinAppIA_BASEDATOS\AnalizadorMusicas.cs:línea 280
+   en WinAppIA_BASEDATOS.AnalizadorMusicas.AnalizarYGuardarCancion(SqlConnection conexion, Cancion cancion) en C:\Users\Jostin\source\repos\WinAppIA_BASEDATOS\WinAppIA_BASEDATOS\AnalizadorMusicas.cs:línea 101
+02/12/2024 13:44:32: Error analizando Animals: Se produjo una excepción de tipo 'System.OutOfMemoryException'.
+Excepción detallada: Se produjo una excepción de tipo 'System.OutOfMemoryException'.
+Stack Trace:    en System.Linq.Buffer`1..ctor(IEnumerable`1 source)
+   en System.Linq.Enumerable.ToArray[TSource](IEnumerable`1 source)
+   en WinAppIA_BASEDATOS.AnalizadorMusicas.CalcularFrecuenciaPromedioRobusta(Single[] samples, Int32 sampleRate) en C:\Users\Jostin\source\repos\WinAppIA_BASEDATOS\WinAppIA_BASEDATOS\AnalizadorMusicas.cs:línea 280
+   en WinAppIA_BASEDATOS.AnalizadorMusicas.AnalizarYGuardarCancion(SqlConnection conexion, Cancion cancion) en C:\Users\Jostin\source\repos\WinAppIA_BASEDATOS\WinAppIA_BASEDATOS\AnalizadorMusicas.cs:línea 101
+02/12/2024 13:44:36: Error analizando Safari: Se produjo una excepción de tipo 'System.OutOfMemoryException'.
+Excepción detallada: Se produjo una excepción de tipo 'System.OutOfMemoryException'.
+Stack Trace:    en System.Linq.Buffer`1..ctor(IEnumerable`1 source)
+   en System.Linq.Enumerable.ToArray[TSource](IEnumerable`1 source)
+   en WinAppIA_BASEDATOS.AnalizadorMusicas.CalcularFrecuenciaPromedioRobusta(Single[] samples, Int32 sampleRate) en C:\Users\Jostin\source\repos\WinAppIA_BASEDATOS\WinAppIA_BASEDATOS\AnalizadorMusicas.cs:línea 280
+   en WinAppIA_BASEDATOS.AnalizadorMusicas.AnalizarYGuardarCancion(SqlConnection conexion, Cancion cancion) en C:\Users\Jostin\source\repos\WinAppIA_BASEDATOS\WinAppIA_BASEDATOS\AnalizadorMusicas.cs:línea 101
+02/12/2024 13:44:41: Error analizando Candy: Se produjo una excepción de tipo 'System.OutOfMemoryException'.
+Excepción detallada: Se produjo una excepción de tipo 'System.OutOfMemoryException'.
+Stack Trace:    en System.Linq.Buffer`1..ctor(IEnumerable`1 source)
+   en System.Linq.Enumerable.ToArray[TSource](IEnumerable`1 source)
+   en WinAppIA_BASEDATOS.AnalizadorMusicas.CalcularFrecuenciaPromedioRobusta(Single[] samples, Int32 sampleRate) en C:\Users\Jostin\source\repos\WinAppIA_BASEDATOS\WinAppIA_BASEDATOS\AnalizadorMusicas.cs:línea 280
+   en WinAppIA_BASEDATOS.AnalizadorMusicas.AnalizarYGuardarCancion(SqlConnection conexion, Cancion cancion) en C:\Users\Jostin\source\repos\WinAppIA_BASEDATOS\WinAppIA_BASEDATOS\AnalizadorMusicas.cs:línea 101
+02/12/2024 13:44:46: Error analizando Fanatica Sensual: Se produjo una excepción de tipo 'System.OutOfMemoryException'.
+Excepción detallada: Se produjo una excepción de tipo 'System.OutOfMemoryException'.
+Stack Trace:    en System.Linq.Buffer`1..ctor(IEnumerable`1 source)
+   en System.Linq.Enumerable.ToArray[TSource](IEnumerable`1 source)
+   en WinAppIA_BASEDATOS.AnalizadorMusicas.CalcularFrecuenciaPromedioRobusta(Single[] samples, Int32 sampleRate) en C:\Users\Jostin\source\repos\WinAppIA_BASEDATOS\WinAppIA_BASEDATOS\AnalizadorMusicas.cs:línea 280
+   en WinAppIA_BASEDATOS.AnalizadorMusicas.AnalizarYGuardarCancion(SqlConnection conexion, Cancion cancion) en C:\Users\Jostin\source\repos\WinAppIA_BASEDATOS\WinAppIA_BASEDATOS\AnalizadorMusicas.cs:línea 101
+02/12/2024 13:44:50: Error analizando Mi Vecinita: Se produjo una excepción de tipo 'System.OutOfMemoryException'.
+Excepción detallada: Se produjo una excepción de tipo 'System.OutOfMemoryException'.
+Stack Trace:    en System.Linq.Buffer`1..ctor(IEnumerable`1 source)
+   en System.Linq.Enumerable.ToArray[TSource](IEnumerable`1 source)
+   en WinAppIA_BASEDATOS.AnalizadorMusicas.CalcularFrecuenciaPromedioRobusta(Single[] samples, Int32 sampleRate) en C:\Users\Jostin\source\repos\WinAppIA_BASEDATOS\WinAppIA_BASEDATOS\AnalizadorMusicas.cs:línea 280
+   en WinAppIA_BASEDATOS.AnalizadorMusicas.AnalizarYGuardarCancion(SqlConnection conexion, Cancion cancion) en C:\Users\Jostin\source\repos\WinAppIA_BASEDATOS\WinAppIA_BASEDATOS\AnalizadorMusicas.cs:línea 101
+02/12/2024 13:44:54: Error analizando QUEVEDO: Se produjo una excepción de tipo 'System.OutOfMemoryException'.
+Excepción detallada: Se produjo una excepción de tipo 'System.OutOfMemoryException'.
+Stack Trace:    en System.Linq.Buffer`1..ctor(IEnumerable`1 source)
+   en System.Linq.Enumerable.ToArray[TSource](IEnumerable`1 source)
+   en WinAppIA_BASEDATOS.AnalizadorMusicas.CalcularFrecuenciaPromedioRobusta(Single[] samples, Int32 sampleRate) en C:\Users\Jostin\source\repos\WinAppIA_BASEDATOS\WinAppIA_BASEDATOS\AnalizadorMusicas.cs:línea 280
+   en WinAppIA_BASEDATOS.AnalizadorMusicas.AnalizarYGuardarCancion(SqlConnection conexion, Cancion cancion) en C:\Users\Jostin\source\repos\WinAppIA_BASEDATOS\WinAppIA_BASEDATOS\AnalizadorMusicas.cs:línea 101
+02/12/2024 13:44:57: Error analizando Back in Black: Se produjo una excepción de tipo 'System.OutOfMemoryException'.
+Excepción detallada: Se produjo una excepción de tipo 'System.OutOfMemoryException'.
+Stack Trace:    en System.Linq.Buffer`1..ctor(IEnumerable`1 source)
+   en System.Linq.Enumerable.ToArray[TSource](IEnumerable`1 source)
+   en WinAppIA_BASEDATOS.AnalizadorMusicas.CalcularFrecuenciaPromedioRobusta(Single[] samples, Int32 sampleRate) en C:\Users\Jostin\source\repos\WinAppIA_BASEDATOS\WinAppIA_BASEDATOS\AnalizadorMusicas.cs:línea 280
+   en WinAppIA_BASEDATOS.AnalizadorMusicas.AnalizarYGuardarCancion(SqlConnection conexion, Cancion cancion) en C:\Users\Jostin\source\repos\WinAppIA_BASEDATOS\WinAppIA_BASEDATOS\AnalizadorMusicas.cs:línea 101
+02/12/2024 13:45:04: Error analizando Call Me: Se produjo una excepción de tipo 'System.OutOfMemoryException'.
+Excepción detallada: Se produjo una excepción de tipo 'System.OutOfMemoryException'.
+Stack Trace:    en System.Linq.Buffer`1..ctor(IEnumerable`1 source)
+   en System.Linq.Enumerable.ToArray[TSource](IEnumerable`1 source)
+   en WinAppIA_BASEDATOS.AnalizadorMusicas.CalcularFrecuenciaPromedioRobusta(Single[] samples, Int32 sampleRate) en C:\Users\Jostin\source\repos\WinAppIA_BASEDATOS\WinAppIA_BASEDATOS\AnalizadorMusicas.cs:línea 280
+   en WinAppIA_BASEDATOS.AnalizadorMusicas.AnalizarYGuardarCancion(SqlConnection conexion, Cancion cancion) en C:\Users\Jostin\source\repos\WinAppIA_BASEDATOS\WinAppIA_BASEDATOS\AnalizadorMusicas.cs:línea 101
+02/12/2024 13:45:08: Error analizando I Was Made For Lovin: Se produjo una excepción de tipo 'System.OutOfMemoryException'.
+Excepción detallada: Se produjo una excepción de tipo 'System.OutOfMemoryException'.
+Stack Trace:    en System.Linq.Buffer`1..ctor(IEnumerable`1 source)
+   en System.Linq.Enumerable.ToArray[TSource](IEnumerable`1 source)
+   en WinAppIA_BASEDATOS.AnalizadorMusicas.CalcularFrecuenciaPromedioRobusta(Single[] samples, Int32 sampleRate) en C:\Users\Jostin\source\repos\WinAppIA_BASEDATOS\WinAppIA_BASEDATOS\AnalizadorMusicas.cs:línea 280
+   en WinAppIA_BASEDATOS.AnalizadorMusicas.AnalizarYGuardarCancion(SqlConnection conexion, Cancion cancion) en C:\Users\Jostin\source\repos\WinAppIA_BASEDATOS\WinAppIA_BASEDATOS\AnalizadorMusicas.cs:línea 101
+02/12/2024 13:45:11: Error analizando La Costa del Silencio: Se produjo una excepción de tipo 'System.OutOfMemoryException'.
+Excepción detallada: Se produjo una excepción de tipo 'System.OutOfMemoryException'.
+Stack Trace:    en System.Linq.Buffer`1..ctor(IEnumerable`1 source)
+   en System.Linq.Enumerable.ToArray[TSource](IEnumerable`1 source)
+   en WinAppIA_BASEDATOS.AnalizadorMusicas.CalcularFrecuenciaPromedioRobusta(Single[] samples, Int32 sampleRate) en C:\Users\Jostin\source\repos\WinAppIA_BASEDATOS\WinAppIA_BASEDATOS\AnalizadorMusicas.cs:línea 280
+   en WinAppIA_BASEDATOS.AnalizadorMusicas.AnalizarYGuardarCancion(SqlConnection conexion, Cancion cancion) en C:\Users\Jostin\source\repos\WinAppIA_BASEDATOS\WinAppIA_BASEDATOS\AnalizadorMusicas.cs:línea 101
+02/12/2024 13:45:15: Error analizando Smells Like Teen Spirit: Se produjo una excepción de tipo 'System.OutOfMemoryException'.
+Excepción detallada: Se produjo una excepción de tipo 'System.OutOfMemoryException'.
+Stack Trace:    en System.Linq.Buffer`1..ctor(IEnumerable`1 source)
+   en System.Linq.Enumerable.ToArray[TSource](IEnumerable`1 source)
+   en WinAppIA_BASEDATOS.AnalizadorMusicas.CalcularFrecuenciaPromedioRobusta(Single[] samples, Int32 sampleRate) en C:\Users\Jostin\source\repos\WinAppIA_BASEDATOS\WinAppIA_BASEDATOS\AnalizadorMusicas.cs:línea 280
+   en WinAppIA_BASEDATOS.AnalizadorMusicas.AnalizarYGuardarCancion(SqlConnection conexion, Cancion cancion) en C:\Users\Jostin\source\repos\WinAppIA_BASEDATOS\WinAppIA_BASEDATOS\AnalizadorMusicas.cs:línea 101
+02/12/2024 13:45:18: Error analizando Ayer y Hoy: Se produjo una excepción de tipo 'System.OutOfMemoryException'.
+Excepción detallada: Se produjo una excepción de tipo 'System.OutOfMemoryException'.
+Stack Trace:    en System.Linq.Buffer`1..ctor(IEnumerable`1 source)
+   en System.Linq.Enumerable.ToArray[TSource](IEnumerable`1 source)
+   en WinAppIA_BASEDATOS.AnalizadorMusicas.CalcularFrecuenciaPromedioRobusta(Single[] samples, Int32 sampleRate) en C:\Users\Jostin\source\repos\WinAppIA_BASEDATOS\WinAppIA_BASEDATOS\AnalizadorMusicas.cs:línea 280
+   en WinAppIA_BASEDATOS.AnalizadorMusicas.AnalizarYGuardarCancion(SqlConnection conexion, Cancion cancion) en C:\Users\Jostin\source\repos\WinAppIA_BASEDATOS\WinAppIA_BASEDATOS\AnalizadorMusicas.cs:línea 101
+02/12/2024 13:45:25: Error analizando Colapso: Se produjo una excepción de tipo 'System.OutOfMemoryException'.
+Excepción detallada: Se produjo una excepción de tipo 'System.OutOfMemoryException'.
+Stack Trace:    en MathNet.Numerics.Providers.FourierTransform.ManagedFourierTransformProvider.BluesteinConvolutionParallel(Complex[] samples)
+   en MathNet.Numerics.Providers.FourierTransform.ManagedFourierTransformProvider.Forward(Complex[] samples, FourierTransformScaling scaling)
+   en MathNet.Numerics.IntegralTransforms.Fourier.Forward(Complex[] samples, FourierOptions options)
+   en WinAppIA_BASEDATOS.AnalizadorMusicas.CalcularFrecuenciaPromedioRobusta(Single[] samples, Int32 sampleRate) en C:\Users\Jostin\source\repos\WinAppIA_BASEDATOS\WinAppIA_BASEDATOS\AnalizadorMusicas.cs:línea 281
+   en WinAppIA_BASEDATOS.AnalizadorMusicas.AnalizarYGuardarCancion(SqlConnection conexion, Cancion cancion) en C:\Users\Jostin\source\repos\WinAppIA_BASEDATOS\WinAppIA_BASEDATOS\AnalizadorMusicas.cs:línea 101
+02/12/2024 13:45:25: Archivo no encontrado: C:\Users\Jostin\Music\MUSICA BD\Otro\Me enamoré de alguien que también se enamoró - ??????.mp3
+02/12/2024 13:45:30: Error analizando PROTECTION CHARM: Se produjo una excepción de tipo 'System.OutOfMemoryException'.
+Excepción detallada: Se produjo una excepción de tipo 'System.OutOfMemoryException'.
+Stack Trace:    en MathNet.Numerics.Providers.FourierTransform.ManagedFourierTransformProvider.BluesteinConvolutionParallel(Complex[] samples)
+   en MathNet.Numerics.Providers.FourierTransform.ManagedFourierTransformProvider.Forward(Complex[] samples, FourierTransformScaling scaling)
+   en MathNet.Numerics.IntegralTransforms.Fourier.Forward(Complex[] samples, FourierOptions options)
+   en WinAppIA_BASEDATOS.AnalizadorMusicas.CalcularFrecuenciaPromedioRobusta(Single[] samples, Int32 sampleRate) en C:\Users\Jostin\source\repos\WinAppIA_BASEDATOS\WinAppIA_BASEDATOS\AnalizadorMusicas.cs:línea 281
+   en WinAppIA_BASEDATOS.AnalizadorMusicas.AnalizarYGuardarCancion(SqlConnection conexion, Cancion cancion) en C:\Users\Jostin\source\repos\WinAppIA_BASEDATOS\WinAppIA_BASEDATOS\AnalizadorMusicas.cs:línea 101
+02/12/2024 13:45:34: Error analizando Nothings New: Se produjo una excepción de tipo 'System.OutOfMemoryException'.
+Excepción detallada: Se produjo una excepción de tipo 'System.OutOfMemoryException'.
+Stack Trace:    en System.Linq.Buffer`1..ctor(IEnumerable`1 source)
+   en System.Linq.Enumerable.ToArray[TSource](IEnumerable`1 source)
+   en WinAppIA_BASEDATOS.AnalizadorMusicas.CalcularFrecuenciaPromedioRobusta(Single[] samples, Int32 sampleRate) en C:\Users\Jostin\source\repos\WinAppIA_BASEDATOS\WinAppIA_BASEDATOS\AnalizadorMusicas.cs:línea 280
+   en WinAppIA_BASEDATOS.AnalizadorMusicas.AnalizarYGuardarCancion(SqlConnection conexion, Cancion cancion) en C:\Users\Jostin\source\repos\WinAppIA_BASEDATOS\WinAppIA_BASEDATOS\AnalizadorMusicas.cs:línea 101
+02/12/2024 13:45:38: Error analizando Tu Boda: Se produjo una excepción de tipo 'System.OutOfMemoryException'.
+Excepción detallada: Se produjo una excepción de tipo 'System.OutOfMemoryException'.
+Stack Trace:    en System.Linq.Buffer`1..ctor(IEnumerable`1 source)
+   en System.Linq.Enumerable.ToArray[TSource](IEnumerable`1 source)
+   en WinAppIA_BASEDATOS.AnalizadorMusicas.CalcularFrecuenciaPromedioRobusta(Single[] samples, Int32 sampleRate) en C:\Users\Jostin\source\repos\WinAppIA_BASEDATOS\WinAppIA_BASEDATOS\AnalizadorMusicas.cs:línea 280
+   en WinAppIA_BASEDATOS.AnalizadorMusicas.AnalizarYGuardarCancion(SqlConnection conexion, Cancion cancion) en C:\Users\Jostin\source\repos\WinAppIA_BASEDATOS\WinAppIA_BASEDATOS\AnalizadorMusicas.cs:línea 101
+02/12/2024 13:45:43: Error analizando Que Nadie Sepa Mi Sufrir: Se produjo una excepción de tipo 'System.OutOfMemoryException'.
+Excepción detallada: Se produjo una excepción de tipo 'System.OutOfMemoryException'.
+Stack Trace:    en MathNet.Numerics.Providers.FourierTransform.ManagedFourierTransformProvider.BluesteinConvolutionParallel(Complex[] samples)
+   en MathNet.Numerics.Providers.FourierTransform.ManagedFourierTransformProvider.Forward(Complex[] samples, FourierTransformScaling scaling)
+   en MathNet.Numerics.IntegralTransforms.Fourier.Forward(Complex[] samples, FourierOptions options)
+   en WinAppIA_BASEDATOS.AnalizadorMusicas.CalcularFrecuenciaPromedioRobusta(Single[] samples, Int32 sampleRate) en C:\Users\Jostin\source\repos\WinAppIA_BASEDATOS\WinAppIA_BASEDATOS\AnalizadorMusicas.cs:línea 281
+   en WinAppIA_BASEDATOS.AnalizadorMusicas.AnalizarYGuardarCancion(SqlConnection conexion, Cancion cancion) en C:\Users\Jostin\source\repos\WinAppIA_BASEDATOS\WinAppIA_BASEDATOS\AnalizadorMusicas.cs:línea 101
+02/12/2024 13:45:48: Error analizando Lost and Found: Se produjo una excepción de tipo 'System.OutOfMemoryException'.
+Excepción detallada: Se produjo una excepción de tipo 'System.OutOfMemoryException'.
+Stack Trace:    en System.Linq.Buffer`1..ctor(IEnumerable`1 source)
+   en System.Linq.Enumerable.ToArray[TSource](IEnumerable`1 source)
+   en WinAppIA_BASEDATOS.AnalizadorMusicas.CalcularFrecuenciaPromedioRobusta(Single[] samples, Int32 sampleRate) en C:\Users\Jostin\source\repos\WinAppIA_BASEDATOS\WinAppIA_BASEDATOS\AnalizadorMusicas.cs:línea 280
+   en WinAppIA_BASEDATOS.AnalizadorMusicas.AnalizarYGuardarCancion(SqlConnection conexion, Cancion cancion) en C:\Users\Jostin\source\repos\WinAppIA_BASEDATOS\WinAppIA_BASEDATOS\AnalizadorMusicas.cs:línea 101
+02/12/2024 18:29:40: Error analizando Danca Love: Ya hay un DataReader abierto asociado a este Command, debe cerrarlo primero.
+Excepción detallada: Ya hay un DataReader abierto asociado a este Command, debe cerrarlo primero.
+Stack Trace:    en System.Data.SqlClient.SqlInternalConnectionTds.ValidateConnectionForExecute(SqlCommand command)
+   en System.Data.SqlClient.SqlConnection.ValidateConnectionForExecute(String method, SqlCommand command)
+   en System.Data.SqlClient.SqlCommand.ValidateCommand(String method, Boolean async)
+   en System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   en System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   en WinAppIA_BASEDATOS.AnalizadorMusicas.InsertarAnalisisMusical(SqlConnection conexion, Cancion cancion, ResultadoAnalisis analisis) en C:\Users\Jostin\source\repos\WinAppIA_BASEDATOS\WinAppIA_BASEDATOS\AnalizadorMusicas.cs:línea 258
+   en WinAppIA_BASEDATOS.AnalizadorMusicas.AnalizarYGuardarCancion(SqlConnection conexion, Cancion cancion) en C:\Users\Jostin\source\repos\WinAppIA_BASEDATOS\WinAppIA_BASEDATOS\AnalizadorMusicas.cs:línea 108
+02/12/2024 18:29:42: Error analizando Haunt Funk: Ya hay un DataReader abierto asociado a este Command, debe cerrarlo primero.
+Excepción detallada: Ya hay un DataReader abierto asociado a este Command, debe cerrarlo primero.
+Stack Trace:    en System.Data.SqlClient.SqlInternalConnectionTds.ValidateConnectionForExecute(SqlCommand command)
+   en System.Data.SqlClient.SqlConnection.ValidateConnectionForExecute(String method, SqlCommand command)
+   en System.Data.SqlClient.SqlCommand.ValidateCommand(String method, Boolean async)
+   en System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   en System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   en WinAppIA_BASEDATOS.AnalizadorMusicas.InsertarAnalisisMusical(SqlConnection conexion, Cancion cancion, ResultadoAnalisis analisis) en C:\Users\Jostin\source\repos\WinAppIA_BASEDATOS\WinAppIA_BASEDATOS\AnalizadorMusicas.cs:línea 258
+   en WinAppIA_BASEDATOS.AnalizadorMusicas.AnalizarYGuardarCancion(SqlConnection conexion, Cancion cancion) en C:\Users\Jostin\source\repos\WinAppIA_BASEDATOS\WinAppIA_BASEDATOS\AnalizadorMusicas.cs:línea 108
+02/12/2024 18:29:44: Error analizando FUNK MORENO: Ya hay un DataReader abierto asociado a este Command, debe cerrarlo primero.
+Excepción detallada: Ya hay un DataReader abierto asociado a este Command, debe cerrarlo primero.
+Stack Trace:    en System.Data.SqlClient.SqlInternalConnectionTds.ValidateConnectionForExecute(SqlCommand command)
+   en System.Data.SqlClient.SqlConnection.ValidateConnectionForExecute(String method, SqlCommand command)
+   en System.Data.SqlClient.SqlCommand.ValidateCommand(String method, Boolean async)
+   en System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   en System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   en WinAppIA_BASEDATOS.AnalizadorMusicas.InsertarAnalisisMusical(SqlConnection conexion, Cancion cancion, ResultadoAnalisis analisis) en C:\Users\Jostin\source\repos\WinAppIA_BASEDATOS\WinAppIA_BASEDATOS\AnalizadorMusicas.cs:línea 258
+   en WinAppIA_BASEDATOS.AnalizadorMusicas.AnalizarYGuardarCancion(SqlConnection conexion, Cancion cancion) en C:\Users\Jostin\source\repos\WinAppIA_BASEDATOS\WinAppIA_BASEDATOS\AnalizadorMusicas.cs:línea 108
+02/12/2024 18:29:46: Error analizando Mazko: Ya hay un DataReader abierto asociado a este Command, debe cerrarlo primero.
+Excepción detallada: Ya hay un DataReader abierto asociado a este Command, debe cerrarlo primero.
+Stack Trace:    en System.Data.SqlClient.SqlInternalConnectionTds.ValidateConnectionForExecute(SqlCommand command)
+   en System.Data.SqlClient.SqlConnection.ValidateConnectionForExecute(String method, SqlCommand command)
+   en System.Data.SqlClient.SqlCommand.ValidateCommand(String method, Boolean async)
+   en System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   en System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   en WinAppIA_BASEDATOS.AnalizadorMusicas.InsertarAnalisisMusical(SqlConnection conexion, Cancion cancion, ResultadoAnalisis analisis) en C:\Users\Jostin\source\repos\WinAppIA_BASEDATOS\WinAppIA_BASEDATOS\AnalizadorMusicas.cs:línea 258
+   en WinAppIA_BASEDATOS.AnalizadorMusicas.AnalizarYGuardarCancion(SqlConnection conexion, Cancion cancion) en C:\Users\Jostin\source\repos\WinAppIA_BASEDATOS\WinAppIA_BASEDATOS\AnalizadorMusicas.cs:línea 108
+02/12/2024 18:29:47: Error analizando SLIDE MOTIVE: Ya hay un DataReader abierto asociado a este Command, debe cerrarlo primero.
+Excepción detallada: Ya hay un DataReader abierto asociado a este Command, debe cerrarlo primero.
+Stack Trace:    en System.Data.SqlClient.SqlInternalConnectionTds.ValidateConnectionForExecute(SqlCommand command)
+   en System.Data.SqlClient.SqlConnection.ValidateConnectionForExecute(String method, SqlCommand command)
+   en System.Data.SqlClient.SqlCommand.ValidateCommand(String method, Boolean async)
+   en System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   en System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   en WinAppIA_BASEDATOS.AnalizadorMusicas.InsertarAnalisisMusical(SqlConnection conexion, Cancion cancion, ResultadoAnalisis analisis) en C:\Users\Jostin\source\repos\WinAppIA_BASEDATOS\WinAppIA_BASEDATOS\AnalizadorMusicas.cs:línea 258
+   en WinAppIA_BASEDATOS.AnalizadorMusicas.AnalizarYGuardarCancion(SqlConnection conexion, Cancion cancion) en C:\Users\Jostin\source\repos\WinAppIA_BASEDATOS\WinAppIA_BASEDATOS\AnalizadorMusicas.cs:línea 108
+02/12/2024 18:29:50: Error analizando FADED: Ya hay un DataReader abierto asociado a este Command, debe cerrarlo primero.
+Excepción detallada: Ya hay un DataReader abierto asociado a este Command, debe cerrarlo primero.
+Stack Trace:    en System.Data.SqlClient.SqlInternalConnectionTds.ValidateConnectionForExecute(SqlCommand command)
+   en System.Data.SqlClient.SqlConnection.ValidateConnectionForExecute(String method, SqlCommand command)
+   en System.Data.SqlClient.SqlCommand.ValidateCommand(String method, Boolean async)
+   en System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   en System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   en WinAppIA_BASEDATOS.AnalizadorMusicas.InsertarAnalisisMusical(SqlConnection conexion, Cancion cancion, ResultadoAnalisis analisis) en C:\Users\Jostin\source\repos\WinAppIA_BASEDATOS\WinAppIA_BASEDATOS\AnalizadorMusicas.cs:línea 258
+   en WinAppIA_BASEDATOS.AnalizadorMusicas.AnalizarYGuardarCancion(SqlConnection conexion, Cancion cancion) en C:\Users\Jostin\source\repos\WinAppIA_BASEDATOS\WinAppIA_BASEDATOS\AnalizadorMusicas.cs:línea 108
+02/12/2024 18:29:52: Error analizando Sing Me To Sleep: Ya hay un DataReader abierto asociado a este Command, debe cerrarlo primero.
+Excepción detallada: Ya hay un DataReader abierto asociado a este Command, debe cerrarlo primero.
+Stack Trace:    en System.Data.SqlClient.SqlInternalConnectionTds.ValidateConnectionForExecute(SqlCommand command)
+   en System.Data.SqlClient.SqlConnection.ValidateConnectionForExecute(String method, SqlCommand command)
+   en System.Data.SqlClient.SqlCommand.ValidateCommand(String method, Boolean async)
+   en System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   en System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   en WinAppIA_BASEDATOS.AnalizadorMusicas.InsertarAnalisisMusical(SqlConnection conexion, Cancion cancion, ResultadoAnalisis analisis) en C:\Users\Jostin\source\repos\WinAppIA_BASEDATOS\WinAppIA_BASEDATOS\AnalizadorMusicas.cs:línea 258
+   en WinAppIA_BASEDATOS.AnalizadorMusicas.AnalizarYGuardarCancion(SqlConnection conexion, Cancion cancion) en C:\Users\Jostin\source\repos\WinAppIA_BASEDATOS\WinAppIA_BASEDATOS\AnalizadorMusicas.cs:línea 108
+02/12/2024 18:29:55: Error analizando Waiting For Love: Ya hay un DataReader abierto asociado a este Command, debe cerrarlo primero.
+Excepción detallada: Ya hay un DataReader abierto asociado a este Command, debe cerrarlo primero.
+Stack Trace:    en System.Data.SqlClient.SqlInternalConnectionTds.ValidateConnectionForExecute(SqlCommand command)
+   en System.Data.SqlClient.SqlConnection.ValidateConnectionForExecute(String method, SqlCommand command)
+   en System.Data.SqlClient.SqlCommand.ValidateCommand(String method, Boolean async)
+   en System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   en System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   en WinAppIA_BASEDATOS.AnalizadorMusicas.InsertarAnalisisMusical(SqlConnection conexion, Cancion cancion, ResultadoAnalisis analisis) en C:\Users\Jostin\source\repos\WinAppIA_BASEDATOS\WinAppIA_BASEDATOS\AnalizadorMusicas.cs:línea 258
+   en WinAppIA_BASEDATOS.AnalizadorMusicas.AnalizarYGuardarCancion(SqlConnection conexion, Cancion cancion) en C:\Users\Jostin\source\repos\WinAppIA_BASEDATOS\WinAppIA_BASEDATOS\AnalizadorMusicas.cs:línea 108
+02/12/2024 18:29:58: Error analizando Summer: Ya hay un DataReader abierto asociado a este Command, debe cerrarlo primero.
+Excepción detallada: Ya hay un DataReader abierto asociado a este Command, debe cerrarlo primero.
+Stack Trace:    en System.Data.SqlClient.SqlInternalConnectionTds.ValidateConnectionForExecute(SqlCommand command)
+   en System.Data.SqlClient.SqlConnection.ValidateConnectionForExecute(String method, SqlCommand command)
+   en System.Data.SqlClient.SqlCommand.ValidateCommand(String method, Boolean async)
+   en System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   en System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   en WinAppIA_BASEDATOS.AnalizadorMusicas.InsertarAnalisisMusical(SqlConnection conexion, Cancion cancion, ResultadoAnalisis analisis) en C:\Users\Jostin\source\repos\WinAppIA_BASEDATOS\WinAppIA_BASEDATOS\AnalizadorMusicas.cs:línea 258
+   en WinAppIA_BASEDATOS.AnalizadorMusicas.AnalizarYGuardarCancion(SqlConnection conexion, Cancion cancion) en C:\Users\Jostin\source\repos\WinAppIA_BASEDATOS\WinAppIA_BASEDATOS\AnalizadorMusicas.cs:línea 108
+02/12/2024 18:30:00: Error analizando Animals: Ya hay un DataReader abierto asociado a este Command, debe cerrarlo primero.
+Excepción detallada: Ya hay un DataReader abierto asociado a este Command, debe cerrarlo primero.
+Stack Trace:    en System.Data.SqlClient.SqlInternalConnectionTds.ValidateConnectionForExecute(SqlCommand command)
+   en System.Data.SqlClient.SqlConnection.ValidateConnectionForExecute(String method, SqlCommand command)
+   en System.Data.SqlClient.SqlCommand.ValidateCommand(String method, Boolean async)
+   en System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   en System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   en WinAppIA_BASEDATOS.AnalizadorMusicas.InsertarAnalisisMusical(SqlConnection conexion, Cancion cancion, ResultadoAnalisis analisis) en C:\Users\Jostin\source\repos\WinAppIA_BASEDATOS\WinAppIA_BASEDATOS\AnalizadorMusicas.cs:línea 258
+   en WinAppIA_BASEDATOS.AnalizadorMusicas.AnalizarYGuardarCancion(SqlConnection conexion, Cancion cancion) en C:\Users\Jostin\source\repos\WinAppIA_BASEDATOS\WinAppIA_BASEDATOS\AnalizadorMusicas.cs:línea 108
+02/12/2024 18:30:02: Error analizando Safari: Ya hay un DataReader abierto asociado a este Command, debe cerrarlo primero.
+Excepción detallada: Ya hay un DataReader abierto asociado a este Command, debe cerrarlo primero.
+Stack Trace:    en System.Data.SqlClient.SqlInternalConnectionTds.ValidateConnectionForExecute(SqlCommand command)
+   en System.Data.SqlClient.SqlConnection.ValidateConnectionForExecute(String method, SqlCommand command)
+   en System.Data.SqlClient.SqlCommand.ValidateCommand(String method, Boolean async)
+   en System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   en System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   en WinAppIA_BASEDATOS.AnalizadorMusicas.InsertarAnalisisMusical(SqlConnection conexion, Cancion cancion, ResultadoAnalisis analisis) en C:\Users\Jostin\source\repos\WinAppIA_BASEDATOS\WinAppIA_BASEDATOS\AnalizadorMusicas.cs:línea 258
+   en WinAppIA_BASEDATOS.AnalizadorMusicas.AnalizarYGuardarCancion(SqlConnection conexion, Cancion cancion) en C:\Users\Jostin\source\repos\WinAppIA_BASEDATOS\WinAppIA_BASEDATOS\AnalizadorMusicas.cs:línea 108
+02/12/2024 18:30:04: Error analizando Candy: Ya hay un DataReader abierto asociado a este Command, debe cerrarlo primero.
+Excepción detallada: Ya hay un DataReader abierto asociado a este Command, debe cerrarlo primero.
+Stack Trace:    en System.Data.SqlClient.SqlInternalConnectionTds.ValidateConnectionForExecute(SqlCommand command)
+   en System.Data.SqlClient.SqlConnection.ValidateConnectionForExecute(String method, SqlCommand command)
+   en System.Data.SqlClient.SqlCommand.ValidateCommand(String method, Boolean async)
+   en System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   en System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   en WinAppIA_BASEDATOS.AnalizadorMusicas.InsertarAnalisisMusical(SqlConnection conexion, Cancion cancion, ResultadoAnalisis analisis) en C:\Users\Jostin\source\repos\WinAppIA_BASEDATOS\WinAppIA_BASEDATOS\AnalizadorMusicas.cs:línea 258
+   en WinAppIA_BASEDATOS.AnalizadorMusicas.AnalizarYGuardarCancion(SqlConnection conexion, Cancion cancion) en C:\Users\Jostin\source\repos\WinAppIA_BASEDATOS\WinAppIA_BASEDATOS\AnalizadorMusicas.cs:línea 108
+02/12/2024 18:30:07: Error analizando Fanatica Sensual: Ya hay un DataReader abierto asociado a este Command, debe cerrarlo primero.
+Excepción detallada: Ya hay un DataReader abierto asociado a este Command, debe cerrarlo primero.
+Stack Trace:    en System.Data.SqlClient.SqlInternalConnectionTds.ValidateConnectionForExecute(SqlCommand command)
+   en System.Data.SqlClient.SqlConnection.ValidateConnectionForExecute(String method, SqlCommand command)
+   en System.Data.SqlClient.SqlCommand.ValidateCommand(String method, Boolean async)
+   en System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   en System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   en WinAppIA_BASEDATOS.AnalizadorMusicas.InsertarAnalisisMusical(SqlConnection conexion, Cancion cancion, ResultadoAnalisis analisis) en C:\Users\Jostin\source\repos\WinAppIA_BASEDATOS\WinAppIA_BASEDATOS\AnalizadorMusicas.cs:línea 258
+   en WinAppIA_BASEDATOS.AnalizadorMusicas.AnalizarYGuardarCancion(SqlConnection conexion, Cancion cancion) en C:\Users\Jostin\source\repos\WinAppIA_BASEDATOS\WinAppIA_BASEDATOS\AnalizadorMusicas.cs:línea 108
+02/12/2024 18:30:09: Error analizando Mi Vecinita: Ya hay un DataReader abierto asociado a este Command, debe cerrarlo primero.
+Excepción detallada: Ya hay un DataReader abierto asociado a este Command, debe cerrarlo primero.
+Stack Trace:    en System.Data.SqlClient.SqlInternalConnectionTds.ValidateConnectionForExecute(SqlCommand command)
+   en System.Data.SqlClient.SqlConnection.ValidateConnectionForExecute(String method, SqlCommand command)
+   en System.Data.SqlClient.SqlCommand.ValidateCommand(String method, Boolean async)
+   en System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   en System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   en WinAppIA_BASEDATOS.AnalizadorMusicas.InsertarAnalisisMusical(SqlConnection conexion, Cancion cancion, ResultadoAnalisis analisis) en C:\Users\Jostin\source\repos\WinAppIA_BASEDATOS\WinAppIA_BASEDATOS\AnalizadorMusicas.cs:línea 258
+   en WinAppIA_BASEDATOS.AnalizadorMusicas.AnalizarYGuardarCancion(SqlConnection conexion, Cancion cancion) en C:\Users\Jostin\source\repos\WinAppIA_BASEDATOS\WinAppIA_BASEDATOS\AnalizadorMusicas.cs:línea 108
+02/12/2024 18:30:11: Error analizando QUEVEDO: Ya hay un DataReader abierto asociado a este Command, debe cerrarlo primero.
+Excepción detallada: Ya hay un DataReader abierto asociado a este Command, debe cerrarlo primero.
+Stack Trace:    en System.Data.SqlClient.SqlInternalConnectionTds.ValidateConnectionForExecute(SqlCommand command)
+   en System.Data.SqlClient.SqlConnection.ValidateConnectionForExecute(String method, SqlCommand command)
+   en System.Data.SqlClient.SqlCommand.ValidateCommand(String method, Boolean async)
+   en System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   en System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   en WinAppIA_BASEDATOS.AnalizadorMusicas.InsertarAnalisisMusical(SqlConnection conexion, Cancion cancion, ResultadoAnalisis analisis) en C:\Users\Jostin\source\repos\WinAppIA_BASEDATOS\WinAppIA_BASEDATOS\AnalizadorMusicas.cs:línea 258
+   en WinAppIA_BASEDATOS.AnalizadorMusicas.AnalizarYGuardarCancion(SqlConnection conexion, Cancion cancion) en C:\Users\Jostin\source\repos\WinAppIA_BASEDATOS\WinAppIA_BASEDATOS\AnalizadorMusicas.cs:línea 108
+02/12/2024 18:30:13: Error analizando Back in Black: Ya hay un DataReader abierto asociado a este Command, debe cerrarlo primero.
+Excepción detallada: Ya hay un DataReader abierto asociado a este Command, debe cerrarlo primero.
+Stack Trace:    en System.Data.SqlClient.SqlInternalConnectionTds.ValidateConnectionForExecute(SqlCommand command)
+   en System.Data.SqlClient.SqlConnection.ValidateConnectionForExecute(String method, SqlCommand command)
+   en System.Data.SqlClient.SqlCommand.ValidateCommand(String method, Boolean async)
+   en System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   en System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   en WinAppIA_BASEDATOS.AnalizadorMusicas.InsertarAnalisisMusical(SqlConnection conexion, Cancion cancion, ResultadoAnalisis analisis) en C:\Users\Jostin\source\repos\WinAppIA_BASEDATOS\WinAppIA_BASEDATOS\AnalizadorMusicas.cs:línea 258
+   en WinAppIA_BASEDATOS.AnalizadorMusicas.AnalizarYGuardarCancion(SqlConnection conexion, Cancion cancion) en C:\Users\Jostin\source\repos\WinAppIA_BASEDATOS\WinAppIA_BASEDATOS\AnalizadorMusicas.cs:línea 108
+02/12/2024 18:30:18: Error analizando Call Me: Ya hay un DataReader abierto asociado a este Command, debe cerrarlo primero.
+Excepción detallada: Ya hay un DataReader abierto asociado a este Command, debe cerrarlo primero.
+Stack Trace:    en System.Data.SqlClient.SqlInternalConnectionTds.ValidateConnectionForExecute(SqlCommand command)
+   en System.Data.SqlClient.SqlConnection.ValidateConnectionForExecute(String method, SqlCommand command)
+   en System.Data.SqlClient.SqlCommand.ValidateCommand(String method, Boolean async)
+   en System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   en System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   en WinAppIA_BASEDATOS.AnalizadorMusicas.InsertarAnalisisMusical(SqlConnection conexion, Cancion cancion, ResultadoAnalisis analisis) en C:\Users\Jostin\source\repos\WinAppIA_BASEDATOS\WinAppIA_BASEDATOS\AnalizadorMusicas.cs:línea 258
+   en WinAppIA_BASEDATOS.AnalizadorMusicas.AnalizarYGuardarCancion(SqlConnection conexion, Cancion cancion) en C:\Users\Jostin\source\repos\WinAppIA_BASEDATOS\WinAppIA_BASEDATOS\AnalizadorMusicas.cs:línea 108
+02/12/2024 18:30:20: Error analizando I Was Made For Lovin: Ya hay un DataReader abierto asociado a este Command, debe cerrarlo primero.
+Excepción detallada: Ya hay un DataReader abierto asociado a este Command, debe cerrarlo primero.
+Stack Trace:    en System.Data.SqlClient.SqlInternalConnectionTds.ValidateConnectionForExecute(SqlCommand command)
+   en System.Data.SqlClient.SqlConnection.ValidateConnectionForExecute(String method, SqlCommand command)
+   en System.Data.SqlClient.SqlCommand.ValidateCommand(String method, Boolean async)
+   en System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   en System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   en WinAppIA_BASEDATOS.AnalizadorMusicas.InsertarAnalisisMusical(SqlConnection conexion, Cancion cancion, ResultadoAnalisis analisis) en C:\Users\Jostin\source\repos\WinAppIA_BASEDATOS\WinAppIA_BASEDATOS\AnalizadorMusicas.cs:línea 258
+   en WinAppIA_BASEDATOS.AnalizadorMusicas.AnalizarYGuardarCancion(SqlConnection conexion, Cancion cancion) en C:\Users\Jostin\source\repos\WinAppIA_BASEDATOS\WinAppIA_BASEDATOS\AnalizadorMusicas.cs:línea 108
+02/12/2024 18:30:23: Error analizando La Costa del Silencio: Ya hay un DataReader abierto asociado a este Command, debe cerrarlo primero.
+Excepción detallada: Ya hay un DataReader abierto asociado a este Command, debe cerrarlo primero.
+Stack Trace:    en System.Data.SqlClient.SqlInternalConnectionTds.ValidateConnectionForExecute(SqlCommand command)
+   en System.Data.SqlClient.SqlConnection.ValidateConnectionForExecute(String method, SqlCommand command)
+   en System.Data.SqlClient.SqlCommand.ValidateCommand(String method, Boolean async)
+   en System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   en System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   en WinAppIA_BASEDATOS.AnalizadorMusicas.InsertarAnalisisMusical(SqlConnection conexion, Cancion cancion, ResultadoAnalisis analisis) en C:\Users\Jostin\source\repos\WinAppIA_BASEDATOS\WinAppIA_BASEDATOS\AnalizadorMusicas.cs:línea 258
+   en WinAppIA_BASEDATOS.AnalizadorMusicas.AnalizarYGuardarCancion(SqlConnection conexion, Cancion cancion) en C:\Users\Jostin\source\repos\WinAppIA_BASEDATOS\WinAppIA_BASEDATOS\AnalizadorMusicas.cs:línea 108
+02/12/2024 18:30:26: Error analizando Smells Like Teen Spirit: Ya hay un DataReader abierto asociado a este Command, debe cerrarlo primero.
+Excepción detallada: Ya hay un DataReader abierto asociado a este Command, debe cerrarlo primero.
+Stack Trace:    en System.Data.SqlClient.SqlInternalConnectionTds.ValidateConnectionForExecute(SqlCommand command)
+   en System.Data.SqlClient.SqlConnection.ValidateConnectionForExecute(String method, SqlCommand command)
+   en System.Data.SqlClient.SqlCommand.ValidateCommand(String method, Boolean async)
+   en System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   en System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   en WinAppIA_BASEDATOS.AnalizadorMusicas.InsertarAnalisisMusical(SqlConnection conexion, Cancion cancion, ResultadoAnalisis analisis) en C:\Users\Jostin\source\repos\WinAppIA_BASEDATOS\WinAppIA_BASEDATOS\AnalizadorMusicas.cs:línea 258
+   en WinAppIA_BASEDATOS.AnalizadorMusicas.AnalizarYGuardarCancion(SqlConnection conexion, Cancion cancion) en C:\Users\Jostin\source\repos\WinAppIA_BASEDATOS\WinAppIA_BASEDATOS\AnalizadorMusicas.cs:línea 108
+02/12/2024 18:30:28: Error analizando Ayer y Hoy: Ya hay un DataReader abierto asociado a este Command, debe cerrarlo primero.
+Excepción detallada: Ya hay un DataReader abierto asociado a este Command, debe cerrarlo primero.
+Stack Trace:    en System.Data.SqlClient.SqlInternalConnectionTds.ValidateConnectionForExecute(SqlCommand command)
+   en System.Data.SqlClient.SqlConnection.ValidateConnectionForExecute(String method, SqlCommand command)
+   en System.Data.SqlClient.SqlCommand.ValidateCommand(String method, Boolean async)
+   en System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   en System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   en WinAppIA_BASEDATOS.AnalizadorMusicas.InsertarAnalisisMusical(SqlConnection conexion, Cancion cancion, ResultadoAnalisis analisis) en C:\Users\Jostin\source\repos\WinAppIA_BASEDATOS\WinAppIA_BASEDATOS\AnalizadorMusicas.cs:línea 258
+   en WinAppIA_BASEDATOS.AnalizadorMusicas.AnalizarYGuardarCancion(SqlConnection conexion, Cancion cancion) en C:\Users\Jostin\source\repos\WinAppIA_BASEDATOS\WinAppIA_BASEDATOS\AnalizadorMusicas.cs:línea 108
+02/12/2024 18:30:30: Error analizando Colapso: Ya hay un DataReader abierto asociado a este Command, debe cerrarlo primero.
+Excepción detallada: Ya hay un DataReader abierto asociado a este Command, debe cerrarlo primero.
+Stack Trace:    en System.Data.SqlClient.SqlInternalConnectionTds.ValidateConnectionForExecute(SqlCommand command)
+   en System.Data.SqlClient.SqlConnection.ValidateConnectionForExecute(String method, SqlCommand command)
+   en System.Data.SqlClient.SqlCommand.ValidateCommand(String method, Boolean async)
+   en System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   en System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   en WinAppIA_BASEDATOS.AnalizadorMusicas.InsertarAnalisisMusical(SqlConnection conexion, Cancion cancion, ResultadoAnalisis analisis) en C:\Users\Jostin\source\repos\WinAppIA_BASEDATOS\WinAppIA_BASEDATOS\AnalizadorMusicas.cs:línea 258
+   en WinAppIA_BASEDATOS.AnalizadorMusicas.AnalizarYGuardarCancion(SqlConnection conexion, Cancion cancion) en C:\Users\Jostin\source\repos\WinAppIA_BASEDATOS\WinAppIA_BASEDATOS\AnalizadorMusicas.cs:línea 108
+02/12/2024 18:30:30: Archivo no encontrado: C:\Users\Jostin\Music\MUSICA BD\Otro\Me enamoré de alguien que también se enamoró - ??????.mp3
+02/12/2024 18:30:32: Error analizando PROTECTION CHARM: Ya hay un DataReader abierto asociado a este Command, debe cerrarlo primero.
+Excepción detallada: Ya hay un DataReader abierto asociado a este Command, debe cerrarlo primero.
+Stack Trace:    en System.Data.SqlClient.SqlInternalConnectionTds.ValidateConnectionForExecute(SqlCommand command)
+   en System.Data.SqlClient.SqlConnection.ValidateConnectionForExecute(String method, SqlCommand command)
+   en System.Data.SqlClient.SqlCommand.ValidateCommand(String method, Boolean async)
+   en System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   en System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   en WinAppIA_BASEDATOS.AnalizadorMusicas.InsertarAnalisisMusical(SqlConnection conexion, Cancion cancion, ResultadoAnalisis analisis) en C:\Users\Jostin\source\repos\WinAppIA_BASEDATOS\WinAppIA_BASEDATOS\AnalizadorMusicas.cs:línea 258
+   en WinAppIA_BASEDATOS.AnalizadorMusicas.AnalizarYGuardarCancion(SqlConnection conexion, Cancion cancion) en C:\Users\Jostin\source\repos\WinAppIA_BASEDATOS\WinAppIA_BASEDATOS\AnalizadorMusicas.cs:línea 108
+02/12/2024 18:30:35: Error analizando Nothings New: Ya hay un DataReader abierto asociado a este Command, debe cerrarlo primero.
+Excepción detallada: Ya hay un DataReader abierto asociado a este Command, debe cerrarlo primero.
+Stack Trace:    en System.Data.SqlClient.SqlInternalConnectionTds.ValidateConnectionForExecute(SqlCommand command)
+   en System.Data.SqlClient.SqlConnection.ValidateConnectionForExecute(String method, SqlCommand command)
+   en System.Data.SqlClient.SqlCommand.ValidateCommand(String method, Boolean async)
+   en System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   en System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   en WinAppIA_BASEDATOS.AnalizadorMusicas.InsertarAnalisisMusical(SqlConnection conexion, Cancion cancion, ResultadoAnalisis analisis) en C:\Users\Jostin\source\repos\WinAppIA_BASEDATOS\WinAppIA_BASEDATOS\AnalizadorMusicas.cs:línea 258
+   en WinAppIA_BASEDATOS.AnalizadorMusicas.AnalizarYGuardarCancion(SqlConnection conexion, Cancion cancion) en C:\Users\Jostin\source\repos\WinAppIA_BASEDATOS\WinAppIA_BASEDATOS\AnalizadorMusicas.cs:línea 108
+02/12/2024 18:30:38: Error analizando Tu Boda: Ya hay un DataReader abierto asociado a este Command, debe cerrarlo primero.
+Excepción detallada: Ya hay un DataReader abierto asociado a este Command, debe cerrarlo primero.
+Stack Trace:    en System.Data.SqlClient.SqlInternalConnectionTds.ValidateConnectionForExecute(SqlCommand command)
+   en System.Data.SqlClient.SqlConnection.ValidateConnectionForExecute(String method, SqlCommand command)
+   en System.Data.SqlClient.SqlCommand.ValidateCommand(String method, Boolean async)
+   en System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   en System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   en WinAppIA_BASEDATOS.AnalizadorMusicas.InsertarAnalisisMusical(SqlConnection conexion, Cancion cancion, ResultadoAnalisis analisis) en C:\Users\Jostin\source\repos\WinAppIA_BASEDATOS\WinAppIA_BASEDATOS\AnalizadorMusicas.cs:línea 258
+   en WinAppIA_BASEDATOS.AnalizadorMusicas.AnalizarYGuardarCancion(SqlConnection conexion, Cancion cancion) en C:\Users\Jostin\source\repos\WinAppIA_BASEDATOS\WinAppIA_BASEDATOS\AnalizadorMusicas.cs:línea 108
+02/12/2024 18:30:40: Error analizando Que Nadie Sepa Mi Sufrir: Ya hay un DataReader abierto asociado a este Command, debe cerrarlo primero.
+Excepción detallada: Ya hay un DataReader abierto asociado a este Command, debe cerrarlo primero.
+Stack Trace:    en System.Data.SqlClient.SqlInternalConnectionTds.ValidateConnectionForExecute(SqlCommand command)
+   en System.Data.SqlClient.SqlConnection.ValidateConnectionForExecute(String method, SqlCommand command)
+   en System.Data.SqlClient.SqlCommand.ValidateCommand(String method, Boolean async)
+   en System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   en System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   en WinAppIA_BASEDATOS.AnalizadorMusicas.InsertarAnalisisMusical(SqlConnection conexion, Cancion cancion, ResultadoAnalisis analisis) en C:\Users\Jostin\source\repos\WinAppIA_BASEDATOS\WinAppIA_BASEDATOS\AnalizadorMusicas.cs:línea 258
+   en WinAppIA_BASEDATOS.AnalizadorMusicas.AnalizarYGuardarCancion(SqlConnection conexion, Cancion cancion) en C:\Users\Jostin\source\repos\WinAppIA_BASEDATOS\WinAppIA_BASEDATOS\AnalizadorMusicas.cs:línea 108
+02/12/2024 18:30:43: Error analizando Lost and Found: Ya hay un DataReader abierto asociado a este Command, debe cerrarlo primero.
+Excepción detallada: Ya hay un DataReader abierto asociado a este Command, debe cerrarlo primero.
+Stack Trace:    en System.Data.SqlClient.SqlInternalConnectionTds.ValidateConnectionForExecute(SqlCommand command)
+   en System.Data.SqlClient.SqlConnection.ValidateConnectionForExecute(String method, SqlCommand command)
+   en System.Data.SqlClient.SqlCommand.ValidateCommand(String method, Boolean async)
+   en System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   en System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   en WinAppIA_BASEDATOS.AnalizadorMusicas.InsertarAnalisisMusical(SqlConnection conexion, Cancion cancion, ResultadoAnalisis analisis) en C:\Users\Jostin\source\repos\WinAppIA_BASEDATOS\WinAppIA_BASEDATOS\AnalizadorMusicas.cs:línea 258
+   en WinAppIA_BASEDATOS.AnalizadorMusicas.AnalizarYGuardarCancion(SqlConnection conexion, Cancion cancion) en C:\Users\Jostin\source\repos\WinAppIA_BASEDATOS\WinAppIA_BASEDATOS\AnalizadorMusicas.cs:línea 108

@@ -1,0 +1,168 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Calculadora de Edad</title>
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.3.2/css/bootstrap.min.css" rel="stylesheet">
+    <style>
+        body {
+            background: linear-gradient(45deg, #845EC2, #D65DB1, #FF6F91, #FF9671, #FFC75F);
+            background-size: 400% 400%;
+            animation: gradient 15s ease infinite;
+            min-height: 100vh;
+            padding: 20px;
+        }
+
+        @keyframes gradient {
+            0% { background-position: 0% 50%; }
+            50% { background-position: 100% 50%; }
+            100% { background-position: 0% 50%; }
+        }
+
+        .main-container {
+            background: rgba(255, 255, 255, 0.95);
+            border-radius: 25px;
+            box-shadow: 0 8px 32px rgba(0, 0, 0, 0.1);
+            padding: 30px;
+            margin-top: 20px;
+            backdrop-filter: blur(10px);
+            border: 1px solid rgba(255, 255, 255, 0.2);
+        }
+
+        h1 {
+            color: #845EC2;
+            text-align: center;
+            margin-bottom: 30px;
+            font-weight: 800;
+            font-size: 2.5rem;
+            text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.1);
+        }
+
+        .input-container {
+            background: linear-gradient(135deg, #ffffff 0%, #f8f9fa 100%);
+            border-radius: 20px;
+            padding: 25px;
+            margin-bottom: 20px;
+            box-shadow: 0 4px 15px rgba(0, 0, 0, 0.05);
+            transition: transform 0.3s ease;
+        }
+
+        .result-container {
+            background: linear-gradient(135deg, #ffffff 0%, #f8f9fa 100%);
+            border-radius: 20px;
+            padding: 25px;
+            box-shadow: 0 4px 15px rgba(0, 0, 0, 0.05);
+        }
+
+        .result-item {
+            padding: 15px;
+            margin: 10px 0;
+            border-radius: 15px;
+            font-weight: 600;
+            transition: all 0.3s ease;
+        }
+
+        .age-result {
+            background: linear-gradient(45deg, #00F5A0, #00D9F5);
+            color: #006666;
+        }
+
+        .detail-result {
+            background: linear-gradient(45deg, #B5B9FF, #FFB86C);
+            color: #523E02;
+        }
+
+        .btn-calcular {
+            background: linear-gradient(45deg, #845EC2, #D65DB1);
+            border: none;
+            color: white;
+            padding: 15px 30px;
+            border-radius: 50px;
+            font-weight: 600;
+            transition: all 0.3s ease;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+        }
+
+        .btn-calcular:hover {
+            background: linear-gradient(45deg, #D65DB1, #845EC2);
+            transform: translateY(-2px);
+            box-shadow: 0 5px 15px rgba(132, 94, 194, 0.4);
+        }
+
+        .form-control {
+            border-radius: 15px;
+            padding: 12px 20px;
+            border: 2px solid #e0e0e0;
+            transition: all 0.3s ease;
+        }
+
+        .form-control:focus {
+            border-color: #845EC2;
+            box-shadow: 0 0 0 0.2rem rgba(132, 94, 194, 0.25);
+        }
+
+        h3 {
+            color: #845EC2;
+            font-weight: 700;
+            margin-bottom: 20px;
+        }
+
+        .info-text {
+            color: #666;
+            font-size: 0.9rem;
+            font-style: italic;
+            margin-top: 5px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="main-container">
+            <h1>🎂 Calculadora de Edad</h1>
+            
+            <div class="row">
+                <div class="col-md-6">
+                    <div class="input-container">
+                        <h3>Fecha de Nacimiento</h3>
+                        <div class="mb-3">
+                            <label for="fechaNacimiento" class="form-label">Seleccione su fecha de nacimiento:</label>
+                            <input 
+                                type="date" 
+                                class="form-control form-control-lg" 
+                                id="fechaNacimiento" 
+                                required
+                            >
+                            <div class="info-text">Ingrese una fecha válida</div>
+                        </div>
+                        <button 
+                            onclick="calcularEdad()" 
+                            class="btn btn-calcular btn-lg w-100">
+                            Calcular Edad
+                        </button>
+                    </div>
+                </div>
+
+                <div class="col-md-6">
+                    <div class="result-container">
+                        <h3>Resultados</h3>
+                        <div id="edadActual" class="result-item age-result">
+                            Edad: 0 años
+                        </div>
+                        <div id="meses" class="result-item detail-result">
+                            Meses: 0
+                        </div>
+                        <div id="dias" class="result-item detail-result">
+                            Días: 0
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.3.2/js/bootstrap.bundle.min.js"></script>
+    <script src="App1.js"></script>
+</body>
+</html>

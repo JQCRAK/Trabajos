@@ -1,0 +1,184 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{6CC7CEAD-0900-4AA8-A7E2-C8B87EB14703}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>WinAppEjercicioPresentacionG</RootNamespace>
+    <AssemblyName>WinAppEjercicioPresentacionG</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\..\Estructuras Alternativas Ejercicios\WinAppEjercicio10.3\WinAppEjercicio10.3\WinAppEjercicio10.3.csproj">
+      <Project>{48b89f2d-e6cd-42f5-bcd9-c6fee04e3690}</Project>
+      <Name>WinAppEjercicio10.3</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\Estructuras Alternativas Ejercicios\WinAppEjercicio11.4\WinAppEjercicio11.4\WinAppEjercicio11.4.csproj">
+      <Project>{33afc8de-8995-442c-8ff8-e382547ec4e2}</Project>
+      <Name>WinAppEjercicio11.4</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\Estructuras Alternativas Ejercicios\WinAppEjercicio12.5\WinAppEjercicio12.5\WinAppEjercicio12.5.csproj">
+      <Project>{dcadcdac-30bd-4314-847f-326a164704ca}</Project>
+      <Name>WinAppEjercicio12.5</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\Estructuras Alternativas Ejercicios\WinAppEjercicio13.6\WinAppEjercicio13.6\WinAppEjercicio13.6.csproj">
+      <Project>{c25e832f-7973-47f6-a836-cc70ae09be32}</Project>
+      <Name>WinAppEjercicio13.6</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\Estructuras Alternativas Ejercicios\WinAppEjercicio14.7.1\WinAppEjercicio14.7.1\WinAppEjercicio14.7.1.csproj">
+      <Project>{9f713a9e-fab9-4557-aa0f-f4c8843a5de7}</Project>
+      <Name>WinAppEjercicio14.7.1</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\Estructuras Alternativas Ejercicios\WinAppEjercicio8.1\WinAppEjercicio8.1\WinAppEjercicio8.1.csproj">
+      <Project>{929b9e6c-1c05-4416-a9f7-09635fea2cb8}</Project>
+      <Name>WinAppEjercicio8.1</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\Estructuras Alternativas Ejercicios\WinAppEjercicio9.2\WinAppEjercicio9.2\WinAppEjercicio9.2.csproj">
+      <Project>{9784f1f5-2ead-4a2a-9c33-d2b077e89ea4}</Project>
+      <Name>WinAppEjercicio9.2</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\Estructuras de Repetición Ejercicios\WinAppEjercicio15.1\WinAppEjercicio15.1\WinAppEjercicio15.1.csproj">
+      <Project>{ece8b6d2-97fc-4af5-9013-cafd5caf1ae0}</Project>
+      <Name>WinAppEjercicio15.1</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\Estructuras de Repetición Ejercicios\WinAppEjercicio16.2\WinAppEjercicio16.2\WinAppEjercicio16.2.csproj">
+      <Project>{87e95181-4163-40f1-b1ac-fd0c85450f75}</Project>
+      <Name>WinAppEjercicio16.2</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\Estructuras de Repetición Ejercicios\WinAppEjercicio17.3\WinAppEjercicio17.3\WinAppEjercicio17.3.csproj">
+      <Project>{554f1b2b-649c-4700-a8e9-aed4faed6062}</Project>
+      <Name>WinAppEjercicio17.3</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\Estructuras de Repetición Ejercicios\WinAppEjercicio18.4\WinAppEjercicio18.4\WinAppEjercicio18.4.csproj">
+      <Project>{59d68e95-7c9c-4a26-b257-8d4fdb7a37ec}</Project>
+      <Name>WinAppEjercicio18.4</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\Estructuras de Repetición Ejercicios\WinAppEjercicio19.5\WinAppEjercicio19.5\WinAppEjercicio19.5.csproj">
+      <Project>{9d607274-3c43-4099-b71e-f06e374c19b1}</Project>
+      <Name>WinAppEjercicio19.5</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\Estructuras de Repetición Ejercicios\WinAppEjercicio20.6\WinAppEjercicio20.6\WinAppEjercicio20.6.csproj">
+      <Project>{ffb5ee57-366e-4fe0-8d0f-222359419b65}</Project>
+      <Name>WinAppEjercicio20.6</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\Estructuras de Repetición Ejercicios\WinAppEjercicio21.7\WinAppEjercicio21.7\WinAppEjercicio21.7.csproj">
+      <Project>{5aabf882-4099-4f96-8472-6fc9d7fd8717}</Project>
+      <Name>WinAppEjercicio21.7</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\Estructuras Secuenciales Ejercicios\WinAppEjercicio1\WinAppEjercicio1\WinAppEjercicio1.csproj">
+      <Project>{36ed16b3-2bcd-4712-84a6-1ce42df25d23}</Project>
+      <Name>WinAppEjercicio1</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\Estructuras Secuenciales Ejercicios\WinAppEjercicio2\WinAppEjercicio2\WinAppEjercicio2.csproj">
+      <Project>{ef7b8635-36ad-43ac-9c4b-7163a0fc5b8b}</Project>
+      <Name>WinAppEjercicio2</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\Estructuras Secuenciales Ejercicios\WinAppEjercicio3\WinAppEjercicio3\WinAppEjercicio3.csproj">
+      <Project>{4cd0d741-7398-4ac9-b11f-a7e2728ed864}</Project>
+      <Name>WinAppEjercicio3</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\Estructuras Secuenciales Ejercicios\WinAppEjercicio4\WinAppEjercicio4\WinAppEjercicio4.csproj">
+      <Project>{f4aaf698-bf0d-4f44-8358-9f53bf769a5d}</Project>
+      <Name>WinAppEjercicio4</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\Estructuras Secuenciales Ejercicios\WinAppEjercicio5\WinAppEjercicio5\WinAppEjercicio5.csproj">
+      <Project>{b2714fa3-d3e5-4b4a-9563-dfe46c9e72fc}</Project>
+      <Name>WinAppEjercicio5</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\Estructuras Secuenciales Ejercicios\WinAppEjercicio6\WinAppEjercicio6\WinAppEjercicio6.csproj">
+      <Project>{2196a1be-3169-47f4-8316-5c53820c0985}</Project>
+      <Name>WinAppEjercicio6</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\Estructuras Secuenciales Ejercicios\WinAppEjercicio7\WinAppEjercicio7\WinAppEjercicio7.csproj">
+      <Project>{74a035e1-e63f-41ca-b2a2-afc948334a8b}</Project>
+      <Name>WinAppEjercicio7</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\Otros Ejercicios\WinAppEjercicio22.1\WinAppEjercicio22.1\WinAppEjercicio22.1.csproj">
+      <Project>{e22658bc-dce2-4fb1-b816-3469a78360bb}</Project>
+      <Name>WinAppEjercicio22.1</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\Otros Ejercicios\WinAppEjercicio23.2\WinAppEjercicio23.2\WinAppEjercicio23.2.csproj">
+      <Project>{2308b4fc-6052-4367-a2f5-33b23b2d3f60}</Project>
+      <Name>WinAppEjercicio23.2</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\Otros Ejercicios\WinAppEjercicio24.3\WinAppEjercicio24.3\WinAppEjercicio24.3.csproj">
+      <Project>{36463a78-6d79-4e42-b9ca-f023aa146a8b}</Project>
+      <Name>WinAppEjercicio24.3</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Connected Services\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

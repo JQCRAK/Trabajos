@@ -1,0 +1,24 @@
+C:\Users\Jostin\Documents\QUINTO\API I\Ejercicios de API  MEDIO CICLO\Otros\WinAppEjercicio22.1\WinAppEjercicio22.1\bin\Debug\WinAppEjercicio22.1.exe.config
+C:\Users\Jostin\Documents\QUINTO\API I\Ejercicios de API  MEDIO CICLO\Otros\WinAppEjercicio22.1\WinAppEjercicio22.1\bin\Debug\WinAppEjercicio22.1.exe
+C:\Users\Jostin\Documents\QUINTO\API I\Ejercicios de API  MEDIO CICLO\Otros\WinAppEjercicio22.1\WinAppEjercicio22.1\bin\Debug\WinAppEjercicio22.1.pdb
+C:\Users\Jostin\Documents\QUINTO\API I\Ejercicios de API  MEDIO CICLO\Otros\WinAppEjercicio22.1\WinAppEjercicio22.1\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\Jostin\Documents\QUINTO\API I\Ejercicios de API  MEDIO CICLO\Otros\WinAppEjercicio22.1\WinAppEjercicio22.1\obj\Debug\WinAppEjercicio22.1.csproj.AssemblyReference.cache
+C:\Users\Jostin\Documents\QUINTO\API I\Ejercicios de API  MEDIO CICLO\Otros\WinAppEjercicio22.1\WinAppEjercicio22.1\obj\Debug\WinAppEjercicio22._1.Form1.resources
+C:\Users\Jostin\Documents\QUINTO\API I\Ejercicios de API  MEDIO CICLO\Otros\WinAppEjercicio22.1\WinAppEjercicio22.1\obj\Debug\WinAppEjercicio22._1.Properties.Resources.resources
+C:\Users\Jostin\Documents\QUINTO\API I\Ejercicios de API  MEDIO CICLO\Otros\WinAppEjercicio22.1\WinAppEjercicio22.1\obj\Debug\WinAppEjercicio22.1.csproj.GenerateResource.cache
+C:\Users\Jostin\Documents\QUINTO\API I\Ejercicios de API  MEDIO CICLO\Otros\WinAppEjercicio22.1\WinAppEjercicio22.1\obj\Debug\WinAppEjercicio22.1.csproj.CoreCompileInputs.cache
+C:\Users\Jostin\Documents\QUINTO\API I\Ejercicios de API  MEDIO CICLO\Otros\WinAppEjercicio22.1\WinAppEjercicio22.1\obj\Debug\WinAppEj.94817B7D.Up2Date
+C:\Users\Jostin\Documents\QUINTO\API I\Ejercicios de API  MEDIO CICLO\Otros\WinAppEjercicio22.1\WinAppEjercicio22.1\obj\Debug\WinAppEjercicio22.1.exe
+C:\Users\Jostin\Documents\QUINTO\API I\Ejercicios de API  MEDIO CICLO\Otros\WinAppEjercicio22.1\WinAppEjercicio22.1\obj\Debug\WinAppEjercicio22.1.pdb
+C:\Users\Jostin\Documents\QUINTO\API I\Ejercicios de API  MEDIO CICLO\Otros Ejercicios\WinAppEjercicio22.1\WinAppEjercicio22.1\bin\Debug\WinAppEjercicio22.1.exe.config
+C:\Users\Jostin\Documents\QUINTO\API I\Ejercicios de API  MEDIO CICLO\Otros Ejercicios\WinAppEjercicio22.1\WinAppEjercicio22.1\bin\Debug\WinAppEjercicio22.1.exe
+C:\Users\Jostin\Documents\QUINTO\API I\Ejercicios de API  MEDIO CICLO\Otros Ejercicios\WinAppEjercicio22.1\WinAppEjercicio22.1\bin\Debug\WinAppEjercicio22.1.pdb
+C:\Users\Jostin\Documents\QUINTO\API I\Ejercicios de API  MEDIO CICLO\Otros Ejercicios\WinAppEjercicio22.1\WinAppEjercicio22.1\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\Jostin\Documents\QUINTO\API I\Ejercicios de API  MEDIO CICLO\Otros Ejercicios\WinAppEjercicio22.1\WinAppEjercicio22.1\obj\Debug\WinAppEjercicio22.1.csproj.AssemblyReference.cache
+C:\Users\Jostin\Documents\QUINTO\API I\Ejercicios de API  MEDIO CICLO\Otros Ejercicios\WinAppEjercicio22.1\WinAppEjercicio22.1\obj\Debug\WinAppEjercicio22._1.Form1.resources
+C:\Users\Jostin\Documents\QUINTO\API I\Ejercicios de API  MEDIO CICLO\Otros Ejercicios\WinAppEjercicio22.1\WinAppEjercicio22.1\obj\Debug\WinAppEjercicio22._1.Properties.Resources.resources
+C:\Users\Jostin\Documents\QUINTO\API I\Ejercicios de API  MEDIO CICLO\Otros Ejercicios\WinAppEjercicio22.1\WinAppEjercicio22.1\obj\Debug\WinAppEjercicio22.1.csproj.GenerateResource.cache
+C:\Users\Jostin\Documents\QUINTO\API I\Ejercicios de API  MEDIO CICLO\Otros Ejercicios\WinAppEjercicio22.1\WinAppEjercicio22.1\obj\Debug\WinAppEjercicio22.1.csproj.CoreCompileInputs.cache
+C:\Users\Jostin\Documents\QUINTO\API I\Ejercicios de API  MEDIO CICLO\Otros Ejercicios\WinAppEjercicio22.1\WinAppEjercicio22.1\obj\Debug\WinAppEj.94817B7D.Up2Date
+C:\Users\Jostin\Documents\QUINTO\API I\Ejercicios de API  MEDIO CICLO\Otros Ejercicios\WinAppEjercicio22.1\WinAppEjercicio22.1\obj\Debug\WinAppEjercicio22.1.exe
+C:\Users\Jostin\Documents\QUINTO\API I\Ejercicios de API  MEDIO CICLO\Otros Ejercicios\WinAppEjercicio22.1\WinAppEjercicio22.1\obj\Debug\WinAppEjercicio22.1.pdb
